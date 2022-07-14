@@ -1,0 +1,95 @@
+<h4>안녕하세요, {{nickname}}님.</h4>
+
+<p>{{companyName}}을 주문해 주셔서 매우 감사드립니다.</p>
+
+<p>고객님의 주문이 접수되어, 트럭 사업자/운전자가 공정한 계약을 위해 고객님께 연락드릴 예정입니다.</p>
+
+<p>주문 정보를 확인해 주시기 바랍니다.</p>
+<div>
+    <span>
+        서비스 종류:
+    </span>
+    <span>
+        {{serviceType}}
+    </span>
+</div>
+<div>
+    <span>
+        집화지 주소:
+    </span>
+    <span>
+        {{pickupAddress}}
+    </span>
+</div>
+<div>
+    <span>
+        배송지 주소:
+    </span>
+    <span>
+        {{dropOffAddress}}
+    </span>
+</div>
+{{#if containerSize includeZero=true}}
+<div>
+    <span>
+        컨테이너 크기:
+    </span>
+    <span>
+        {{containerSize}}
+    </span>
+</div>
+<div>
+    <span>
+        컨테이너 수량:
+    </span>
+    <span>
+        {{containerQuantity}}
+    </span>
+</div>
+<div>
+    <span>
+        컨테이너 유형:
+    </span>
+    <span>
+        {{containerType}}
+    </span>
+</div>
+{{/if}}
+{{#if truckType includeZero=true}}
+<div>
+    <span>
+        트럭 유형:
+    </span>
+    <span>
+        {{truckType}}
+    </span>
+</div>
+<div>
+    <span>
+        트럭 수량:
+    </span>
+    <span>
+        {{suggestedTruckQuantity}}
+    </span>
+</div>
+{{/if}}
+<div>
+    <span>
+        화물 상세:
+    </span>
+    <span>
+        {{cargoDescription}}
+    </span>
+</div>
+<div>
+    <span>
+        화물 유형:
+    </span>
+    <span>
+        {{cargoType}}
+    </span>
+</div>
+<p>변경 사항은, 웹사이트의 주문 관리 부분에서 변경해 주시기 바랍니다.</p>
+<p>궁금하신 사항은 아래 고객센터로 연락 주시면, 신속하게 답변을 드리겠습니다.</p>
+
+{{> footer }}

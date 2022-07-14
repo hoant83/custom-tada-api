@@ -1,0 +1,5 @@
+export enum TRUCK_STATUS {
+  UNVERIFIED,
+  PENDING,
+  VERIFIED,
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tada-translation",
+  "private_key_id": "d8df71e3248fa720c8eda26136624cbb5d6ae78c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgjpwlXhCNJGBJ\n1M4OIKVSV9EHCHeCTrLCZgQ6iAsmEnVnhkIYFWucqdWgAqQK9ElmVrxYmbLcmwk0\nEeSlKZbrIoa6Sqw8Jg6mQWtmf6GZsz9nf6OvtgNXc9vwarbkIFXA2ugUOQoVRoax\nFedANIDmWa2rOMPiKsfV5dmiW4DUXnOrBFUB3Ai2uo44OsbwchOYvna/4FyN9O1J\n1Ejp061mpPX5YSKpRauTdv4AOHmiph41w/X0Gol/ee/Hfj2YITPP+Zd0p4UjMawl\n8ndHoC1QQWbC2IahXnpYRinFaSb4w0joH9MEeXmQ/BPMTpO4isDElSTa4MJ1I7Jm\n7dUxHtlXAgMBAAECggEAM/k98bYmTYykTqJW+NUcfoT9x8txYbMWU8Ep7GQtdGfk\nTYw5Avr+N7nlTE4gKrrkvC+KE1WrnLyzch5MFeAc4ppQpZB/8cH7NQbCNWyH+huP\nKsTTnWkat+SEfM4uO3myb1sbSQb0qvzyUs1XgzhDt0z9UbpnOBMfwoWbDCVymXQ9\n0mTRWcKRwQE9mXEBFrD2JIXS6cjxqI1LM0wDmnjzhVGXl3I4ZHLPMWH2hrzqwDAU\ny2ubIqNz4nkfptIsxCh9z0PvoAUW4XzcfAJCkzgYtbZ9XSPi5xrYFtkfAhUS5HvW\nSyMD7ec17s5PGJ6Qn+bVOAbW0xIT3RPiir4A/lzGoQKBgQD+Q1500hDnO35BP+dj\nvc3b8x/a1D3aRkBsTbZ8Q4U4rsDa8kOAr+Cj+TE8/5VJG5mJ2cGrujbXtFNE/XUI\n+sii2XhhjtC+hYJiJOAju2XkYAlz/WqopQ0lqZr+tu2SQTidmleHE+fW/kmIHSUH\ncadp3VWfVFZI/PS2zvnlKvVt4QKBgQDiF0s3Y6ZQLdQzeV/klSkcPSR++5yCk1UE\neyeuwIp84dzITdv1UZ2+JFMJp6mWDuvA/8+mOjeQlKnKoPXHTfol4caI9Yfx1jxZ\nIv2KcwKq7g4O4LcWbmCVmu1lcqWWoaxtVOY6HnA88onOV2pnB53YltPuxcXF8gGs\nm0+GiT/+NwKBgQC4vTgnBu4TJA3S2NyFgsXM1rRBac5bBooOZtR9Kw3jpk0nh7h2\nCtPcL9WPrV/JU41WNGpcHJt2VGXgDYv4b0ZR1FJ8B6kxlI2sQ4C7VZBtwz17Ehhp\n2ipYQAgGo+CvUEYTdK29zj+33OCOTia2ZuStrYxljIB43ZnsLSwyTukt4QKBgFza\n/EVPY+riJ5jMbJnQuQWkBu0wIWNvZydj/TREV5xalvadI41pa8O/32rDtV6v2ht1\n9K5sko2KwQE7gjXMzMPqKkPts1ubhUWGnWLTQXE6PAPYPtmzk29eJcnYgDGRTOPK\nTpPoFGizo+1e8ZBHDIj7ySbzivp1HkLptoumquWZAoGBAJi2M9QcOVKbwoys/PoA\n0lAK27Mg9kzoXL43r7Fzlqc4UJKgk0DOVV78UMwIHZVzczwN3oUKNEdKcASHqfWC\nQaV5PhVtr58+V03N3qF5R5ujDKbJh135CxG49C9/1Pvnl7lYRi6TXvzW9hH+dWGm\nEMz0OLtMXEatO8nhoeUPxgzu\n-----END PRIVATE KEY-----\n",
+  "client_email": "tada-translation@tada-translation.iam.gserviceaccount.com",
+  "client_id": "100820426925805433570",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tada-translation%40tada-translation.iam.gserviceaccount.com"
+}

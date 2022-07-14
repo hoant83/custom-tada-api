@@ -1,0 +1,4532 @@
+{
+    "VALIDATE.EMAIL": {
+        "en": "Please enter a valid email address (Ex: johndoe@domain.com)",
+        "kr": "유효한 메일 주소를 입력하세요. (예: johndoe@domain.com)",
+        "vi": "Vui lòng nhập một địa chỉ email hợp lệ (ví dụ: johndoe@domain.com)."
+    },
+    "VALIDATE.REQUIRED": {
+        "en": "This is a required field",
+        "kr": "필수 입력란입니다.",
+        "vi": "Đây là thông tin bắt buộc."
+    },
+    "VALIDATE.LOGIN": {
+        "en": "The account sign-in was incorrect",
+        "kr": "로그인 계정이 올바르지 않습니다.",
+        "vi": "Tài khoản đăng nhập không đúng"
+    },
+    "VALIDATE.CONFIRM_PASSWORD": {
+        "en": "Please enter the same value again",
+        "kr": "다시 한번 입력해 주세요.",
+        "vi": "Vui lòng nhập lại mật khẩu lần nữa"
+    },
+    "VALIDATE.PHONE": {
+        "en": "Phone number is not valid",
+        "kr": "잘못된 전화번호 입니다.",
+        "vi": "Số điện thoại không hợp lệ"
+    },
+    "VALIDATE.NUMBER": {
+        "en": "Please enter numbers",
+        "kr": "숫자를 입력하세요.",
+        "vi": "Vui lòng nhập số"
+    },
+    "ACCOUNT.LOGIN_TITLE": {
+        "en": "Log in",
+        "kr": "로그인",
+        "vi": "Đăng nhập"
+    },
+    "ACCOUNT.LOGIN_WELCOME": {
+        "en": "Welcome!",
+        "kr": "환영합니다!",
+        "vi": "Chào mừng bạn!"
+    },
+    "ACCOUNT.CREATE_TITLE": {
+        "en": "Sign up",
+        "kr": "가입",
+        "vi": "Đăng ký"
+    },
+    "ACCOUNT.CREATENEW_TITLE": {
+        "en": "Create New Account",
+        "kr": "새로운 계정 생성",
+        "vi": "Tạo mới tài khoản"
+    },
+    "ACCOUNT.EDIT_TITLE": {
+        "en": "Edit Account",
+        "kr": "계정 변경",
+        "vi": "Chỉnh sửa tài khoản"
+    },
+    "ACCOUNT.MANAGE_TITLE": {
+        "en": "Manage Accounts",
+        "kr": "계정 관리",
+        "vi": "Quản lý tài khoản"
+    },
+    "ACCOUNT.RESETPASSWORD_TITLE": {
+        "en": "Reset your password",
+        "kr": "비밀번호를 변경해 주세요.",
+        "vi": "Cài đặt lại mật khẩu"
+    },
+    "ACCOUNT.SETPASSWORD_TITLE": {
+        "en": "Set your password",
+        "kr": "비밀번호를 설정하세요.",
+        "vi": "Cài đặt mật khẩu"
+    },
+    "ACCOUNT.FORGOT_TITLE": {
+        "en": "Forgot password?",
+        "kr": "비밀번호를 잊으셨습니까?",
+        "vi": "Quên mật khẩu?"
+    },
+    "ACCOUNT.EMAIL": {
+        "en": "User email",
+        "kr": "이메일",
+        "vi": "Email người dùng"
+    },
+    "ACCOUNT.PASSWORD": {
+        "en": "Password",
+        "kr": "비밀번호",
+        "vi": "Mật khẩu"
+    },
+    "ACCOUNT.REMEMBERME": {
+        "en": "Remember me",
+        "kr": "기억해 주세요.",
+        "vi": "Ghi nhớ tôi"
+    },
+    "ACCOUNT.CONFIRM_PASSWORD": {
+        "en": "Confirm Password",
+        "kr": "비밀번호 확인",
+        "vi": "Xác nhận mật khẩu"
+    },
+    "ACCOUNT.PHONE": {
+        "en": "Phone number (optional)",
+        "kr": "전화 번호 (선택)",
+        "vi": "Số điện thoại (tùy chọn)"
+    },
+    "ACCOUNT.PHONE_REQUIRED": {
+        "en": "Phone number",
+        "kr": "전화 번호",
+        "vi": "Số điện thoại"
+    },
+    "ACCOUNT.CUSTOMER_TYPE": {
+        "en": "Choose your Type",
+        "kr": "유형 선택",
+        "vi": "Chọn loại tài khoản"
+    },
+    "ACCOUNT.FIRST_NAME": {
+        "en": "First name",
+        "kr": "이름",
+        "vi": "Họ"
+    },
+    "ACCOUNT.LAST_NAME": {
+        "en": "Last name",
+        "kr": "성",
+        "vi": "Tên"
+    },
+    "ACCOUNT.VERIFIED_STATUS": {
+        "en": "Verified status",
+        "kr": "인증 상태",
+        "vi": "Trạng thái xác thực"
+    },
+    "ACCOUNT.LINK_FORGOTPASSWORD": {
+        "en": "Forgot password?",
+        "kr": "비밀번호를 잊으셨습니까?",
+        "vi": "Quên mật khẩu?"
+    },
+    "ACCOUNT.STATUS": {
+        "en": "Status",
+        "kr": "상태",
+        "vi": "Trạng thái"
+    },
+    "ACCOUNT.TYPE": {
+        "en": "Role",
+        "kr": "유형",
+        "vi": "Phân quyền"
+    },
+    "ACCOUNT.THANKYOU": {
+        "en": "Thank you!",
+        "kr": "감사합니다!",
+        "vi": "Cám ơn!"
+    },
+    "ACCOUNT.THANKYOU_CREATED": {
+        "en": "Your account has been created successfully",
+        "kr": "계정이 성공적으로 생성되었습니다.",
+        "vi": "Tài khoản đã được tạo thành công"
+    },
+    "ACCOUNT.THANKYOU_CREATEDNOTE": {
+        "en": "Please check your email to verify your account",
+        "kr": "계정 인증 작업을 위해 이메일을 확인해 주세요.",
+        "vi": "Vui lòng kiểm tra email để xác thực tài khoản của bạn"
+    },
+    "ACCOUNT.THANKYOU_RESETPW": {
+        "en": "A reset password link has been sent to your email address",
+        "kr": "비밀번호 변경이 가능한 링크가 이메일로 전송되었습니다.",
+        "vi": "Một url đặt lại mật khẩu đã được gửi tới địa chỉ email của bạn"
+    },
+    "ACCOUNT.THANKYOU_RESETPWNOTE": {
+        "en": "Please check your mail",
+        "kr": "이메일을 확인해주세요.",
+        "vi": "Vui lòng kiểm tra email"
+    },
+    "ACCOUNT.VERIFIED_PAGETITLE": {
+        "en": "Account Verification",
+        "kr": "계정 인증",
+        "vi": "Xác thực tài khoản"
+    },
+    "ACCOUNT.VERIFIED_TITLE": {
+        "en": "Thank you!",
+        "kr": "감사합니다!",
+        "vi": "Cám ơn!"
+    },
+    "ACCOUNT.VERIFIED_MESSAGE": {
+        "en": "Your account has been verified",
+        "kr": "계정 인증 작업이 성공적으로 이루어졌습니다.",
+        "vi": "Tài khoản của bạn đã được xác thực"
+    },
+    "ACCOUNT.VERIFIED_MOREINFO": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "ACCOUNT.SELECT_ALL": {
+        "en": "All",
+        "kr": "모두 선택",
+        "vi": "Tất cả"
+    },
+    "ACCOUNT.SELECT": {
+        "en": "Select ...",
+        "kr": "선택",
+        "vi": "Chọn ..."
+    },
+    "ACCOUNT.MESSAGE_REQUIRED": {
+        "en": "Message",
+        "kr": "메시지",
+        "vi": "Tin nhắn"
+    },
+    "MENU.ACCOUNT_SETUP": {
+        "en": "Account Setup",
+        "kr": "계정 설정",
+        "vi": "Quản lý tài khoản"
+    },
+    "MENU.NEW_ORDER": {
+        "en": "New order",
+        "kr": "새로운 주문",
+        "vi": "Tạo đơn hàng"
+    },
+    "MENU.MANAGE_ORDERS": {
+        "en": "Manage orders",
+        "kr": "주문 관리",
+        "vi": "Quản lý đơn hàng"
+    },
+    "MENU.MANAGE_PAYMENTS": {
+        "en": "Manage payments",
+        "kr": "결제 관리",
+        "vi": "Quản lý thanh toán"
+    },
+    "MENU.MY_JOBS": {
+        "en": "My Jobs",
+        "kr": "내 작업",
+        "vi": "Đơn hàng của tôi"
+    },
+    "MENU.TERM_CONDITIONS": {
+        "en": "Terms & Conditions",
+        "kr": "약관",
+        "vi": "Điều khoản sử dụng"
+    },
+    "MENU.REPORTS": {
+        "en": "Reports",
+        "kr": "리포트",
+        "vi": "Báo cáo"
+    },
+    "MENU.MANAGE_NEWORDER": {
+        "en": "New order",
+        "kr": "새로운 주문",
+        "vi": "Đơn hàng mới"
+    },
+    "MENU.TRUCKOWNER_MANAGE_ORDERS": {
+        "en": "Manage orders",
+        "kr": "주문 관리",
+        "vi": "Đơn hàng đã nhận"
+    },
+    "MENU.QUOTATION": {
+        "en": "View price quotation",
+        "kr": "View price quotation",
+        "vi": "Xem báo giá"
+    },
+    "TOPMENU.FAQ": {
+        "en": "FAQ",
+        "kr": "FAQ",
+        "vi": "Câu hỏi thường gặp"
+    },
+    "TOPMENU.NOTIFICATION": {
+        "en": "Notification",
+        "kr": "알림",
+        "vi": "Thông báo"
+    },
+    "TOPMENU.WELCOME": {
+        "en": "Welcome",
+        "kr": "환영합니다",
+        "vi": "Chào"
+    },
+    "STATUS.UNVERIFIED": {
+        "en": "Not verified",
+        "kr": "미인증",
+        "vi": "Chưa xác thực"
+    },
+    "STATUS.VERIFIED": {
+        "en": "Verified",
+        "kr": "인증 완료",
+        "vi": "Xác thực"
+    },
+    "STATUS.PENDING": {
+        "en": "Pending",
+        "kr": "대기",
+        "vi": "Đang chờ xác thực"
+    },
+    "USER_STATUS.ACTIVE": {
+        "en": "Active",
+        "kr": "활성화 상태",
+        "vi": "Đang hoạt động"
+    },
+    "USER_STATUS.INACTIVE": {
+        "en": "Inactive",
+        "kr": "비활성화 상태",
+        "vi": "Ngưng hoạt động"
+    },
+    "PAGING.FIRST": {
+        "en": "First",
+        "kr": "처음",
+        "vi": "Về đầu"
+    },
+    "PAGING.LAST": {
+        "en": "Last",
+        "kr": "마지막",
+        "vi": "Cuối"
+    },
+    "PAGING.NEXT": {
+        "en": "Next",
+        "kr": "다음",
+        "vi": "kế tiếp"
+    },
+    "PAGING.PREV": {
+        "en": "Previous",
+        "kr": "이전",
+        "vi": "trước"
+    },
+    "PAGING.AMOUNT": {
+        "en": "record(s) found",
+        "kr": "검색된 목록",
+        "vi": "mẩu được tìm thấy"
+    },
+    "PAGING.PER_PAGE": {
+        "en": "per page",
+        "kr": "페이지",
+        "vi": "trên trang"
+    },
+    "CUSTOMER.ACCOUNT_SETUP": {
+        "en": "Account setup",
+        "kr": "계정 설정",
+        "vi": "Thiết lập tài khoản"
+    },
+    "CUSTOMER.ACCOUNT_INFO": {
+        "en": "Account information",
+        "kr": "계정 정보",
+        "vi": "Thông tin tài khoản"
+    },
+    "CUSTOMER.NEW_TYPE_LABEL": {
+        "en": "Customer Type",
+        "kr": "고객 유형",
+        "vi": "Loại khách hàng"
+    },
+    "CUSTOMER.TYPE_LABEL": {
+        "en": "Account type",
+        "kr": "계정 유형",
+        "vi": "Loại tài khoản"
+    },
+    "CUSTOMER.TYPE_COMPANY": {
+        "en": "Company",
+        "kr": "회사",
+        "vi": "Công ty"
+    },
+    "CUSTOMER.TYPE_INDIVIDUAL": {
+        "en": "Individual",
+        "kr": "개인",
+        "vi": "Cá nhân"
+    },
+    "CUSTOMER.TYPE_CORPORATE": {
+        "en": "Corporate",
+        "kr": "회사",
+        "vi": "Công ty"
+    },
+    "CUSTOMER.TYPE_LOGISTIC_FORWARDER": {
+        "en": "Logistic/Forwarder",
+        "kr": "Logistic/Forwarder",
+        "vi": "Logistic/Forwarder"
+    },
+    "CUSTOMER.BUSINESS_PARTNER": {
+        "en": "Business partner",
+        "kr": "비즈니스 파트너",
+        "vi": "Đối tác kinh doanh/nhượng quyền"
+    },
+    "CUSTOMER.STATUS": {
+        "en": "Status",
+        "kr": "상태",
+        "vi": "Trạng thái"
+    },
+    "CUSTOMER.STATUS_LABEL": {
+        "en": "Account Status",
+        "kr": "계정 상태",
+        "vi": "Trạng thái"
+    },
+    "CUSTOMER.EMAIL_STATUS_LABEL": {
+        "en": "Email verify Status",
+        "kr": "이메일 인증 상태",
+        "vi": "Trạng thái email"
+    },
+    "CUSTOMER.PHONE_STATUS_LABEL": {
+        "en": "Phone verify Status",
+        "kr": "전화 확인 상태",
+        "vi": "Trạng thái số điện thoại"
+    },
+    "CUSTOMER.STATUS_LABELNOTE": {
+        "en": "Please upload ID Card and/or Company Business License No to have account verified",
+        "kr": "계정 인증을 위해 신분증을 업로드 하시고 기업등록증 번호를 입력해 주세요.",
+        "vi": "Hãy tải lên bản chụp CMND hoặc giấy phép KD công ty để xác thực tài khoản"
+    },
+    "CUSTOMER.ADMIN_NAME": {
+        "en": "Owner's Name",
+        "kr": "관리자명",
+        "vi": "Tên chủ tài khoản"
+    },
+    "CUSTOMER.ADMIN_EMAIL": {
+        "en": "Owner's Email",
+        "kr": "관리자 이메일",
+        "vi": "Email chủ tài khoản"
+    },
+    "CUSTOMER.ADMIN_CONTACTNO": {
+        "en": "Owner's Contact NO",
+        "kr": "관리자 연락처",
+        "vi": "ĐT chủ tài khoản"
+    },
+    "CUSTOMER.ADMIN_CARDNO": {
+        "en": "Owner's ID Card NO",
+        "kr": "관리자 신분증 번호",
+        "vi": "CMND"
+    },
+    "CUSTOMER.ADMIN_CARDFRONT": {
+        "en": "Upload Owner's ID Card (front)",
+        "kr": "관리자 신분증 앞면 업로드",
+        "vi": "Tải CMND (mặt trước)"
+    },
+    "CUSTOMER.ADMIN_CARDBACK": {
+        "en": "Upload Owner's ID Card (back)",
+        "kr": "관리자 신분증 뒷면 업로드",
+        "vi": "Tải CMND (mặt sau)"
+    },
+    "CUSTOMER.ADMIN_PROFILE_IMG": {
+        "en": "Upload Owner's Profile image",
+        "kr": "관리자 프로필 이미지 업로드",
+        "vi": "Tải ảnh đại diện"
+    },
+    "CUSTOMER.EMPLOYEE_TITLE": {
+        "en": "Employee Accounts",
+        "kr": "직원 계정",
+        "vi": "Tài khoản nhân viên"
+    },
+    "CUSTOMER.NAME": {
+        "en": "Name",
+        "kr": "이름",
+        "vi": "Tên"
+    },
+    "CUSTOMER.YOUR_EMAIL": {
+        "en": "Your Email",
+        "kr": "이메일",
+        "vi": "Email"
+    },
+    "CUSTOMER.EMAIL": {
+        "en": "Owner Email",
+        "kr": "이메일",
+        "vi": "Email"
+    },
+    "CUSTOMER.PHONE": {
+        "en": "Phone",
+        "kr": "전화번호",
+        "vi": "Điện thoại"
+    },
+    "CUSTOMER.FAVOURITE_TRUCK": {
+        "en": "Favourite truck operators",
+        "kr": "좋아하는 트럭 사업자",
+        "vi": "Công ty vận tải yêu thích"
+    },
+    "CUSTOMER.FAVOURITE_TRUCKINFO": {
+        "en": "Add your own favourite truck operators if you have good experiences and want them to deliver your goods. Once set up, your orders will be dispatched <b>ONLY</b> to these favourite truck operators. If you want to dispatch order to all available truck operators, just click Reset button to remove all the favourite truck operators.",
+        "kr": "지난 주문에서 마음에 드는 트럭 사업자가 있었다면 \"좋아하는 트럭 사업자\"에 추가하십시오. 추가가 완료된 후 주문 생성시 \"좋아하는 트럭 사업자\"에게만 알림이 가도록 설정할 수 있습니다. 사용 가능한 모든 트럭 사업자에게 주문을 발송하려면 변경 버튼을 클릭하여 \"좋아하는 트럭 사업자\"에 클릭 버튼을 없애주시면 됩니다.",
+        "vi": "Thêm các công ty vận tải yêu thích vào danh sách nếu bạn đã có kinh nghiệm tốt khi làm việc cùng họ. Chú ý là các đơn hàng của bạn sẽ CHỈ được gửi đến cho các công ty trong danh sách mà thôi. Nếu bạn muốn đơn hàng được gửi đến tất cả các công ty trong hệ thống, hãy nhấn nút Huỷ thiết lập để xóa tất cả danh sách công ty yêu thích."
+    },
+    "CUSTOMER.PLACEHOLDER_FAVOURITE": {
+        "en": "Enter Truck owner's Partner ID",
+        "kr": "트럭 사업자의 파트너 ID를 입력해 주세요.",
+        "vi": "Nhập Mã đối tác của công ty vận tải"
+    },
+    "CUSTOMER.FAVOURITE_PARTNERNOTE": {
+        "en": "You can find Truck owner's Partner ID in Manage Order - View Truck Operator. Or simple call TADA to get the Partner ID for any trucj operator that you wish to add.",
+        "kr": "주문 관리 - 트럭 사업자 보기 에서 트럭 사업자의 파트너 ID를 찾을 수 있습니다. 또는 TADA에 전화하시면 추가를 원하는 트럭 사업자의 파트너 ID를 알 수 있습니다.",
+        "vi": "Bạn có thể tìm thấy Mã đối tác của công ty vận tải trong Quản lý đơn hàng - Xem chủ xe. Hoặc đơn giản gọi cho TADA để lấy Mã đối tác cho bất kì công ty vận tải nào mà bạn muốn thêm."
+    },
+    "CUSTOMER.FAVOURITE_NOTE": {
+        "en": "You can find Truck owner's Partner ID in Manage Order - View Truck Operator. Or simple call TADA to get the Partner ID for any truck operator that you wish to add.",
+        "kr": "주문 관리 - 트럭 사업자 보기 에서 트럭 사업자의 파트너 ID를 찾을 수 있습니다. 또는 TADA에 전화하시면 추가를 원하는 트럭 사업자의 파트너 ID를 알 수 있습니다.",
+        "vi": "Bạn có thể tìm thấy Mã đối tác của công ty vận tải trong Quản lý đơn hàng - Xem chủ xe. Hoặc đơn giản gọi cho TADA để lấy Mã đối tác cho bất kì công ty vận tải nào mà bạn muốn thêm."
+    },
+    "CUSTOMER.OWNER": {
+        "en": "Owner",
+        "kr": "소유자",
+        "vi": "Chủ tài khoản"
+    },
+    "CUSTOMER.ROLE_LABEL": {
+        "en": "Account type",
+        "kr": "계정 유형",
+        "vi": "Phân quyền"
+    },
+    "CUSTOMER.ROLE_OWNER": {
+        "en": "Owner",
+        "kr": "소유자",
+        "vi": "Chủ tài khoản"
+    },
+    "CUSTOMER.ROLE_ADMIN": {
+        "en": "Manager",
+        "kr": "관리자",
+        "vi": "Tài khoản Quản lý"
+    },
+    "CUSTOMER.ROLE_EXECUTIVE": {
+        "en": "Staff",
+        "kr": "실무자",
+        "vi": "Tài khoản Nhân viên"
+    },
+    "CUSTOMER.TRUCKOWNER_NAME": {
+        "en": "Name",
+        "kr": "이름",
+        "vi": "Công ty"
+    },
+    "CUSTOMER.FAVOURITE_NEW": {
+        "en": "Add new favourite truck company",
+        "kr": "선호하는 트럭 회사 추가",
+        "vi": "Thêm công ty yêu thích"
+    },
+    "CUSTOMER.NEW_TITLE": {
+        "en": "New Customer",
+        "kr": "새로운 고객",
+        "vi": "Tạo mới tài khoản"
+    },
+    "CUSTOMER.EDIT_TITLE": {
+        "en": "Edit Customer",
+        "kr": "고객 변경",
+        "vi": "Chỉnh sửa tài khoản"
+    },
+    "CUSTOMER.MANAGE_TITLE": {
+        "en": "Manage Customers",
+        "kr": "고객 관리",
+        "vi": "Quản lý tài khoản"
+    },
+    "CUSTOMER.FORGOT_MESSAGE": {
+        "en": "Please input your email address (that you register with TADA Truck) to reset your password",
+        "kr": "비밀번호를 변경하기 위해 기존에 등록하신 이메일 주소를 입력해 주세요.",
+        "vi": "Vui lòng nhập email mà bạn đã đăng ký với TADA Truck để thiết lập lại mật khẩu của bạn"
+    },
+    "CUSTOMER.PARTNER_ID": {
+        "en": "Partner Id",
+        "kr": "파트너 ID",
+        "vi": "Mã đối tác"
+    },
+    "CUSTOMER.EMPLOYEE_ADD_TITLE": {
+        "en": "Add New Employee",
+        "kr": "직원 추가",
+        "vi": "Thêm mới nhân viên"
+    },
+    "CUSTOMER.EMPLOYEE_EDIT_TITLE": {
+        "en": "Edit Employee",
+        "kr": "직원 변경",
+        "vi": "Chỉnh sửa thông tin nhân viên"
+    },
+    "CUSTOMER.MANAGE_RESTORE_TITLE": {
+        "en": "Manage Deleted Customers",
+        "kr": "삭제된 고객 관리",
+        "vi": "Quản lý tài khoản khách hàng đã xóa"
+    },
+    "CUSTOMER.TRUCK_OPERATOR": {
+        "en": "Truck operator",
+        "kr": "트럭 관리자",
+        "vi": "Tài xế"
+    },
+    "COMPANY.LABEL": {
+        "en": "Company Info",
+        "kr": "회사 정보",
+        "vi": "Thông tin về  công ty"
+    },
+    "COMPANY.SUBTAB_TITLE": {
+        "en": "Company Information",
+        "kr": "회사 정보",
+        "vi": "Thông tin về  công ty"
+    },
+    "COMPANY.NAME": {
+        "en": "Company Name",
+        "kr": "회사명",
+        "vi": "Tên công ty"
+    },
+    "COMPANY.PHONE": {
+        "en": "Company Contact NO",
+        "kr": "회사 연락처",
+        "vi": "ĐT công ty"
+    },
+    "COMPANY.ADDRESS": {
+        "en": "Company Address",
+        "kr": "회사 주소",
+        "vi": "Địa chỉ"
+    },
+    "COMPANY.BUSINESS_LICENSENO": {
+        "en": "Business License No",
+        "kr": "기업등록증 번호",
+        "vi": "Mã số doanh nghiệp"
+    },
+    "COMPANY.ICON": {
+        "en": "Upload Company Icon",
+        "kr": "회사 로고 업로드",
+        "vi": "Tải logo công ty"
+    },
+    "COMPANY.BUSINESS_LICENSE": {
+        "en": "Upload Business License",
+        "kr": "기업등록증 업로드",
+        "vi": "Tải giấy phép KD"
+    },
+    "COMPANY.CONTACT_PERSON": {
+        "en": "Contact Person",
+        "kr": "담당자",
+        "vi": "Người liên lạc"
+    },
+    "COMPANY.CONTACT_EMAIL": {
+        "en": "Contact Email",
+        "kr": "이메일",
+        "vi": "Email liên lạc"
+    },
+    "COMPANY.CONTACT_PHONE": {
+        "en": "Contact NO",
+        "kr": "연락처",
+        "vi": "ĐT liên lạc"
+    },
+    "COMPANY.NEW_TITLE": {
+        "en": "New Company",
+        "kr": "새로운 회사",
+        "vi": "Thêm mới công ty"
+    },
+    "COMPANY.EDIT_TITLE": {
+        "en": "Edit Company",
+        "kr": "회사 변경",
+        "vi": "Chỉnh sửa công ty"
+    },
+    "COMPANY.COL_NAME": {
+        "en": "Company Name",
+        "kr": "회사명",
+        "vi": "Khách hàng"
+    },
+    "BUTTONS.LOGIN": {
+        "en": "Login",
+        "kr": "로그인",
+        "vi": "Đăng nhập"
+    },
+    "BUTTONS.SIGNUP": {
+        "en": "Sign up",
+        "kr": "회원 가입",
+        "vi": "Đăng ký"
+    },
+    "BUTTONS.CREATE": {
+        "en": "Create",
+        "kr": "생성",
+        "vi": "Tạo mới"
+    },
+    "BUTTONS.UPDATE": {
+        "en": "Update",
+        "kr": "업데이트",
+        "vi": "Cập nhật"
+    },
+    "BUTTONS.DELETE": {
+        "en": "Delete",
+        "kr": "삭제",
+        "vi": "Xóa"
+    },
+    "BUTTONS.TRUCKOWNER_DELETE": {
+        "en": "Delete order's truck owner",
+        "kr": "트럭 관리자 오더 삭제",
+        "vi": "Xóa chủ xe của đơn hàng"
+    },
+    "BUTTONS.BACK": {
+        "en": "Back to login",
+        "kr": "로그인으로 되돌아가기",
+        "vi": "Quay lại trang đăng nhập"
+    },
+    "BUTTONS.BACK_STEP": {
+        "en": "Back",
+        "kr": "이전",
+        "vi": "Quay lại"
+    },
+    "BUTTONS.NEXT_STEP": {
+        "en": "Next",
+        "kr": "다음",
+        "vi": "Tiếp tục"
+    },
+    "BUTTONS.EDIT": {
+        "en": "Edit",
+        "kr": "변경",
+        "vi": "Sửa"
+    },
+    "BUTTONS.CANCEL": {
+        "en": "Cancel",
+        "kr": "취소",
+        "vi": "Huỷ"
+    },
+    "BUTTONS.ORDER_CANCEL": {
+        "en": "Cancel",
+        "kr": "취소",
+        "vi": "Hủy đơn"
+    },
+    "BUTTONS.CUSTOMER_CANCEL": {
+        "en": "Cancel as Customer",
+        "kr": "고객이 취소",
+        "vi": "Khách hàng hủy đơn"
+    },
+    "BUTTONS.TRUCKOWNER_CANCEL": {
+        "en": "Cancel as Truckowner",
+        "kr": "트럭 사업자가 취소",
+        "vi": "Chủ xe hủy đơn"
+    },
+    "BUTTONS.OK": {
+        "en": "Ok",
+        "kr": "OK",
+        "vi": "Đồng ý"
+    },
+    "BUTTONS.TRACKING": {
+        "en": "Tracking",
+        "kr": "배송 추적",
+        "vi": "Xem lộ trình"
+    },
+    "BUTTONS.ADD_MORE": {
+        "en": "Add more",
+        "kr": "추가",
+        "vi": "Thêm mới"
+    },
+    "BUTTONS.RESET": {
+        "en": "Reset",
+        "kr": "변경",
+        "vi": "Hủy thiết lập"
+    },
+    "BUTTONS.CLOSE": {
+        "en": "Close",
+        "kr": "닫기",
+        "vi": "Đóng"
+    },
+    "BUTTONS.ASSIGN": {
+        "en": "Assign",
+        "kr": "배정",
+        "vi": "Chỉ định"
+    },
+    "BUTTONS.ADD": {
+        "en": "Add",
+        "kr": "추가",
+        "vi": "Thêm"
+    },
+    "BUTTONS.ADD_NEW": {
+        "en": "Add New",
+        "kr": "추가",
+        "vi": "Thêm mới"
+    },
+    "BUTTONS.SAVE": {
+        "en": "Save",
+        "kr": "저장",
+        "vi": "Lưu"
+    },
+    "BUTTONS.SAVE_EDIT": {
+        "en": "Save and Edit",
+        "kr": "저장 및 변경",
+        "vi": "Lưu và tiếp tục sửa"
+    },
+    "BUTTONS.ACCOUNT_RESET": {
+        "en": "Reset your password",
+        "kr": "비밀번호 변경",
+        "vi": "Thiết lập lại"
+    },
+    "BUTTONS.VIEW_TRUCK": {
+        "en": "View truck owner",
+        "kr": "트럭 사업자 보기",
+        "vi": "Xem chủ xe"
+    },
+    "BUTTONS.ASSIGNED_TRUCK": {
+        "en": "Assigned truck operator info",
+        "kr": "배정된 트럭 사업자 정보",
+        "vi": "Thông tin chủ xe"
+    },
+    "BUTTONS.ASSIGN_AS_TRUCKOWNER": {
+        "en": "Assign as truck owner",
+        "kr": "트럭 관리자로 등록",
+        "vi": "Đăng ký dưới quyền chủ xe"
+    },
+    "BUTTONS.ASSIGN_JOB": {
+        "en": "Assign & Start the job",
+        "kr": "배정 & 작업 시작",
+        "vi": "Hoàn thành và bắt đầu công việc"
+    },
+    "BUTTONS.SEND": {
+        "en": "Send",
+        "kr": "전송",
+        "vi": "Gửi"
+    },
+    "BUTTONS.CONFIRM": {
+        "en": "Confirm",
+        "kr": "확인",
+        "vi": "Xác nhận"
+    },
+    "BUTTONS.FIND_NEWDRIVER": {
+        "en": "Find new driver",
+        "kr": "새로운 배송기사 찾기",
+        "vi": "Tìm tài xế mới"
+    },
+    "BUTTONS.FIND_NEWTRUCK": {
+        "en": "Find new truck",
+        "kr": "새로운 트럭 찾기",
+        "vi": "Tìm xe mới"
+    },
+    "BUTTONS.ADD_NEWCUSTOMER": {
+        "en": "Create new customer",
+        "kr": "새로운 고객 생성",
+        "vi": "Tạo khách hàng mới"
+    },
+    "BUTTONS.ADD_NEWDRIVER": {
+        "en": "Add new driver",
+        "kr": "배송기사 추가",
+        "vi": "Tạo tài xế mới"
+    },
+    "BUTTONS.CHOOSE_IMAGE": {
+        "en": "Choose an image",
+        "kr": "이미지 선택",
+        "vi": "Chọn hình"
+    },
+    "BUTTONS.ADD_NEWTRUCKOWNER": {
+        "en": "Add new truck owner",
+        "kr": "트럭 사업자 추가",
+        "vi": "Thêm mới chủ xe"
+    },
+    "BUTTONS.ADD_NEWADMIN": {
+        "en": "Add new admin account",
+        "kr": "관리자 계정 추가",
+        "vi": "Thêm mới tài khoản quản trị"
+    },
+    "BUTTONS.ADD_NEWORDER": {
+        "en": "Create new order",
+        "kr": "주문 생성",
+        "vi": "Tạo mới đơn hàng"
+    },
+    "BUTTONS.ACCEPT": {
+        "en": "Accept",
+        "kr": "승인",
+        "vi": "Chấp nhận đơn hàng"
+    },
+    "BUTTONS.LOAD_MORE": {
+        "en": "Load more",
+        "kr": "더 보기",
+        "vi": "Xem thêm"
+    },
+    "BUTTONS.LOAD": {
+        "en": "Load",
+        "kr": "더 보기",
+        "vi": "Tải"
+    },
+    "BUTTONS.EDIT_DRIVERTRUCK": {
+        "en": "Edit Truck & Driver",
+        "kr": "트럭 & 배송기사 변경",
+        "vi": "Chỉnh sửa xe và tài xế"
+    },
+    "BUTTONS.RESTORE": {
+        "en": "Restore Users",
+        "kr": "사용자 복원",
+        "vi": "Khôi phục lại tài khoản đã xóa"
+    },
+    "BUTTONS.YES": {
+        "en": "Yes",
+        "kr": "예",
+        "vi": "Có"
+    },
+    "BUTTONS.NO": {
+        "en": "No",
+        "kr": "아니오",
+        "vi": "Không"
+    },
+    "BUTTONS.SECRET_CODE": {
+        "en": "Show pickup/deliver code",
+        "kr": "픽업/배송 코드 보기",
+        "vi": "Xem mã giao/nhận hàng"
+    },
+    "BUTTONS.SEND_SMS_MANUAL": {
+        "en": "Send SMS Manual",
+        "kr": "문자 보내기",
+        "vi": "Gửi tin nhắn thủ công"
+    },
+    "BUTTONS.SEND_MESSAGE": {
+        "en": "Send",
+        "kr": "전송",
+        "vi": "Gửi"
+    },
+    "BUTTONS.CHOOSE_MULTIPLE": {
+        "en": "Choose documents (maximum 3 files)",
+        "kr": "문서 선택 (최대 3개 파일)",
+        "vi": "Chọn tài liệu (tối đa 3 tập tin)"
+    },
+    "BUTTONS.RESET_FILTER": {
+        "en": "Clear all filters",
+        "kr": "모든 필터 지우기",
+        "vi": "Xóa tất cả các bộ lọc"
+    },
+    "PLACEHOLDER.EMAIL": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "PLACEHOLDER.PASSWORD": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "PLACEHOLDER.CONFIRM_PASSWORD": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "PLACEHOLDER.PHONE": {
+        "en": "Ex: 09xxxxxxxx",
+        "kr": "예: 09xxxxxxxx",
+        "vi": "Ví dụ: 0xxxxxxxxx"
+    },
+    "PLACEHOLDER.FIRST_NAME": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "PLACEHOLDER.LAST_NAME": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "PLACEHOLDER.VERIFIED_STATUS": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "PLACEHOLDER.STATUS": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "PLACEHOLDER.TYPE": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "PLACEHOLDER.CLONE_INPUT": {
+        "en": "Input order's number",
+        "kr": "주문 번호를 입력하세요.",
+        "vi": "nhập mã đơn hàng"
+    },
+    "PLACEHOLDER.TRUCK_LOAD": {
+        "en": "2 tons, 5 tons, 8 tons...",
+        "kr": "2 톤, 5 톤, 8 톤…",
+        "vi": "2 tấn, 5 tấn, 8 tấn..."
+    },
+    "PLACEHOLDER.CARGO_NAME": {
+        "en": "rice, clothes, fruits,...",
+        "kr": "쌀, 옷, 과일,…",
+        "vi": "gạo, quần áo, trái cây..."
+    },
+    "PLACEHOLDER.CARGO_WEIGHT": {
+        "en": "Input Cargo Weight",
+        "kr": "500kg, 5 톤, 10 톤...",
+        "vi": "500kg, 5kg, 1000kg..."
+    },
+    "PLACEHOLDER.PACKAGE_SIZE": {
+        "en": "Input Package Size",
+        "kr": "박스, 500cm x 500cm x 1000cm",
+        "vi": "hộp, 500cm x 500cm x 1000cm"
+    },
+    "PLACEHOLDER.PICKUP_EMPADDRESS": {
+        "en": "input pick up address",
+        "kr": "상차지 주소",
+        "vi": "nhập địa chỉ lấy hàng"
+    },
+    "PLACEHOLDER.DROPOFF_EMPADDRESS": {
+        "en": "input drop off address",
+        "kr": "하차지 주소",
+        "vi": "nhập địa chỉ giao hàng"
+    },
+    "PLACEHOLDER.PICKUP_EMPTY": {
+        "en": "input pick up empty container address",
+        "kr": "빈 컨테이너 상차지 주소",
+        "vi": "nhập địa chỉ lấy công rỗng"
+    },
+    "PLACEHOLDER.DROPOFF_EMPTY": {
+        "en": "input drop off empty container address",
+        "kr": "빈 컨테이너 하차지 주소",
+        "vi": "nhập địa chỉ giao công rỗng"
+    },
+    "PLACEHOLDER.PRICE_REQUEST": {
+        "en": "input price",
+        "kr": "가격을 입력하세요.",
+        "vi": "nhập giá"
+    },
+    "PLACEHOLDER.VAT_INFO": {
+        "en": "input vat info",
+        "kr": "VAT 정보를 입력하세요.",
+        "vi": "nhập mã số thuế"
+    },
+    "PLACEHOLDER.SEARCH": {
+        "en": "search here",
+        "kr": "검색",
+        "vi": "Tìm kiếm"
+    },
+    "FILTER.SEARCH": {
+        "en": "Search",
+        "kr": "검색",
+        "vi": "Tìm kiếm"
+    },
+    "FILTER.SEARCHBY": {
+        "en": "Search by",
+        "kr": "검색",
+        "vi": "Tìm kiếm theo"
+    },
+    "FILTER.EXPORT": {
+        "en": "Export to",
+        "kr": "데이터 내보내기",
+        "vi": "Xuất sang"
+    },
+    "ORDER.SUMMARY_TITLE_TOP": {
+        "en": "Order Summary",
+        "kr": "주문 요약",
+        "vi": "Thông tin đơn hàng"
+    },
+    "ORDER.CREATE_TITLE": {
+        "en": "Order created",
+        "kr": "주문이 생성되었습니다.",
+        "vi": "Đơn hàng đã được tạo"
+    },
+    "ORDER.CREATE_TITLENOTE": {
+        "en": "Notes: (*) - compulsory fields",
+        "kr": "참고 : (*) - 필수 항목",
+        "vi": "Chú ý: (*) - thông tin bắt buộc cần có"
+    },
+    "ORDER.MANAGE_TITLE": {
+        "en": "Manage Orders",
+        "kr": "주문 관리",
+        "vi": "Quản lý đơn hàng"
+    },
+    "ORDER.PENDING_TITLE": {
+        "en": "Pending Order",
+        "kr": "진행 중인 주문",
+        "vi": "Đơn hàng của tôi"
+    },
+    "ORDER.COMPLETED_TITLE": {
+        "en": "Completed Order",
+        "kr": "완료된 주문",
+        "vi": "Đơn hàng đã hoàn thanh"
+    },
+    "ORDER.SECRET_CODE_TITLE": {
+        "en": "Secret code",
+        "kr": "비밀코드",
+        "vi": "Mã bí mật"
+    },
+    "ORDER.DELIVERY_CODE_LABEL": {
+        "en": "Delivery code",
+        "kr": "배송코드",
+        "vi": "Mã nhận hàng"
+    },
+    "ORDER.PICKUP_CODE_LABEL": {
+        "en": "Pickup code",
+        "kr": "픽업코드",
+        "vi": "Mã lấy hàng"
+    },
+    "ORDER.UPDATED_DATE": {
+        "en": "Updated date",
+        "kr": "업데이트일",
+        "vi": "Ngày cập nhật"
+    },
+    "ORDER.CREATED_DATE": {
+        "en": "Created date",
+        "kr": "생성일",
+        "vi": "Ngày tạo"
+    },
+    "ORDER.CREATED_BY": {
+        "en": "Created by",
+        "kr": "주문 생성자",
+        "vi": "Tạo bởi"
+    },
+    "ORDER.COMPANY": {
+        "en": "Company",
+        "kr": "회사",
+        "vi": "Công ty"
+    },
+    "ORDER.ID": {
+        "en": "Order ID",
+        "kr": "주문 ID",
+        "vi": "Mã đơn hàng"
+    },
+    "ORDER.ORDER_PREFERENCE": {
+        "en": "Order preference",
+        "kr": "선호하는 주문",
+        "vi": "Đơn  hàng tham chiếu"
+    },
+    "ORDER.ORDERTYPE_LABEL": {
+        "en": "Order Type",
+        "kr": "주문 유형",
+        "vi": "Kiểu đơn hàng"
+    },
+    "ORDER.ORDERTYPE_STANDARD": {
+        "en": "Standard",
+        "kr": "스탠다드",
+        "vi": "Tạo thông thường"
+    },
+    "ORDER.ORDERTYPE_STANDARDNOTE": {
+        "en": "Default",
+        "kr": "기본",
+        "vi": "Đơn hàng tiêu chuẩn"
+    },
+    "ORDER.ORDERTYPE_QUICK": {
+        "en": "Quick",
+        "kr": "빠른 주문 생성",
+        "vi": "Tạo nhanh"
+    },
+    "ORDER.ORDERTYPE_QUICKNOTE": {
+        "en": "For instant order",
+        "kr": "즉시 주문",
+        "vi": "Đơn hàng gấp"
+    },
+    "ORDER.CLONE": {
+        "en": "Clone",
+        "kr": "불러오기",
+        "vi": "Copy đơn hàng"
+    },
+    "ORDER.CLONENOTE": {
+        "en": "From existing order",
+        "kr": "이전 거래",
+        "vi": "Từ đơn hàng đã có"
+    },
+    "ORDER.CLONE_LABEL": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "ORDER.CLONE_ACTION": {
+        "en": "Clone",
+        "kr": "불러오기",
+        "vi": "Copy đơn hàng"
+    },
+    "ORDER.ORDER_STATUS": {
+        "en": "Order status",
+        "kr": "주문 상태",
+        "vi": "Trạng thái đơn hàng"
+    },
+    "ORDER.STATUS_LABEL": {
+        "en": "Status",
+        "kr": "상태",
+        "vi": "Trạng thái"
+    },
+    "ORDER.STATUS_CREATED": {
+        "en": "Newly created",
+        "kr": "새로 생성됨",
+        "vi": "Khởi tạo"
+    },
+    "ORDER.STATUS_VERIFIED": {
+        "en": "Verified",
+        "kr": "인증 완료",
+        "vi": "Đã xác thực"
+    },
+    "ORDER.STATUS_ASSIGNING": {
+        "en": "Driver searching",
+        "kr": "기사 검색중",
+        "vi": "Đang tìm xe"
+    },
+    "ORDER.STATUS_ASSIGNED": {
+        "en": "Driver found",
+        "kr": "기사 검색 완료",
+        "vi": "Tìm thấy xe"
+    },
+    "ORDER.STATUS_DISPATCHED": {
+        "en": "Dispatched",
+        "kr": "배정 완료",
+        "vi": "Sắp xếp xe"
+    },
+    "ORDER.STATUS_PICKING": {
+        "en": "Picking up",
+        "kr": "상차 중",
+        "vi": "Đi lấy hàng"
+    },
+    "ORDER.STATUS_PICK_ARRIVED": {
+        "en": "Pick up arrived",
+        "kr": "상차지 도착",
+        "vi": "Đợi lấy hàng"
+    },
+    "ORDER.STATUS_PCODEINPUTED": {
+        "en": "Pick up code is inputted",
+        "kr": "상차 코드가 입력되었습니다.",
+        "vi": "Đã nhập mã lấy hàng"
+    },
+    "ORDER.STATUS_DELIVERING": {
+        "en": "Delivering",
+        "kr": "배송 중",
+        "vi": "Đi giao hàng"
+    },
+    "ORDER.STATUS_DCODEINPUTTED": {
+        "en": "Delivery code is inputted",
+        "kr": "배송 코드가 입력되었습니다.",
+        "vi": "Đã nhập mã giao hàng"
+    },
+    "ORDER.STATUS_DELIVERED": {
+        "en": "Delivered",
+        "kr": "배송 완료",
+        "vi": "Hoàn thành"
+    },
+    "ORDER.STATUS_CANCELING": {
+        "en": "Cancelling",
+        "kr": "취소 중",
+        "vi": "Đang hủy"
+    },
+    "ORDER.STATUS_CANCELED": {
+        "en": "Cancelled",
+        "kr": "취소 완료",
+        "vi": "Đã hủy"
+    },
+    "ORDER.STATUS_CUSTCANCEL": {
+        "en": "Cancelling",
+        "kr": "취소 중",
+        "vi": "Đang hủy"
+    },
+    "ORDER.ADMIN_STATUS_CUSTCANCEL": {
+        "en": "Customer Cancelling",
+        "kr": "고객 취소",
+        "vi": "Khách Hủy"
+    },
+    "ORDER.STATUS_DRIVERCANCEL": {
+        "en": "Driver Cancelling",
+        "kr": "기사가 취소",
+        "vi": "Chủ xe hủy"
+    },
+    "ORDER.CANCELEDBY_LABEL": {
+        "en": "Canceled by",
+        "kr": "취소 신청인",
+        "vi": "Đã hủy bởi"
+    },
+    "ORDER.CANCELEDBY_CUSTOM": {
+        "en": "Cancelling",
+        "kr": "취소 중",
+        "vi": "Đang hủy"
+    },
+    "ORDER.CANCELEDBY_DRIVER": {
+        "en": "Driver cancelling",
+        "kr": "배송기사가 취소",
+        "vi": "Chủ xe hủy"
+    },
+    "ORDER.SERVICETYPE_LABEL": {
+        "en": "Service Type",
+        "kr": "유형 선택",
+        "vi": "Loại xe"
+    },
+    "ORDER.SERVICETYPE_LABELNOTE": {
+        "en": "Select type of transportation",
+        "kr": "배송 유형 선택",
+        "vi": "Chọn loại xe"
+    },
+    "ORDER.SERVICETYPE_DEFAULT": {
+        "en": "Select type of service",
+        "kr": "서비스 유형 선택",
+        "vi": "Chọn loại xe"
+    },
+    "ORDER.SERVICETYPE_TRAILOR": {
+        "en": "Trailor tractor truck",
+        "kr": "트레일러",
+        "vi": "Xe công-te-nơ"
+    },
+    "ORDER.SERVICETYPE_NORMAL": {
+        "en": "Normal truck/van",
+        "kr": "일반 트럭",
+        "vi": "Xe tải các loại"
+    },
+    "ORDER.SERVICETYPE_REFNUMBER": {
+        "en": "Your own reference number",
+        "kr": "레퍼런스 넘버",
+        "vi": "Mã tham chiếu đơn hàng"
+    },
+    "ORDER.REFERENCE_NO": {
+        "en": "Reference NO",
+        "kr": "레퍼런스 넘버",
+        "vi": "Mã tham chiếu"
+    },
+    "ORDER.SERVICETYPE_REFNUMBERNOTE": {
+        "en": "Freely to input your customer's order number or your internal reference number for better tracking",
+        "kr": "쉬운 배송 조회를 위해 자유롭게 고객 주문 번호를 입력하거나, 자체 레퍼런스 번호를 입력하세요.",
+        "vi": "Bạn có thể nhập mã vận đơn của khách hàng hoặc bất kì số tham chiếu nào liên quan đến lô hàng để dễ đối soát về sau"
+    },
+    "ORDER.SERVICETYPE_REFNOTE_LABEL": {
+        "en": "Other reference note",
+        "kr": "기타 참고 사항",
+        "vi": "Ghi chú tham chiếu khác"
+    },
+    "ORDER.SERVICETYPE_REFNOTE": {
+        "en": "Hashtag, categories... this information will be included when you export to excel/csv files",
+        "kr": "해시태그, 카테고리... 이 정보는 엑셀/csv 파일로 내보낼 때 포함됩니다",
+        "vi": "Hashtag, loại, ... những thông tin này sẽ thể hiện khi bạn xuất dữ liệu sang tệp excel/ csv"
+    },
+    "ORDER.SHIPMENT_INFO": {
+        "en": "Shipment info",
+        "kr": "배송 정보",
+        "vi": "Thông tin vận chuyển"
+    },
+    "ORDER.CONTAINERSIZE_LABEL": {
+        "en": "Container size",
+        "kr": "컨테이너 크기",
+        "vi": "Kích cỡ công"
+    },
+    "ORDER.CONTAINERTYPE_LABEL": {
+        "en": "Container type",
+        "kr": "컨테이너 유형",
+        "vi": "Loại công"
+    },
+    "ORDER.CONTAINERTYPE_DC": {
+        "en": "DC (Dry container)",
+        "kr": "DC (드라이 컨테이너)",
+        "vi": "Công khô"
+    },
+    "ORDER.CONTAINERTYPE_RF": {
+        "en": "RF (Reefer)",
+        "kr": "RF (냉동차)",
+        "vi": "Công lạnh"
+    },
+    "ORDER.CONTAINERTYPE_HC": {
+        "en": "HC (High cube)",
+        "kr": "HC (하이 큐브)",
+        "vi": "Công cao"
+    },
+    "ORDER.CONTAINERTYPE_HR": {
+        "en": "HR (High cube reefer)",
+        "kr": "HR (하이 큐브 냉동차)",
+        "vi": "Công lạnh cao"
+    },
+    "ORDER.CONTAINERTYPE_OT": {
+        "en": "OT (Open Top)",
+        "kr": "OT (오픈 탑)",
+        "vi": "Công mở"
+    },
+    "ORDER.CONTAINERTYPE_FR": {
+        "en": "FR (Flat Rack)",
+        "kr": "FR (플랫 랙)",
+        "vi": "Công mặt phẳng (FR)"
+    },
+    "ORDER.CONTAINERTYPE_TANK": {
+        "en": "Tank",
+        "kr": "탱크 컨테이너",
+        "vi": "Công bồn"
+    },
+    "ORDER.CONTAINERQUANTITY": {
+        "en": "No of containers",
+        "kr": "컨테이너 수량",
+        "vi": "Số lượng công"
+    },
+    "ORDER.PACKAGE_SIZE_1000_1200": {
+        "en": "Pallet(WxL) 1000 × 1200 (mm)",
+        "kr": "Pallet(WxL) 1000 × 1200 (mm)",
+        "vi": "Pa-lét (WxL) 1000 × 1200 (mm)"
+    },
+    "ORDER.PACKAGE_SIZE_1100_1100": {
+        "en": "Pallet(WxL) 1100 × 1100 (mm)",
+        "kr": "Pallet(WxL) 1100 × 1100 (mm)",
+        "vi": "Pa-lét (WxL) 1100 × 1100 (mm)"
+    },
+    "ORDER.PACKAGE_SIZE_1016_1219": {
+        "en": "Pallet(WxL) 1016 × 1219 (mm)",
+        "kr": "Pallet(WxL) 1016 × 1219 (mm)",
+        "vi": "Pa-lét (WxL) 1016 × 1219 (mm)"
+    },
+    "ORDER.PACKAGE_SIZE_1165_1165": {
+        "en": "Pallet(WxL) 1165 × 1165 (mm)",
+        "kr": "Pallet(WxL) 1165 × 1165 (mm)",
+        "vi": "Pa-lét (WxL) 1165 × 1165 (mm)"
+    },
+    "ORDER.PACKAGE_SIZE_1067_1067": {
+        "en": "Pallet(WxL) 1067 × 1067 (mm)",
+        "kr": "Pallet(WxL) 1067 × 1067 (mm)",
+        "vi": "Pa-lét (WxL) 1067 × 1067 (mm)"
+    },
+    "ORDER.PACKAGE_SIZE_800_1200": {
+        "en": "Pallet(WxL) 800 × 1200 (mm)",
+        "kr": "Pallet(WxL) 800 × 1200 (mm)",
+        "vi": "Pa-lét (WxL) 800 × 1200 (mm)"
+    },
+    "ORDER.PACKAGE_SIZE_OTHER": {
+        "en": "Others",
+        "kr": "기타",
+        "vi": "Khác"
+    },
+    "ORDER.TRUCKTYPE_LABEL": {
+        "en": "Truck type",
+        "kr": "트럭 유형",
+        "vi": "Loại xe tải"
+    },
+    "ORDER.TRUCKTYPE_NORMAL": {
+        "en": "Normal",
+        "kr": "보통",
+        "vi": "Xe thường"
+    },
+    "ORDER.TRUCKTYPE_FREEZING": {
+        "en": "Freezing",
+        "kr": "냉동 트럭",
+        "vi": "Xe đông lạnh"
+    },
+    "ORDER.TRUCK_LOAD": {
+        "en": "Truck payload",
+        "kr": "트럭 톤수",
+        "vi": "Tải trọng xe"
+    },
+    "ORDER.TRUCK_QUANTITY": {
+        "en": "No of trucks",
+        "kr": "트럭 수량",
+        "vi": "Số lượng xe"
+    },
+    "ORDER.CARGO_INFO": {
+        "en": "Cargo Info",
+        "kr": "화물 정보",
+        "vi": "Thông tin hàng hóa"
+    },
+    "ORDER.CARGOTYPE_LABEL": {
+        "en": "Cargo Type",
+        "kr": "화물 유형",
+        "vi": "Loại hàng hóa"
+    },
+    "ORDER.CARGOTYPE_STANDARD": {
+        "en": "Standard",
+        "kr": "표준",
+        "vi": "Thông thường"
+    },
+    "ORDER.CARGOTYPE_DANGEROUS": {
+        "en": "Dangerous",
+        "kr": "위험 화물",
+        "vi": "Nguy hiểm"
+    },
+    "ORDER.CARGOTYPE_SPECIAL": {
+        "en": "Special",
+        "kr": "특수 화물",
+        "vi": "Đặc biệt"
+    },
+    "ORDER.CARGO_NAME": {
+        "en": "Cargo Description",
+        "kr": "화물 상세",
+        "vi": "Mô tả hàng hóa"
+    },
+    "ORDER.CARGO_WEIGHT": {
+        "en": "Cargo Weight",
+        "kr": "화물 무게",
+        "vi": "Trọng lượng ước tính"
+    },
+    "ORDER.PACKAGE_SIZE": {
+        "en": "Package size",
+        "kr": "포장 유형 & 크기",
+        "vi": "Quy cách đóng gói"
+    },
+    "ORDER.ROUTE_INFO": {
+        "en": "Route info",
+        "kr": "경로 정보",
+        "vi": "Thông tin lộ trình"
+    },
+    "ORDER.PICKUP_ADDRESS": {
+        "en": "Pick up address",
+        "kr": "상차지 주소",
+        "vi": "Địa chỉ lấy hàng"
+    },
+    "ORDER.PICKUP_CONTACTNO": {
+        "en": "Pick up contact no",
+        "kr": "상차지 연락처",
+        "vi": "ĐT liên hệ lấy hàng"
+    },
+    "ORDER.PICKUP_TIME": {
+        "en": "Pick up time",
+        "kr": "상차 시각",
+        "vi": "Giờ lấy hàng"
+    },
+    "ORDER.DROPOFF_ADDRESS": {
+        "en": "Drop off address",
+        "kr": "하차지 주소",
+        "vi": "Địa chỉ giao hàng"
+    },
+    "ORDER.DROPOFF_CONTACTNO": {
+        "en": "Drop off contact no",
+        "kr": "하차지 연락처",
+        "vi": "ĐT người nhận hàng"
+    },
+    "ORDER.DROPOFF_CONTACT": {
+        "en": "Drop off contact",
+        "kr": "하차지 연락처",
+        "vi": "Người nhận hàng"
+    },
+    "ORDER.PICKUP_LOCATION": {
+        "en": "Pick up Location",
+        "kr": "픽업 위치",
+        "vi": "Địa điểm lấy hàng"
+    },
+    "ORDER.UPLOAD_PHOTOS": {
+        "en": "Upload photos",
+        "kr": "이미지 업로드",
+        "vi": "Tải ảnh"
+    },
+    "ORDER.DROPOFF_TIME": {
+        "en": "Drop off time",
+        "kr": "하차 시각",
+        "vi": "Giờ nhận hàng"
+    },
+    "ORDER.PICKUP_EMPCONTAINER": {
+        "en": "Need to pick up empty container?",
+        "kr": "빈 컨테이너를 픽업해야 합니까?",
+        "vi": "Cần đi lấy công rỗng?"
+    },
+    "ORDER.PICKUP_EMPADDRESS": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "ORDER.DROPOFF_EMPCONTAINER": {
+        "en": "Need to drop off empty container?",
+        "kr": "빈 컨테이너를 내려야 합니까?",
+        "vi": "Cần đi trả công rỗng?"
+    },
+    "ORDER.DROPOFF_EMPADDRESS": {
+        "en": "",
+        "kr": "",
+        "vi": ""
+    },
+    "ORDER.NOTE_TODRIVER": {
+        "en": "Note to Driver",
+        "kr": "배송기사에게 메시지",
+        "vi": "Ghi chú khác cho tài xế"
+    },
+    "ORDER.ADDITIONAL_INFO": {
+        "en": "Additional Info",
+        "kr": "부가 정보",
+        "vi": "Thông tin khác"
+    },
+    "ORDER.ADDITIONAL_PRICE": {
+        "en": "Additional Price",
+        "kr": "추가 가격",
+        "vi": "Phụ phí"
+    },
+    "ORDER.PRICE": {
+        "en": "Propose Price",
+        "kr": "가격을 설정하시겠습니까?",
+        "vi": "Bạn muốn đề xuất mức giá?"
+    },
+    "ORDER.DISTANCE": {
+        "en": "Distance from pickup to dropoff location",
+        "kr": "상차지 - 하차지 거리",
+        "vi": "Khoảng cách từ điểm lấy hàng đến điểm giao hàng"
+    },
+    "ORDER.PRICE_NOTE": {
+        "en": "Price is optional, input if you want a specific price. Otherwise you can negotiate directly with the truck owner for the most suitable price",
+        "kr": "원하시는 가격을 입력해 주세요. (옵션) 미입력 시, 트럭 사업자와 합리적인 가격을 직접 협상할 수 있습니다.",
+        "vi": "Nhập mức giá đề xuất nếu bạn muốn, nếu không bạn có thể thương lượng trực tiếp với chủ xe để có được mức giá tốt nhất"
+    },
+    "ORDER.PRICE_REQUEST": {
+        "en": "Distance from pickup to dropoff location",
+        "kr": "상차지 - 하차지 거리",
+        "vi": "Khoảng cách từ điểm lấy hàng đến điểm giao hàng"
+    },
+    "ORDER.VAT": {
+        "en": "VAT Need",
+        "kr": "VAT 인보이스가 필요합니까?",
+        "vi": "Bạn cần hóa đơn VAT?"
+    },
+    "ORDER.VAT_INFO": {
+        "en": "VAT information",
+        "kr": "VAT 정보",
+        "vi": "Thông tin VAT"
+    },
+    "ORDER.VAT_NOT_FILL": {
+        "en": "There is no available VAT information for this order yet, please check with customer.",
+        "kr": "아직 이 주문에 대한 VAT 정보가 없습니다. 고객에게 확인하십시오",
+        "vi": "Chưa có thông tin xuất Hoá đơn VAT, vui lòng liên hệ với khách hàng để cập nhật"
+    },
+    "ORDER.NO_VAT": {
+        "en": "This order does not require VAT invoice",
+        "kr": "이 주문에는 VAT 인보이스가 필요하지 않습니다",
+        "vi": "Đơn hàng này không yêu cầu Hóa đơn VAT"
+    },
+    "ORDER.PAYMENT_TYPE": {
+        "en": "Payment Type",
+        "kr": "결제 유형",
+        "vi": "Phương thức thanh toán"
+    },
+    "ORDER.PAYMENT_AMOUNT": {
+        "en": "Payment Amount",
+        "kr": "결제 금액",
+        "vi": "Số tiền thanh toán"
+    },
+    "ORDER.SELECT_SERVICE": {
+        "en": "Select type of service",
+        "kr": "서비스 유형을 선택하세요.",
+        "vi": "Chọn loại dịch vụ"
+    },
+    "ORDER.INCHARGE_NAME": {
+        "en": "Person in charge's name",
+        "kr": "담당자 성명",
+        "vi": "Tên người quản lý đơn hàng"
+    },
+    "ORDER.INCHARGE_NAMENOTE": {
+        "en": "Supervisor who directly manage this order, could be different from the account holder",
+        "kr": "주문을 직접 관리하는 담당자는 계정 주인과 다를 수 있습니다.",
+        "vi": "Người trực tiếp quản lý đơn hàng, có thể khác với chủ tài khoản"
+    },
+    "ORDER.INCHARGE_CONTACTNO": {
+        "en": "Person in charge's contact NO",
+        "kr": "담당자 연락처",
+        "vi": "ĐT người quản lý đơn hàng"
+    },
+    "ORDER.OTHERGENERALNOTES": {
+        "en": "Other general notes",
+        "kr": "기타 메시지",
+        "vi": "Các ghi chú khác"
+    },
+    "ORDER.DETAIL_REQUEST": {
+        "en": "Your detailed request",
+        "kr": "세부 요청사항",
+        "vi": "Yêu cầu chi tiết của bạn"
+    },
+    "ORDER.DETAIL_REQUEST_TRUCK": {
+        "en": "Detailed request",
+        "kr": "세부 요청사항",
+        "vi": "Yêu cầu chi tiết"
+    },
+    "ORDER.DETAIL_REQUESTNOTE": {
+        "en": "Need to ship 3 cont cashew from Binh Duong to Ho Chi Minh, pick up by 11PM 20 Dec 2020 ...",
+        "kr": "Binh Duong에서 호치민까지 3개의 컨테이너 캐슈를 배송해야합니다. 2020년 12월 20일 오후 11시까지 픽업하십시오 ...",
+        "vi": "Cần chở 3 cont bao tải hạt điều từ Bình Dương lên HCM, lấy hàng trước 23h ngày 20/12/2020 ..."
+    },
+    "ORDER.STAFF_NOTE": {
+        "en": "Admin note 1",
+        "kr": "관리자 노트 1",
+        "vi": "Ghi chú cho Admin 1"
+    },
+    "ORDER.STAFF_ANOTHERNOTE": {
+        "en": "Admin note 2",
+        "kr": "관리자 노트 2",
+        "vi": "Ghi chú cho Admin 2"
+    },
+    "ORDER.ROUTE_MAP": {
+        "en": "Route Map",
+        "kr": "노선도",
+        "vi": "Bản đồ lộ trình"
+    },
+    "ORDER.CREATED_TITLE": {
+        "en": "Create your order",
+        "kr": "주문을 생성하세요.",
+        "vi": "Tạo đơn hàng"
+    },
+    "ORDER.THANKYOU_TITLE": {
+        "en": "Thank you!",
+        "kr": "감사합니다!",
+        "vi": "Cảm ơn!"
+    },
+    "ORDER.THANKYOU_MESSAGE": {
+        "en": "Your order has been created successfully!",
+        "kr": "주문이 성공적으로 생성되었습니다.",
+        "vi": "Đơn hàng của bạn đã được tạo thành công!"
+    },
+    "ORDER.THANKYOU_MOREINFO": {
+        "en": "Below are the order summary. You can always manage your created order by clicking <strong><i>Manage Orders</i></strong> on the left menu",
+        "kr": "아래에 주문 요약이 있습니다. 왼쪽 메뉴에서 <strong><i>주문 관리</i></strong>를 클릭하여 언제나 주문을 관리할 수 있습니다.",
+        "vi": "Bạn có thể xem lại thông tin đơn hàng bên dưới. Bạn có thể chỉnh sửa các đơn hàng đã tạo bằng cách vào mục <strong><i>Quản lý đơn hàng</i></strong> ở menu bên trái."
+    },
+    "ORDER.SUMMARY_TITLE": {
+        "en": "Summary",
+        "kr": "주문 요약",
+        "vi": "Thông tin đơn hàng"
+    },
+    "ORDER.SUMMARY_CREATEDBY_TITLE": {
+        "en": "Created By",
+        "kr": "생성자",
+        "vi": "Thông tin người tạo đơn"
+    },
+    "ORDER.SUMMARY_TRUCKOWNER_TITLE": {
+        "en": "Truck Owner Summary",
+        "kr": "트럭 사업자 요약",
+        "vi": "Thông tin chủ xe"
+    },
+    "ORDER.SUMMARY_DRIVERS_TITLE": {
+        "en": "Drivers Summary",
+        "kr": "배송기사 요약",
+        "vi": "Thông tin các tài xế"
+    },
+    "ORDER.SUMMARY_TRUCKS_TITLE": {
+        "en": "Trucks Summary",
+        "kr": "트럭 요약",
+        "vi": "Thông tin các xe tải"
+    },
+    "ORDER.SUMMARY_SERVICETYPE": {
+        "en": "Type of transportation",
+        "kr": "배송 유형",
+        "vi": "Loại xe"
+    },
+    "ORDER.SUMMARY_BASIC_INFO": {
+        "en": "Basic Order Info",
+        "kr": "기본 주문 정보",
+        "vi": "Thông tin cơ bản đơn hàng"
+    },
+    "ORDER.SUMMARY_DRIVER_TRUCK_INFO": {
+        "en": "Driver & Truck Info",
+        "kr": "기사 및 트럭 정보",
+        "vi": "Thông tin Tài xế & Xe"
+    },
+    "ORDER.SUMMARY_TRACKING": {
+        "en": "Tracking & Status",
+        "kr": "트랙킹 및 상태",
+        "vi": "Theo dõi & Trạng thái"
+    },
+    "ORDER.PAYMENT_NOTES": {
+        "en": "Payment Notes",
+        "kr": "지불 메모",
+        "vi": "Ghi chú thanh toán"
+    },
+    "ORDER.PAYMENT_DUE_DATE": {
+        "en": "Payment Due Date",
+        "kr": "지불 기한",
+        "vi": "Hạn thanh toán"
+    },
+    "ORDER.PICKUP_COMPANY": {
+        "en": "Pick up Company",
+        "kr": "상차 회사",
+        "vi": "Công ty nhận hàng"
+    },
+    "ORDER.DROPOFF_COMPANY": {
+        "en": "Drop off Company",
+        "kr": "하차 회사",
+        "vi": "Công ty giao hàng"
+    },
+    "ORDER.TRUCK_OWNER_NAME": {
+        "en": "Name of Truck Owner",
+        "kr": "트럭 관리자 이름",
+        "vi": "Tên Chủ Xe"
+    },
+    "ORDER.DRIVER_IDCARD_NO": {
+        "en": "Driver's ID card NO",
+        "kr": "기사 운전면허번호",
+        "vi": "Số CMND tài xế"
+    },
+    "ORDER.PICKUP_DOC": {
+        "en": "Pickup & Delivery handover documents",
+        "kr": "상차지 및 하차지 제출 서류",
+        "vi": "Tài liệu Giao nhận"
+    },
+    "ORDER.CONTACT_US": {
+        "en": "Contact us",
+        "kr": "문의",
+        "vi": "Liện hệ chúng tôi"
+    },
+    "ORDER.OUR_EMAIL": {
+        "en": "Our Email",
+        "kr": "이메일",
+        "vi": "Email"
+    },
+    "ORDER.OUR_HOTLINE": {
+        "en": "Our Hotline",
+        "kr": "핫라인",
+        "vi": "Hotline"
+    },
+    "ORDER.TRACKING_SECTION": {
+        "en": "Tracking section",
+        "kr": "배송 조회",
+        "vi": "Thông tin lộ trinhf"
+    },
+    "ORDER.TRACKING_TITLE": {
+        "en": "Tracking",
+        "kr": "배송 조회",
+        "vi": "Lộ trình"
+    },
+    "ORDER.DISTANCE_PICKUP": {
+        "en": "Distance to pickup",
+        "kr": "상차지까지의 거리",
+        "vi": "Khoảng cách đến điểm lấy hàng"
+    },
+    "ORDER.DISTANCE_DROPOFF": {
+        "en": "Distance to drop off",
+        "kr": "하차지까지의 거리",
+        "vi": "Khoảng cách đến điểm giao hàng"
+    },
+    "ORDER.TRACKING_TRUCK_NAME": {
+        "en": "Truck name",
+        "kr": "Truck name",
+        "vi": "Tên xe"
+    },
+    "ORDER.TRACKING_TRUCK_SPEED": {
+        "en": "Speed",
+        "kr": "Speed",
+        "vi": "Vận tốc"
+    },
+    "ORDER.TRACKING_TRUCK_RUNNING": {
+        "en": "Running",
+        "kr": "Running",
+        "vi": "Chạy"
+    },
+    "ORDER.TRACKING_TRUCK_STOP": {
+        "en": "Stop",
+        "kr": "Stop",
+        "vi": "Dừng"
+    },
+    "ORDER.TRACKING_TRUCK_LOST_SIGNAL": {
+        "en": "Lost signal",
+        "kr": "Lost signal",
+        "vi": "Mất tín hiệu"
+    },
+    "ORDER.TRACKING_TRUCK_ADDRESS": {
+        "en": "Address",
+        "kr": "Address",
+        "vi": "Địa chỉ"
+    },
+    "ORDER.TRACKING_TRUCK_DRIVING_TIME": {
+        "en": "Driving time",
+        "kr": "Driving time",
+        "vi": "Thời gian chạy"
+    },
+    "ORDER.VIEW_GPS_DEVICE": {
+        "en": "View GPS device",
+        "kr": "View GPS device",
+        "vi": "Xem thiết bị GPS"
+    },
+    "ORDER.GPS_DEVICE": {
+        "en": "GPS device",
+        "kr": "GPS device",
+        "vi": "Thiết bị GPS"
+    },
+    "ORDER.REVIEW_DRIVING_ROUTE": {
+        "en": "Review driving route",
+        "kr": "Review driving route",
+        "vi": "Xem lại tuyến đường"
+    },
+    "ORDER.VIEW": {
+        "en": "View",
+        "kr": "View",
+        "vi": "Xem"
+    },
+    "ORDER.DOWNLOAD": {
+        "en": "Download",
+        "kr": "Download",
+        "vi": "Tải về"
+    },
+    "ORDER.VEHICLE": {
+        "en": "Vehicle",
+        "kr": "Vehicle",
+        "vi": "Phương tiện"
+    },
+    "ORDER.FROM": {
+        "en": "From",
+        "kr": "From",
+        "vi": "Từ"
+    },
+    "ORDER.TO": {
+        "en": "To",
+        "kr": "To",
+        "vi": "Đến"
+    },
+    "ORDER.WAYPOINT": {
+        "en": "Waypoint",
+        "kr": "Waypoint",
+        "vi": "Điểm lộ trình"
+    },
+    "ORDER.DATE_TIME": {
+        "en": "Date/Time",
+        "kr": "Date/Time",
+        "vi": "Ngày/Giờ"
+    },
+    "ORDER.LOCATION": {
+        "en": "Location",
+        "kr": "Location",
+        "vi": "Vị trí"
+    },
+    "ORDER.ACTIONLOG_CREATED": {
+        "en": "Order created",
+        "kr": "주문이 생성되었습니다.",
+        "vi": "Đơn hàng khởi tạo"
+    },
+    "ORDER.ACTIONLOG_ASSIGNED": {
+        "en": "Driver found",
+        "kr": "배송기사를 검색했습니다.",
+        "vi": "Tìm thấy tài xế"
+    },
+    "ORDER.ACTIONLOG_DISPATCHED": {
+        "en": "Order Dispatched",
+        "kr": "주문이 배정되었습니다.",
+        "vi": "Sắp xếp xe đi lấy hàng"
+    },
+    "ORDER.ACTIONLOG_PICKING": {
+        "en": "Start driving",
+        "kr": "상차지 출발",
+        "vi": "Bắt đầu đi lấy hàng"
+    },
+    "ORDER.ACTIONLOG_PICK_ARRIVED": {
+        "en": "Arrive pickup",
+        "kr": "상차지 도착",
+        "vi": "Đến điểm lấy hàng"
+    },
+    "ORDER.ACTIONLOG_PCODEINPUTED": {
+        "en": "Pick up code is inputted",
+        "kr": "상차 코드가 입력되었습니다",
+        "vi": "Đã nhập mã lấy hàng"
+    },
+    "ORDER.ACTIONLOG_DELIVERING": {
+        "en": "Start delivering",
+        "kr": "배송 시작",
+        "vi": "Bắt đầu giao hàng"
+    },
+    "ORDER.ACTIONLOG_DCODEINPUTTED": {
+        "en": "Delivery code is inputted",
+        "kr": "배송 코드가 입력되었습니다.",
+        "vi": "Đã nhập mã giao hàng"
+    },
+    "ORDER.ACTIONLOG_DELIVERED": {
+        "en": "Delivered",
+        "kr": "배송 완료",
+        "vi": "Hoàn thành"
+    },
+    "ORDER.PROFILE": {
+        "en": "Profile",
+        "kr": "프로필",
+        "vi": "Hồ sơ"
+    },
+    "ORDER.TRUCKOWNER_COMPANY": {
+        "en": "Truck company name (if any)",
+        "kr": "트럭 회사명 (있는 경우)",
+        "vi": "Tên của công ty vận tải (nếu có)"
+    },
+    "ORDER.TRUCKOWNER_NAME": {
+        "en": "Truck owner name",
+        "kr": "트럭 사업자 이름",
+        "vi": "Tên chủ xe"
+    },
+    "ORDER.TRUCKOWNER_PHONE": {
+        "en": "Truck owner Contact No",
+        "kr": "트럭 사업자 연락처",
+        "vi": "SĐT chủ xe"
+    },
+    "ORDER.TRUCKOWNER_EMAIL": {
+        "en": "Truck owner Email",
+        "kr": "트럭 사업자 이메일",
+        "vi": "Email chủ xe"
+    },
+    "ORDER.CREATEDBY_EMAIL": {
+        "en": "Created By",
+        "kr": "생성자",
+        "vi": "Đơn hàng được tạo bởi"
+    },
+    "ORDER.CREATEDBY_NAME": {
+        "en": "Name",
+        "kr": "고객 이름",
+        "vi": "Tên người tạo"
+    },
+    "ORDER.CREATEDBY_ACCOUNT_ROLE": {
+        "en": "Account Role",
+        "kr": "유형",
+        "vi": "Phân quyền"
+    },
+    "ORDER.CREATEDBY_PHONE_NUMBER": {
+        "en": "Phone number",
+        "kr": "전화번호",
+        "vi": "Số điện thoại"
+    },
+    "ORDER.NEW_TITLE": {
+        "en": "New Order",
+        "kr": "새로운 주문",
+        "vi": "Đơn hàng mới"
+    },
+    "ORDER.NEW_FILTER": {
+        "en": "Display all new orders regardless of truck type, region and pay load",
+        "kr": "트럭 유형, 지역 및 적재량에 관계없이 모든 신규 주문 표시",
+        "vi": "Hiển thị tất cả các đơn đặt hàng mới không phân biệt loại xe, khu vực và tải trọng"
+    },
+    "ORDER.EDIT_TITLE": {
+        "en": "Edit Order",
+        "kr": "주문 변경",
+        "vi": "Chỉnh sửa đơn hàng"
+    },
+    "ORDER.NO_ITEM": {
+        "en": "No items",
+        "kr": "목록 없음",
+        "vi": "Chưa có đơn hàng"
+    },
+    "ORDER.DRIVER_NOTES": {
+        "en": "Driver notes",
+        "kr": "배송기사 노트",
+        "vi": "Ghi chú của người giao"
+    },
+    "ORDER.COL_PICKUP_ADDRESS": {
+        "en": "Pickup Address",
+        "kr": "상차지 주소",
+        "vi": "Lấy hàng"
+    },
+    "ORDER.COL_DROPOFF_ADDRESS": {
+        "en": "Drop off Address",
+        "kr": "하차지 주소",
+        "vi": "Giao hàng"
+    },
+    "ORDER.ORDER_COL_VEHICLETYPE": {
+        "en": "Vehicle Type",
+        "kr": "차량 타입",
+        "vi": "Loại phương tiện"
+    },
+    "ORDER.ORDER_COL_PRICE": {
+        "en": "Propose Price",
+        "kr": "제안 가격",
+        "vi": "Giá"
+    },
+    "ORDER.CURENCY": {
+        "en": "VND",
+        "kr": "VND",
+        "vi": "VND"
+    },
+    "ORDER.ORDER_COL_CREATED_DATE": {
+        "en": "Created date",
+        "kr": "날짜 생성",
+        "vi": "Ngày tạo"
+    },
+    "ORDER.DATE_TIME_FORMAT": {
+        "en": "(DD/MM/YY)",
+        "kr": "(DD/MM/YY)",
+        "vi": "(DD/MM/YY)"
+    },
+    "ORDER.ORDER_EDIT_LABEL": {
+        "en": "Edit",
+        "kr": "수정",
+        "vi": "Chỉnh sửa"
+    },
+    "ORDER.REPORTS_LABEL": {
+        "en": "Pickup & Delivery handover documents",
+        "kr": "화물 수취 확인서",
+        "vi": "Biên bản giao nhận hàng hóa"
+    },
+    "ORDER.INVOICES_LABEL": {
+        "en": "Receipts, Documents, EIR ",
+        "kr": "영수증, 서류, EIR",
+        "vi": "Hóa đơn, chứng từ, phiếu EIR"
+    },
+    "ORDER.CATEGORIES_LABEL": {
+        "en": "Category",
+        "kr": "항목",
+        "vi": "Hạng mục"
+    },
+    "ORDER.IMG_LABEL": {
+        "en": "Photos",
+        "kr": "사진",
+        "vi": "Hình Ảnh"
+    },
+    "ORDER.FOLDER_TITLE": {
+        "en": "Documents",
+        "kr": "서류",
+        "vi": "Tài liệu"
+    },
+    "ORDER.OTHERS_LABEL": {
+        "en": "Other documents",
+        "kr": "기타 서류",
+        "vi": "Giấy tờ khác"
+    },
+    "ORDER.PAYMENT_STEP": {
+        "en": "Input Payment Information",
+        "kr": "결제 정보 입력",
+        "vi": "Nhập thông tin thanh toán"
+    },
+    "ORDER.TRUCK_STEP": {
+        "en": "Input Truck Information",
+        "kr": "트럭 정보 입력",
+        "vi": "Nhập kích thước hàng"
+    },
+    "ORDER.ADDRESS_STEP": {
+        "en": "Input Address Information",
+        "kr": "주소지 입력",
+        "vi": "Nhập địa chỉ giao nhận"
+    },
+    "ORDER.SUGGESTED_PRICE": {
+        "en": "TADA Suggested Price (VND)",
+        "kr": "TADA의 제안가격 (VND)",
+        "vi": "Giá TADA đề xuất (VND)"
+    },
+    "ORDER.USE_SUGGESTED_PRICE": {
+        "en": "Use suggested price",
+        "kr": "권장 가격 사용",
+        "vi": "Sử dụng giá đề xuất"
+    },
+    "ORDER.USE_MY_PRICE": {
+        "en": "I want to input My own price",
+        "kr": "내 가격을 입력하고 싶어요",
+        "vi": "Tôi muốn nhập giá của mình (VND)"
+    },
+    "ORDER.USE_QUOTE_PRICE": {
+        "en": "Quote me the best price",
+        "kr": "가장 적합한 가격 요청",
+        "vi": "Hãy báo cho tôi giá tốt nhất"
+    },
+    "ORDER.SPECIAL_REQUEST": {
+        "en": "Other Special Request",
+        "kr": "기탁 특별 요구사항",
+        "vi": "Yêu cầu đặc biệt khác"
+    },
+    "ORDER.ADJUSTMENT_AMOUNT": {
+        "en": "Adjustment Amount",
+        "kr": "조정 금액",
+        "vi": "Mức điều chỉnh"
+    },
+    "ORDER.ADJUSTMENT_BY_TRUCK": {
+        "en": "(Suggested by Truck Owner)",
+        "kr": "(트럭 소유자 제안가)",
+        "vi": "(Đề xuất bởi Chủ Xe)"
+    },
+    "ORDER.FORKLIFT_COST": {
+        "en": "Forklift cost",
+        "kr": "지게차 비용",
+        "vi": "Phí nâng hạ"
+    },
+    "ORDER.LABOUR_COST": {
+        "en": "Labour cost",
+        "kr": "인건비",
+        "vi": "Phí bốc xếp"
+    },
+    "ORDER.ROAD_FEE": {
+        "en": "Road fee",
+        "kr": "도로 요금",
+        "vi": "Phí cầu đường"
+    },
+    "ORDER.WAITING_FEE": {
+        "en": "Waiting free",
+        "kr": "무료 대기",
+        "vi": "Phí chờ"
+    },
+    "ORDER.INCENTIVES": {
+        "en": "Incentives",
+        "kr": "인센티브",
+        "vi": "Tiền thưởng"
+    },
+    "ORDER.OTHERS": {
+        "en": "Others",
+        "kr": "기타",
+        "vi": "Khác"
+    },
+    "ORDER.OTHER_PAYMENT_NOTES": {
+        "en": "Input notes",
+        "kr": "메모 입력",
+        "vi": "Nhập ghi chú"
+    },
+    "ORDER.EDIT_PRICE": {
+        "en": "Edit Price (VND)",
+        "kr": "가격 수정 (VND)",
+        "vi": "Chỉnh sửa giá"
+    },
+    "ORDER.WEIGHT": {
+        "en": "(tons)",
+        "kr": "(톤)",
+        "vi": "(tấn)"
+    },
+    "ORDER.MIXED": {
+        "en": "Allow mixed loading",
+        "kr": "혼합 적재 허용",
+        "vi": "Cho phép ghép hàng"
+    },
+    "ORDER.FORKLIFT": {
+        "en": "Require forklift driver",
+        "kr": "지게차 운전자 필요",
+        "vi": "Cần tài xế sử dụng xe nâng"
+    },
+    "ORDER.SELECT_ALL": {
+        "en": "Select all",
+        "kr": "모두 선택",
+        "vi": "Tất cả"
+    },
+    "ORDER.MULTIPLE": {
+        "en": "(Multiple)",
+        "kr": "여러 정차",
+        "vi": "(Nhiều địa điểm)"
+    },
+    "ORDER.PAYMENT_DONE": {
+        "en": "Payment Done",
+        "kr": "결제 완료",
+        "vi": "Đã thanh toán"
+    },
+    "ORDER.PAYMENT_DONE_CUSTOMER": {
+        "en": "Payment done by customer",
+        "kr": "고객 결제 완료",
+        "vi": "Khách hàng đã thanh toán"
+    },
+    "ORDER.PAYMENT_DONE_TRUCK": {
+        "en": "Payment done by truckowner",
+        "kr": "트럭 소유주 결제 완료",
+        "vi": "Chủ xe đã xác nhận thanh toán"
+    },
+    "ORDER.PER_TRUCK": {
+        "en": "/ per truck)",
+        "kr": "/트럭 당)",
+        "vi": "/ mỗi xe)"
+    },
+    "ORDER.MANAGER_NAME_NO": {
+        "en": "Order manager name/contact",
+        "kr": "주문 관리자 이름 / 연락처",
+        "vi": "tên / sdt người quản lý đơn hàng"
+    },
+    "ORDER.PROPOSED_PRICE": {
+        "en": "Proposed Price",
+        "kr": "제안 가격",
+        "vi": "Giá đề xuất"
+    },
+    "ORDER.COST_TYPE": {
+        "en": "Choose the cost type",
+        "kr": "비용 유형 선택",
+        "vi": "Chọn loại chi phí"
+    },
+    "ORDER.ASSIGN_TO_FAV": {
+        "en": "Assign order to specific truck owner",
+        "kr": "특정 트럭 소유자에게 주문 할당",
+        "vi": "Chỉ định chủ xe cụ thể nhận đơn"
+    },
+    "ORDER.ADD_NEW_FAV": {
+        "en": "Add new favorite truckowner",
+        "kr": "좋아하는 트럭 소유자 추가",
+        "vi": "Thêm Chủ xe yêu thích"
+    },
+    "TRUCKOWNER.SERVICE_TITLE": {
+        "en": "My Services",
+        "kr": "나의 서비스",
+        "vi": "Dịch vụ của tôi"
+    },
+    "TRUCKOWNER.TRUCKSERVICE_LABEL": {
+        "en": "My available truck service",
+        "kr": "이용 가능한 트럭 서비스",
+        "vi": "Tôi chỉ cung cấp dịch vụ"
+    },
+    "TRUCKOWNER.TRUCKSERVICE_ALL": {
+        "en": "All types of truck",
+        "kr": "모든 유형의 트럭",
+        "vi": "Tất cả các loại xe"
+    },
+    "TRUCKOWNER.TRUCKSERVICE_TRAILORTRACTOR": {
+        "en": "Trailor tractor truck",
+        "kr": "트레일러 트럭",
+        "vi": "Xe công-te-nơ"
+    },
+    "TRUCKOWNER.TRUCKSERVICE_NORMAL": {
+        "en": "Normal Truck/Van",
+        "kr": "보통 트럭",
+        "vi": "Xe tải các loại"
+    },
+    "TRUCKOWNER.PICKUPZONE_LABEL": {
+        "en": "My pickup zone",
+        "kr": "나의 상차지 구역",
+        "vi": "Tôi chỉ nhận đơn hàng đi từ"
+    },
+    "TRUCKOWNER.PICKUPZONE_ALL": {
+        "en": "All",
+        "kr": "모두 선택",
+        "vi": "Tất cả"
+    },
+    "TRUCKOWNER.CUSTOMER_INFO": {
+        "en": "Customer Info",
+        "kr": "고객 정보",
+        "vi": "Thông tin khách hàng"
+    },
+    "TRUCKOWNER.CUSTOMER_COMPANY": {
+        "en": "Customer company name",
+        "kr": "고객 회사명",
+        "vi": "Tên/Tên công ty của khách hàng"
+    },
+    "TRUCKOWNER.CUSTOMER_PHONE": {
+        "en": "Customer Contact No",
+        "kr": "고객 연락처",
+        "vi": "ĐT liên hệ với khách hàng"
+    },
+    "TRUCKOWNER.CUSTOMER_EMAIL": {
+        "en": "Customer Email",
+        "kr": "고객 이메일",
+        "vi": "Email của khách hàng"
+    },
+    "TRUCKOWNER.ASSIGN_TITLE": {
+        "en": "Assign Truck & Driver",
+        "kr": "트럭 & 배송기사 지정",
+        "vi": "Chọn xe và tài xế"
+    },
+    "TRUCKOWNER.NEW_TITLE": {
+        "en": "New Truck owner",
+        "kr": "새로운 트럭 사업자",
+        "vi": "Tạo chủ xe mới"
+    },
+    "TRUCKOWNER.EDIT_TITLE": {
+        "en": "Edit Truck owner",
+        "kr": "트럭 사업자 변경",
+        "vi": "Chỉnh sửa thông tin chủ xe"
+    },
+    "TRUCKOWNER.MANAGE_TITLE": {
+        "en": "Manage Truck owners",
+        "kr": "트럭 사업자 관리",
+        "vi": "Quản lý chủ xe"
+    },
+    "TRUCKOWNER.FORGOT_MESSAGE": {
+        "en": "Please input your email address to reset your password",
+        "kr": "비밀번호 변경을 위해 이메일 주소를 입력해 주세요.",
+        "vi": "Vui lòng nhập email mà bạn đã đăng ký với TADA dành cho Chủ xe để thiết lập lại mật khẩu của bạn"
+    },
+    "TRUCKOWNER.PUBLIC_ID": {
+        "en": "Partner ID",
+        "kr": "파트너 ID",
+        "vi": "Mã đối tác"
+    },
+    "TRUCKOWNER.MANAGE_RESTORE_TITLE": {
+        "en": "Manage Deleted Truck Owners",
+        "kr": "삭제된 트럭 사업자 관리",
+        "vi": "Quản lý tài khoản chủ xe đã bị xóa"
+    },
+    "TRUCKOWNER.STATUS_ASSIGNED": {
+        "en": "Accepted",
+        "kr": "수락",
+        "vi": "Đồng ý"
+    },
+    "TRUCKOWNER.STATUS_DISPATCHED": {
+        "en": "Job started",
+        "kr": "작업 시작",
+        "vi": "Sắp xếp xe"
+    },
+    "TRUCKOWNER.STATUS_PICKING": {
+        "en": "Picking up",
+        "kr": "집화",
+        "vi": "Đi lấy hàng"
+    },
+    "TRUCKOWNER.STATUS_PICKARRIVED": {
+        "en": "Pick up arrived",
+        "kr": "상차지 도착",
+        "vi": "Đợi lấy hàng"
+    },
+    "TRUCKOWNER.STATUS_DELIVERING": {
+        "en": "Delivering",
+        "kr": "배송 중",
+        "vi": "Đi giao hàng"
+    },
+    "TRUCKOWNER.STATUS_DELIVERED": {
+        "en": "Delivered",
+        "kr": "배송 완료",
+        "vi": "Hoàn thành"
+    },
+    "TRUCKOWNER.STATUS_CUSTCANCEL": {
+        "en": "Customer Cancelling",
+        "kr": "고객이 취소",
+        "vi": "Khách hủy"
+    },
+    "TRUCKOWNER.STATUS_DRIVERCANCEL": {
+        "en": "Driver Cancelling",
+        "kr": "취소 중",
+        "vi": "Tài xế hủy"
+    },
+    "TRUCKOWNER.STATUS_CANCELLED": {
+        "en": "Cancelled",
+        "kr": "취소 완료",
+        "vi": "Đã hủy"
+    },
+    "TRUCKOWNER.CONTAINERSIZE_LABEL": {
+        "en": "My Container size",
+        "kr": "나의 컨테이너 사이즈",
+        "vi": "Kích cỡ công của tôi"
+    },
+    "TRUCKOWNER.TRUCKPAYLOAD_LABEL": {
+        "en": "My Truck payload",
+        "kr": "나의 트럭 탑재량",
+        "vi": "Tải trọng xe của tôi"
+    },
+    "TRUCKOWNER.BANK_ACCOUNT_TITLE": {
+        "en": "Bank Account Information",
+        "kr": "은행 계좌 정보",
+        "vi": "Thông tin Tài khoản Ngân hàng"
+    },
+    "TRUCKOWNER.BANK_NAME": {
+        "en": "Bank Name",
+        "kr": "은행 이름",
+        "vi": "Tên ngân hàng"
+    },
+    "TRUCKOWNER.BANK_BRANCH": {
+        "en": "Bank Branch",
+        "kr": "은행 지점",
+        "vi": "Chi nhánh"
+    },
+    "TRUCKOWNER.BANK_ACCOUNT_HOLDER_NAME": {
+        "en": "Bank account holder name",
+        "kr": "은행 계좌 소유자 이름",
+        "vi": "Tên chủ tài khoản"
+    },
+    "TRUCKOWNER.BANK_ACCOUNT_NUMBER": {
+        "en": "Bank account number",
+        "kr": "은행 계좌 번호",
+        "vi": "Số tài khoản"
+    },
+    "TRUCKOWNER.MY_ORDERS": {
+        "en": "My orders",
+        "kr": "내 작업",
+        "vi": "Đơn hàng của tôi"
+    },
+    "TRUCK.ID": {
+        "en": "Id",
+        "kr": "Id",
+        "vi": "Id"
+    },
+    "TRUCK.TITLE": {
+        "en": "My trucks",
+        "kr": "나의 트럭",
+        "vi": "Danh sách xe"
+    },
+    "TRUCK.NEW_TITLE": {
+        "en": "New Truck Info",
+        "kr": "새로운 트럭 정보",
+        "vi": "Thông tin xe mới"
+    },
+    "TRUCK.TYPE": {
+        "en": "Truck Type",
+        "kr": "트럭 유형",
+        "vi": "Loại xe"
+    },
+    "TRUCK.PLATE_NO": {
+        "en": "Truck Plate NO",
+        "kr": "트럭 차량번호",
+        "vi": "Biển số xe"
+    },
+    "TRUCK.LOAD": {
+        "en": "Truck Load",
+        "kr": "트럭 톤수",
+        "vi": "Tải trọng xe"
+    },
+    "TRUCK.CERIFICATE": {
+        "en": "Upload Certification of registry",
+        "kr": "차량등록증 업로드",
+        "vi": "Tải lên giấy đăng ký xe"
+    },
+    "TRUCK.STATUS": {
+        "en": "Status",
+        "kr": "상태",
+        "vi": "Trạng thái"
+    },
+    "TRUCK.STATUS_NOTE": {
+        "en": "Please upload Certificate of Registry to have account verified",
+        "kr": "계정 인증을 위해 차량등록증을 업로드해 주시기 바랍니다.",
+        "vi": "Hãy tải lên bản chụp CMND hoặc giấy phép KD công ty để xác thực tài khoản"
+    },
+    "TRUCK.SELECT_TITLE": {
+        "en": "Select the truck",
+        "kr": "트럭 선택",
+        "vi": "Chọn xe chở hàng"
+    },
+    "TRUCK.ASSIGN_LABEL": {
+        "en": "Assign to Truck",
+        "kr": "트럭 배정",
+        "vi": "Chọn xe chở hàng"
+    },
+    "TRUCK.ADD_NEW": {
+        "en": "Add New Truck",
+        "kr": "트럭 추가",
+        "vi": "Thêm mới xe chở hàng"
+    },
+    "TRUCK.EDIT_TITLE": {
+        "en": "Edit Truck Info",
+        "kr": "트럭 정보 변경",
+        "vi": "Chỉnh sửa thông tin xe"
+    },
+    "TRUCK.MANAGE_TITLE": {
+        "en": "Manage Trucks",
+        "kr": "트럭 관리",
+        "vi": "Quản lý xe chở hàng"
+    },
+    "DRIVER.TITLE": {
+        "en": "My drivers",
+        "kr": "나의 배송기사",
+        "vi": "Danh sách tài xế"
+    },
+    "DRIVER.NEW_TITLE": {
+        "en": "New Driver Info",
+        "kr": "새로운 트럭 사업자 정보",
+        "vi": "Thông tin tài xế mới"
+    },
+    "DRIVER.NAME": {
+        "en": "Driver Name",
+        "kr": "배송기사 이름",
+        "vi": "Tên tài xế"
+    },
+    "DRIVER.PHONE": {
+        "en": "Phone NO",
+        "kr": "전화번호",
+        "vi": "Điện thoại"
+    },
+    "DRIVER.ID": {
+        "en": "Driver Card ID",
+        "kr": "배송기사 신분증",
+        "vi": "CMND"
+    },
+    "DRIVER.CARD_FRONT": {
+        "en": "Upload Driver ID Card (front)",
+        "kr": "배송기사 신분증(앞면) 업로드",
+        "vi": "Tải lên CMND (mặt trước)"
+    },
+    "DRIVER.CARD_BACK": {
+        "en": "Upload Driver ID Card (back)",
+        "kr": "배송기사 신분증(뒷면) 업로드",
+        "vi": "Tải lên CMND (mặt sau)"
+    },
+    "DRIVER.LICENCE_CARD": {
+        "en": "Upload Driver License Card (front)",
+        "kr": "운전 면허증(앞면) 업로드",
+        "vi": "Tải lên giấy phép lái xe"
+    },
+    "DRIVER.STATUS": {
+        "en": "Status",
+        "kr": "상태",
+        "vi": "Trạng thái"
+    },
+    "DRIVER.STATUS_NOTE": {
+        "en": "Please upload Driver Card ID NO and Driver License to have account verified",
+        "kr": "계정 인증을 위해 운전 면허증을 업로드해 주세요.",
+        "vi": "Hãy tải lên bản chụp CMND hoặc bằng lái xe để xác thực tài khoản"
+    },
+    "DRIVER.SELECT_TITLE": {
+        "en": "Select Driver",
+        "kr": "배송기사 선택",
+        "vi": "Chọn tài chở hàng"
+    },
+    "DRIVER.ASSIGN_LABEL": {
+        "en": "Assign to Driver",
+        "kr": "배송기사에게 배정",
+        "vi": "Chọn tài chở hàng"
+    },
+    "DRIVER.ADD_NEW": {
+        "en": "Add New Driver",
+        "kr": "배송기사 추가",
+        "vi": "Thêm tài mới"
+    },
+    "DRIVER.ADMIN_NEW_TITLE": {
+        "en": "New Driver",
+        "kr": "새로운 배송기사",
+        "vi": "Thêm tài mới"
+    },
+    "DRIVER.EDIT_TITLE": {
+        "en": "Edit Driver",
+        "kr": "배송기사 변경",
+        "vi": "Chỉnh sửa thông tin tài xế"
+    },
+    "DRIVER.MANAGE_TITLE": {
+        "en": "Manage Drivers",
+        "kr": "배송기사 관리",
+        "vi": "Quản lý tài xế"
+    },
+    "JOB.TITLE": {
+        "en": "My jobs",
+        "kr": "나의 작업",
+        "vi": "Đơn hàng của tôi"
+    },
+    "JOB.ONGOING_TITLE": {
+        "en": "On-going jobs",
+        "kr": "진행 중인 작업",
+        "vi": "Đơn hàng đang thực hiện"
+    },
+    "JOB.PAST_TITLE": {
+        "en": "Past jobs",
+        "kr": "완료된 작업",
+        "vi": "Lịch sử đơn hàng"
+    },
+    "JOB.CUSTOMER_NAME": {
+        "en": "Customer Name",
+        "kr": "고객 이름",
+        "vi": "Tên khách hàng"
+    },
+    "JOB.CUSTOMER_EMAIL": {
+        "en": "Customer Email",
+        "kr": "고객 이메일",
+        "vi": "Email khách hàng"
+    },
+    "JOB.DOCUMENT": {
+        "en": "Documents",
+        "kr": "문서",
+        "vi": "Hóa đơn chứng từ"
+    },
+    "JOB.ORDER_NOTE": {
+        "en": "Click on Order ID to see Summary Info",
+        "kr": "요약 정보를 보기 위해 주문 ID를 클릭하세요.",
+        "vi": "Nhấn vào mã đơn hàng để xem thông tin chi tiết"
+    },
+    "JOB.THANKYOU_TITLE": {
+        "en": "Thank you for accepting the order!",
+        "kr": "주문을 수락해 주셔서 감사합니다.",
+        "vi": "Cảm ơn bạn đã chấp nhận đơn hàng!"
+    },
+    "JOB.THANKYOU_MESSAGE": {
+        "en": "Please contact customer to negotiate more on the price and contract (if any)",
+        "kr": "가격과 계약 협상을 위해 고객에게 연락하세요. (필요한 경우)",
+        "vi": "Vui lòng liên hệ với khách hàng để thương lượng thêm về giá cả và hợp đồng (nếu có)"
+    },
+    "ADMIN_MENU.CUSTOMER": {
+        "en": "Customers",
+        "kr": "고객",
+        "vi": "Khách hàng"
+    },
+    "ADMIN_MENU.DRIVER": {
+        "en": "Drivers",
+        "kr": "배송기사",
+        "vi": "Tài xế"
+    },
+    "ADMIN_MENU.TRUCKOWNER": {
+        "en": "Truck owners",
+        "kr": "트럭 사업자",
+        "vi": "Chủ xe"
+    },
+    "ADMIN_MENU.ADMIN_ACCOUNT": {
+        "en": "Admin accounts",
+        "kr": "관리자 계정",
+        "vi": "Tài khoản quản trị"
+    },
+    "ADMIN_MENU.ORDER": {
+        "en": "Orders",
+        "kr": "주문",
+        "vi": "Đơn hàng"
+    },
+    "ADMIN_MENU.REPORT": {
+        "en": "Reports",
+        "kr": "리포트",
+        "vi": "Báo cáo"
+    },
+    "ADMIN_MENU.AUDIT_LOG": {
+        "en": "Audit logs",
+        "kr": "감사 로그",
+        "vi": "Nhật ký chỉnh sửa"
+    },
+    "ADMIN_MENU.NOTIFICATION": {
+        "en": "Notification",
+        "kr": "알림",
+        "vi": "Thông báo"
+    },
+    "ADMIN_MENU.SMSSETTING": {
+        "en": "Sms Setting",
+        "kr": "문자(SMS) 설정",
+        "vi": "Cài đặt Sms"
+    },
+    "ADMIN_MENU.SETTING": {
+        "en": "Settings",
+        "kr": "설정",
+        "vi": "Thiết lập"
+    },
+    "ADMIN_MENU.LOG_OUT": {
+        "en": "Log out",
+        "kr": "로그아웃",
+        "vi": "Thoát"
+    },
+    "ADMIN_MENU.FORGOT_MESSAGE": {
+        "en": "Please input your email address to reset your password",
+        "kr": "비밀번호 변경을 위해 이메일 주소를 입력해 주세요.",
+        "vi": "Vui lòng nhập email của bạn để thiết lập lại mật khẩu"
+    },
+    "ADMIN_MENU.SMSSETTINGTITLE": {
+        "en": "Sms Configuration",
+        "kr": "문자(SMS) 구성",
+        "vi": "Cài đặt Sms"
+    },
+    "NOTIFICATION.TITLE": {
+        "en": "Title",
+        "kr": "주제",
+        "vi": "Tiêu đề"
+    },
+    "NOTIFICATION.BODY": {
+        "en": "Body",
+        "kr": "내용",
+        "vi": "Nội dung"
+    },
+    "NOTIFICATION.CREATED_DATE": {
+        "en": "Created Date",
+        "kr": "생성일",
+        "vi": "Ngày tạo"
+    },
+    "NOTIFICATION.SOURCE_TYPE": {
+        "en": "From",
+        "kr": "송부",
+        "vi": "Từ"
+    },
+    "NOTIFICATION.SEND_TO": {
+        "en": "Send this notification to?",
+        "kr": "이 알림을 보내시겠습니까?",
+        "vi": "Gửi thông báo này đến?"
+    },
+    "NOTIFICATION.MANAGE_TITLE": {
+        "en": "Manage Notifications",
+        "kr": "알림 관리",
+        "vi": "Quản lý các thông báo"
+    },
+    "NOTIFICATION.CREATE_TITLE": {
+        "en": "Create Notification",
+        "kr": "알림 생성",
+        "vi": "Tạo thông báo"
+    },
+    "NOTIFICATION.EDIT_TITLE": {
+        "en": "Edit Notification",
+        "kr": "알림 설정",
+        "vi": "Chỉnh sửa thông báo"
+    },
+    "NOTIFICATION.TYPE": {
+        "en": "Type of Notification",
+        "kr": "알림 유형",
+        "vi": "Loại thông báo"
+    },
+    "NOTIFICATION.CONTENT": {
+        "en": "Information",
+        "kr": "정보",
+        "vi": "Thông tin"
+    },
+    "NOTIFICATION.READED": {
+        "en": "Is Readed?",
+        "kr": "확인하셨습니까?",
+        "vi": "Đã đọc?"
+    },
+    "AUDIT_LOG.MODULE": {
+        "en": "Role",
+        "kr": "유형",
+        "vi": "Role"
+    },
+    "AUDIT_LOG.MANAGE_TITLE": {
+        "en": "Manage Audit Logs",
+        "kr": "감사 로그 관리",
+        "vi": "Quản lý Nhật ký chỉnh sửa"
+    },
+    "AUDIT_LOG.ACTION": {
+        "en": "Action",
+        "kr": "실행",
+        "vi": "Thao tác"
+    },
+    "AUDIT_LOG.CREATED_DATE": {
+        "en": "Action Date",
+        "kr": "실행일",
+        "vi": "Ngày thao tác"
+    },
+    "AUDIT_LOG.CREATED_BY": {
+        "en": "Action By",
+        "kr": "실행인",
+        "vi": "Thao tác bởi"
+    },
+    "AUDIT_LOG.CONTENT": {
+        "en": "Information",
+        "kr": "정보",
+        "vi": "Thông tin"
+    },
+    "AUDIT_LOG.PHONE_NUMBER": {
+        "en": "Phone number",
+        "kr": "전화 번호",
+        "vi": "Số điện thoại"
+    },
+    "ADMIN.ROLE": {
+        "en": "Admin Roles",
+        "kr": "관리자 역할",
+        "vi": "Phân quyền"
+    },
+    "ADMIN.NEW_ACCOUNT": {
+        "en": "New Admin Account",
+        "kr": "새로운 관리자 계정",
+        "vi": "Tài khoản quản trị mới"
+    },
+    "ADMIN.EDIT_ACCOUNT": {
+        "en": "Edit Admin Account",
+        "kr": "관리자 계정 변경",
+        "vi": "Chỉnh sửa tài khoản quản trị"
+    },
+    "ADMIN.ROLE_ADMIN": {
+        "en": "Admin",
+        "kr": "관리자",
+        "vi": "Quản trị"
+    },
+    "ADMIN.ROLE_SUPERADMIN": {
+        "en": "Super Admin",
+        "kr": "상위 관리자",
+        "vi": "Quản trị viên cấp cao"
+    },
+    "ADMIN.CREATED_DATE": {
+        "en": "Created date",
+        "kr": "생성일",
+        "vi": "Tạo ngày"
+    },
+    "ADMIN.UPDATED_DATE": {
+        "en": "Updated date",
+        "kr": "업데이트일",
+        "vi": "Cập nhật ngày"
+    },
+    "ADMIN.CREATE_BY": {
+        "en": "Created by",
+        "kr": "생성인",
+        "vi": "Tạo bới"
+    },
+    "ADMIN.COL_ACTIONS": {
+        "en": "Actions",
+        "kr": "실행",
+        "vi": "Hoạt động"
+    },
+    "ADMIN.MANAGE_ACCOUNT": {
+        "en": "Manage Admin Accounts",
+        "kr": "관리자 계정 관리",
+        "vi": "Quản lý tài khoản quản trị"
+    },
+    "ADMIN.SELECTED_ITEMS": {
+        "en": "selected item(s)",
+        "kr": "선택된 목록",
+        "vi": "mục đã được chọn"
+    },
+    "ADMIN.ACCEPT_SMS": {
+        "en": "Order accepted",
+        "kr": "오더 수락됨",
+        "vi": "Tin nhắn chấp nhận đơn hàng"
+    },
+    "ADMIN.CANCELLED_SMS": {
+        "en": "Order cancelled",
+        "kr": "오더 취소됨",
+        "vi": "Tin nhắn hủy đơn hàng"
+    },
+    "ADMIN.COMPLETE_SMS": {
+        "en": "Order completed",
+        "kr": "오더 완료됨",
+        "vi": "Hoàn thành đơn hàng"
+    },
+    "ADMIN.DRIVER_DELIVER_SMS": {
+        "en": "Driver delivering",
+        "kr": "배송중",
+        "vi": "Tài đang giao"
+    },
+    "ADMIN.DRIVER_PICKUP_SMS": {
+        "en": "Driver pickup",
+        "kr": "픽업중",
+        "vi": "Tài đã lấy hàng"
+    },
+    "ADMIN.MANAGE_PAYMENTS": {
+        "en": "Admin Manage Payments",
+        "kr": "관리자 결제 관리",
+        "vi": "Quản lý thanh toán"
+    },
+    "ADMIN.LAST_ACTIVE_DATE": {
+        "en": "Last active date",
+        "kr": "마지막 활성 날짜",
+        "vi": "Hoạt động lần cuối"
+    },
+    "MESSAGES.SELECTED_ITEMS": {
+        "en": "You haven't selected any items!",
+        "kr": "목록을 선택하지 않으셨습니다!",
+        "vi": "Bạn chưa chọn bất kì mục nào!"
+    },
+    "MESSAGES.FORGOT_SUCCESS": {
+        "en": "An email have sent to your email. Please check your email.",
+        "kr": "메일이 전송되었습니다. 이메일을 확인해 주세요.",
+        "vi": "Một email đã được gửi cho bạn. Vui lòng kiểm tra mail"
+    },
+    "MESSAGES.CONFIRM_DELETE": {
+        "en": "Are you sure you want to delete?",
+        "kr": "정말 삭제하시겠습니까?",
+        "vi": "Bạn có chắc bạn muốn xóa?"
+    },
+    "MESSAGES.CONFIRM_PUBLISH": {
+        "en": "Do you want to publish this quotation to customer?",
+        "kr": "Do you want to publish this quotation to customer?",
+        "vi": "Bạn có muốn xuất bản báo giá này cho khách hàng không?"
+    },
+    "MESSAGES.CONFIRM_VERIFY": {
+        "en": "Are you sure to you want to verify this user?",
+        "kr": "해당 사용자를 인증 하시겠습니까?",
+        "vi": "Bạn có muốn xác thực người dùng này?"
+    },
+    "MESSAGES.CONFIRM_RESET": {
+        "en": "Are you sure you want to reset?",
+        "kr": "변경하시겠습니까?",
+        "vi": "Bạn có chắc bạn muốn thiết lập lại?"
+    },
+    "MESSAGES.CONFIRM_CANCEL": {
+        "en": "Are you sure you want to cancel?",
+        "kr": "정말 취소하시겠습니까?",
+        "vi": "Bạn có chắc bạn muốn hủy?"
+    },
+    "MESSAGES.CONFIRM_RESTORE": {
+        "en": "Are you sure to restore this account?",
+        "kr": "이 계정을 복원시키겠습니까?",
+        "vi": "Bạn có chắc bạn muốn khôi phục lại tài khoản này?"
+    },
+    "MESSAGES.DELETE_SUCCESS": {
+        "en": "Deleted successfully",
+        "kr": "삭제되었습니다.",
+        "vi": "Đã xóa thành công"
+    },
+    "MESSAGES.PUBLISH_SUCCESS": {
+        "en": "Published successfully",
+        "kr": "Published successfully",
+        "vi": "Xuất bản thành công"
+    },
+    "MESSAGES.VERIFY_SUCCESS": {
+        "en": "Verified successfully",
+        "kr": "인증 완료",
+        "vi": "Đã xác thực thành công"
+    },
+    "MESSAGES.UPDATE_SUCCESS": {
+        "en": "Updated successfully",
+        "kr": "업데이트 되었습니다.",
+        "vi": "Đã cập nhật thành công"
+    },
+    "MESSAGES.CREATED_SUCCESS": {
+        "en": "Created successfully",
+        "kr": "생성되었습니다.",
+        "vi": "Đã tạo thành công"
+    },
+    "MESSAGES.IMAGE_SIZE": {
+        "en": "Image size < 3MB",
+        "kr": "이미지 크기 < 3MB",
+        "vi": "Hình ảnh < 3MB"
+    },
+    "MESSAGES.IMAGE_SIZE_LIMIT": {
+        "en": "(Image size < 3Mbs) (< 6 images)",
+        "kr": "사진 업로드 (이미지 크기<3Mbs) (<6 이미지)",
+        "vi": "(kích thước < 3Mbs) (< 6 ảnh)"
+    },
+    "MESSAGES.LOGIN_FAIL": {
+        "en": "Login fail",
+        "kr": "로그인 실패",
+        "vi": "Đăng nhập lỗi"
+    },
+    "MESSAGES.CREATE_ERROR": {
+        "en": "Can not create user",
+        "kr": "계정을 생성할 수 없습니다.",
+        "vi": "Không thể tạo tài khoản"
+    },
+    "MESSAGES.EMAIL_EXIST": {
+        "en": "Email existed",
+        "kr": "이메일이 존재합니다.",
+        "vi": "Email đã tồn tại"
+    },
+    "MESSAGES.INVALID": {
+        "en": "invalid",
+        "kr": "올바르지 않습니다.",
+        "vi": "Không đúng"
+    },
+    "MESSAGES.ERROR": {
+        "en": "An error occurred please try again later",
+        "kr": "오류가 발생하였으니 다시 시도해 주세요.",
+        "vi": "Một lỗi đã xảy ra, vui lòng thử lại sau"
+    },
+    "MESSAGES.NOT_FOUND": {
+        "en": "Not found",
+        "kr": "찾을 수 없습니다.",
+        "vi": "Không tìm thấy"
+    },
+    "MESSAGES.SELF_DELETE": {
+        "en": "Cannot delete yourself",
+        "kr": "삭제하실 수 없습니다.",
+        "vi": "Không thể xóa bản thân"
+    },
+    "MESSAGES.SUPER_ADMIN_DELETE": {
+        "en": "Cannot delete super admin",
+        "kr": "상위 관리자는 삭제하실 수 없습니다.",
+        "vi": "Không thể xóa quản trị viên cao cấp"
+    },
+    "MESSAGES.COMPANY_EXIST": {
+        "en": "Company already existed",
+        "kr": "회사가 이미 존재합니다.",
+        "vi": "Công ty này thực sự đã tồn tại"
+    },
+    "MESSAGES.ORDER_NOT_FOUND": {
+        "en": "No order found",
+        "kr": "주문을 찾을 수 없습니다.",
+        "vi": "Không tìm thấy đơn hàng"
+    },
+    "MESSAGES.DRIVER_NOT_FOUND": {
+        "en": "No driver found",
+        "kr": "배송기사를 찾을 수 없습니다.",
+        "vi": "Không tìm thấy tài xế"
+    },
+    "MESSAGES.TRUCK_NOT_FOUND": {
+        "en": "No truck found",
+        "kr": "트럭을 찾을 수 없습니다.",
+        "vi": "Không tìm thấy xe"
+    },
+    "MESSAGES.PHONE_EXIST": {
+        "en": "Phone number already existed",
+        "kr": "전화번호가 이미 존재합니다.",
+        "vi": "Số điện thoại thực sự đã tồn tại"
+    },
+    "MESSAGES.EXISTED": {
+        "en": "Email is already existed",
+        "kr": "이메일이 이미 존재합니다.",
+        "vi": "Email thực sự đã tôn tại"
+    },
+    "MESSAGES.TRUCK_OWNER_NOT_FOUND": {
+        "en": "No truck owner found",
+        "kr": "검색된 트럭 사업자가 없습니다.",
+        "vi": "Không tìm thấy chủ xe nào"
+    },
+    "MESSAGES.ALREADY_FAVORITED": {
+        "en": "This truck Operator already added!",
+        "kr": "이 트럭 사업자는 이미 추가되었습니다.",
+        "vi": "Chủ xe này thực sự đã được thêm!"
+    },
+    "MESSAGES.CREATE_ORDER_ERROR": {
+        "en": "Cannot create order",
+        "kr": "주문을 생성할 수 없습니다.",
+        "vi": "Không thể tạo đơn hàng"
+    },
+    "MESSAGES.NOT_ASSIGNED": {
+        "en": "Order is not assigned by truck owners",
+        "kr": "주문이 아직 트럭 사업자에게 배정되지 않았습니다.",
+        "vi": "Đơn hàng chưa được các chủ xe đồng ý"
+    },
+    "MESSAGES.DELETED_ACCOUNT": {
+        "en": "Account has been deleted, contact TADA for support!",
+        "kr": "계정이 삭제되었습니다. TADA에 연락하십시오!",
+        "vi": "Tài khoản của bạn đã bị xóa, liên hệ Tada để được hổ trợ"
+    },
+    "MESSAGES.DRIVER_ALREADY_ADDED": {
+        "en": "This driver already added by other truck owner",
+        "kr": "이 배송기사는 다른 트럭 사업자에 의해 이미 추가되었습니다.",
+        "vi": "Tài xế này thực sự đã được thêm bởi một chủ xe khác"
+    },
+    "MESSAGES.KICKED_OUT": {
+        "en": "You have logged in somewhere else, try to relog",
+        "kr": "다른 곳에서 이미 로그인한 상태입니다. 다시 시도해 주세요.",
+        "vi": "Bạn đã đăng nhập ở một nơi khác, vui lòng thử đăng nhập lại"
+    },
+    "MESSAGES.WRONG_PHONE_NUMBER_FORMAT": {
+        "en": "Wrong phone format",
+        "kr": "전화 번호 형식이 올바르지 않습니다.",
+        "vi": "Định dạng số điện thoại sai"
+    },
+    "MESSAGES.PHONE_INPUT_TOO_LONG": {
+        "en": "Phone number too long",
+        "kr": "전화 번호가 너무 깁니다.",
+        "vi": "Số điện thoại quá dài"
+    },
+    "MESSAGES.TAKEN": {
+        "en": "Order already taken by other truck owner!",
+        "kr": "주문이 다른 트럭 사업자에게 이미 접수되었습니다!",
+        "vi": "Đơn hàng đã được lấy bởi một chủ xe khác!"
+    },
+    "MESSAGES.TOKEN_ERROR": {
+        "en": "Token is not found or cannot be parsed",
+        "kr": "토큰을 찾을 수 없습니다",
+        "vi": "Token không thể tìm thấy"
+    },
+    "MESSAGES.ORDER_PERMISSION": {
+        "en": "You do not have permission for this order",
+        "kr": "이 주문에 대한 권한이 없습니다.",
+        "vi": "Bạn không có quyền trên đơn hàng này"
+    },
+    "MESSAGES.LACK_DRIVER_OR_TRUCK": {
+        "en": "Lack of driver or truck!",
+        "kr": "배송기사나 트럭이 부족합니다.",
+        "vi": "Thiếu tài xế hoặc xe tải!"
+    },
+    "MESSAGES.FINDNEWTRUCK_ERROR_STATUS": {
+        "en": "Your orders have to be already assigned for finding new truck",
+        "kr": "주문이 새로 찾은 트럭 사업자에게 이미 배정되었습니다.",
+        "vi": "Đơn hàng của bạn thật sự đã được đồng ý bởi chủ xe mới"
+    },
+    "MESSAGES.NOT_VERIFIED": {
+        "en": "To take order you need to verified your account, contact TADA for support",
+        "kr": "주문을 위해 계정을 인증해 주세요. 도움이 필요하시면, TADA에 연락 주세요.",
+        "vi": "Để lấy đơn hàng bạn cần xác thực tài khoản, liên hệ Tada để được hổ trợ"
+    },
+    "MESSAGES.FOLDER_NOT_EXISTED": {
+        "en": "Folder is not existed",
+        "kr": "폴더가 존재하지 않습니다.",
+        "vi": "Thư mục không tồn tại"
+    },
+    "MESSAGES.COMPANY_NOT_EXISTED": {
+        "en": "Company does is not exist",
+        "kr": "회사가 존재하지 않습니다.",
+        "vi": "Công ty này không tồn tại"
+    },
+    "MESSAGES.DRIVER_EXISTED": {
+        "en": "Driver is existed",
+        "kr": "배송기사가 존재합니다.",
+        "vi": "Tài xế thực sự đã tồn tại"
+    },
+    "MESSAGES.CUSTOMER_CANCEL_ORDER": {
+        "en": "You do not allow to cancel this order due to its status",
+        "kr": "주문의 현재 상태에서는 주문을 취소할 수 없습니다.",
+        "vi": "Không thể hủy đơn hàng này. Vui lòng liên hệ Tada!"
+    },
+    "MESSAGES.DRIVER_CANCEL_ORDER": {
+        "en": "You do not allow to cancel this order, please contact with TADA!",
+        "kr": "주문을 취소할 수 없습니다. TADA에 연락 주세요!",
+        "vi": "Không thể hủy đơn hàng này. Vui lòng liên hệ Tada!"
+    },
+    "MESSAGES.ORDER_CANCELED": {
+        "en": "This order is already canceled",
+        "kr": "주문이 취소되었습니다.",
+        "vi": "Đơn hàng này thực sự đã bị hủy"
+    },
+    "MESSAGES.EMAIL_NOT_VERIFY": {
+        "en": "Email is not verified",
+        "kr": "이메일이 미인증 상태입니다.",
+        "vi": "Email chưa xác thực"
+    },
+    "MESSAGES.PHONE_OTP_VERIFY": {
+        "en": "Phone OTP not verified",
+        "kr": "OTP 인증이 이루어지지 않았습니다.",
+        "vi": "Mã OTP của điện thoại không được xác thực"
+    },
+    "MESSAGES.INCORRECT_OTP": {
+        "en": "Incorrect OTP",
+        "kr": "OTP가 올바르지 않습니다.",
+        "vi": "Mã OTP không đúng"
+    },
+    "MESSAGES.OTP_EXPIRED": {
+        "en": "OTP expired",
+        "kr": "OTP가 만료되었습니다.",
+        "vi": "Mã OTP đã hết hạng"
+    },
+    "MESSAGES.PHONE_NOT_EXIST": {
+        "en": "Phone number does not exist",
+        "kr": "전화번호가 존재하지 않습니다.",
+        "vi": "Số điện thoại không tồn tại"
+    },
+    "MESSAGES.PICKUP_CODE_INCORRECT": {
+        "en": "Pickup code is incorrect!",
+        "kr": "상차 코드가 올바르지 않습니다.",
+        "vi": "Mã lấy hàng không đúng!"
+    },
+    "MESSAGES.DELIVERY_CODE_INCORRECT": {
+        "en": "Delivery code is incorrect!",
+        "kr": "배송 코드가 올바르지 않습니다.",
+        "vi": "Mã nhận hàng không đúng!"
+    },
+    "MESSAGES.ADMIN_NOT_FOUND": {
+        "en": "Admin not found",
+        "kr": "관리자를 찾을 수 없습니다.",
+        "vi": "Không tìm thấy tài khoản quản trị viên"
+    },
+    "MESSAGES.CUSTOMER_NOT_FOUND": {
+        "en": "Customer not found",
+        "kr": "고객을 찾을 수 없습니다.",
+        "vi": "Không tìm thấy khách hàng"
+    },
+    "MESSAGES.EMPLOYEE_NOT_FOUND": {
+        "en": "Employee not found",
+        "kr": "직원을 찾을 수 없습니다.",
+        "vi": "Không tìm thấy nhân viên"
+    },
+    "MESSAGES.EMAIL_NOT_FOUND": {
+        "en": "Email not found",
+        "kr": "이메일을 찾을 수 없습니다.",
+        "vi": "Không tìm thấy email"
+    },
+    "MESSAGES.SERVICE_TYPE_OR_ORDER_TYPE": {
+        "en": "Service type, Order type are required",
+        "kr": "서비스 유형, 주문 유형은 필수 입력사항입니다.",
+        "vi": "Loại xe, loại đơn hàng là thông tin bắt buộc"
+    },
+    "MESSAGES.DETAIL_REQUIRED": {
+        "en": "Your detail request is required",
+        "kr": "세부 요청사항을 입력해 주세요.",
+        "vi": "Yêu cầu chi tiết của bạn là thông tin bắt buộc"
+    },
+    "MESSAGES.CARGO_TYPE_OR_NAME": {
+        "en": "Cargo type, Cargo description are required",
+        "kr": "화물 유형, 화물 상세는 필수 입력사항입니다.",
+        "vi": "Loại hàng hóa, Mô tả hàng hóa là thông tin bắt buộc"
+    },
+    "MESSAGES.TRUCK_SPECIAL_OR_QUANTITY": {
+        "en": "Truck type, Truck quantity are required",
+        "kr": "트럭 유형, 트럭 수량은 필수 입력사항입니다.",
+        "vi": "Loại xe tải, số lương xe là thông tin bắt buộc"
+    },
+    "MESSAGES.CONTAINER_REQUIRED": {
+        "en": "Container size, Container type, Container quantity are required",
+        "kr": "컨테이너 크기, 컨테이너 유형, 컨테이너 수량은 필수 입력사항입니다.",
+        "vi": "Kích cỡ công, Loại công, Số lượng công là thông tin bắt buộc"
+    },
+    "MESSAGES.SUPPER_EXIST": {
+        "en": "Supper admin already existed",
+        "kr": "상위 관리자가 이미 존재합니다.",
+        "vi": "Tài khoản quản trị thật sự đã tồn tại"
+    },
+    "MESSAGES.REDIRECT_WARNING": {
+        "en": "You haven’t completed your new order yet. If you move to another page, all the new order’s information will be lost. Do you want to continue?",
+        "kr": "아직 새 주문을 완료하지 않았습니다. 다른 페이지로 이동하면 모든 새 주문 정보가 손실됩니다. 계속 하시겠습니까?",
+        "vi": "Bạn vẫn chưa hoàn thành đơn đặt hàng của mình. Nếu bạn chuyển sang trang khác, tất cả thông tin của đơn đặt hàng mới sẽ bị mất. Bạn có muốn tiếp tục?"
+    },
+    "MESSAGES.DOCUMENT_SIZE": {
+        "en": "Document size < 3MB",
+        "kr": "문서 크기 < 3MB",
+        "vi": "Kích thước tài liệu < 3MB"
+    },
+    "MESSAGES.DOCUMENT_SIZE_LIMIT": {
+        "en": "Upload Document (size < 3Mbs) (< 4 files)",
+        "kr": "문서 등록 (크기 < 3Mbs) (< 4 파일)",
+        "vi": "Tải tài liệu (kích thước < 3Mbs) (< 4 tài liệu)"
+    },
+    "MESSAGES.PROPOSED_PRICE": {
+        "en": "Proposed price",
+        "kr": "제안 가격",
+        "vi": "Giá đề xuất"
+    },
+    "MESSAGES.INCORRECT_IMPORT_DATA": {
+        "en": "The data formart incorrect",
+        "kr": "",
+        "vi": ""
+    },
+    "MESSAGES.PICKUP_DROPOFF_NOT_FOUND": {
+        "en": "Pickup address and Dropoff address are required",
+        "kr": "Pickup address and Dropoff address are required",
+        "vi": "Địa chỉ giao, nhận là thông tin bắt buộc"
+    },
+    "MESSAGES.MONTHLY_LIMIT_REACH": {
+        "en": "Monthly limit order almost run out. Remaining:",
+        "kr": "Monthly limit order almost run out. Remaining:",
+        "vi": "Số lượng đơn hàng giới hạn trong tháng đã hết. Còn lại:"
+    },
+    "MODAL.CONFIRM": {
+        "en": "Confirmation",
+        "kr": "확인",
+        "vi": "Xác nhận"
+    },
+    "MODAL.CANCEL_ORDER": {
+        "en": "Confirmation",
+        "kr": "확인",
+        "vi": "Xác nhận"
+    },
+    "ONEPAGE.CUSTOMER_TITLE": {
+        "en": "TADA Truck for Customer",
+        "kr": "화주 고객용 TADA Truck",
+        "vi": "TADA Truck dành cho khách hàng"
+    },
+    "ONEPAGE.TRUCKOWNER_TITLE": {
+        "en": "TADA Truck for Truck Owner",
+        "kr": "트럭 사업자용 TADA Truck",
+        "vi": "TADA Truck dành cho chủ xe"
+    },
+    "ONEPAGE.ADMIN_TITLE": {
+        "en": "Admin Panel",
+        "kr": "관리자 패널",
+        "vi": "TADA Truck dành cho quản trị"
+    },
+    "MONTH.1": {
+        "en": "January",
+        "kr": "1월",
+        "vi": "Tháng Một"
+    },
+    "MONTH.2": {
+        "en": "February",
+        "kr": "2월",
+        "vi": "Tháng Hai"
+    },
+    "MONTH.3": {
+        "en": "March",
+        "kr": "3월",
+        "vi": "Tháng Ba"
+    },
+    "MONTH.4": {
+        "en": "April",
+        "kr": "4월",
+        "vi": "Tháng Bốn"
+    },
+    "MONTH.5": {
+        "en": "May",
+        "kr": "5월",
+        "vi": "Tháng Năm"
+    },
+    "MONTH.6": {
+        "en": "June",
+        "kr": "6월",
+        "vi": "Tháng Sáu"
+    },
+    "MONTH.7": {
+        "en": "July",
+        "kr": "7월",
+        "vi": "Tháng Bảy"
+    },
+    "MONTH.8": {
+        "en": "August",
+        "kr": "8월",
+        "vi": "Tháng Tám"
+    },
+    "MONTH.9": {
+        "en": "September",
+        "kr": "9월",
+        "vi": "Tháng Chín"
+    },
+    "MONTH.10": {
+        "en": "October",
+        "kr": "10월",
+        "vi": "Tháng Mười"
+    },
+    "MONTH.11": {
+        "en": "November",
+        "kr": "11월",
+        "vi": "Tháng Mười một"
+    },
+    "MONTH.12": {
+        "en": "December",
+        "kr": "12월",
+        "vi": "Tháng Mười hai"
+    },
+    "REPORT.CUSTOMER_REPORT_TITLE": {
+        "en": "Reports & Statistics",
+        "kr": "고객 리포트",
+        "vi": "Báo cáo & Thống kê"
+    },
+    "REPORT.MONTH_SELECTION": {
+        "en": "Month",
+        "kr": "월",
+        "vi": "Tháng"
+    },
+    "REPORT.YEAR_SELECTION": {
+        "en": "Year",
+        "kr": "연도",
+        "vi": "Năm"
+    },
+    "REPORT.COMPLETED": {
+        "en": "Completed",
+        "kr": "완료",
+        "vi": "Đã hoàn thành"
+    },
+    "REPORT.PENDING": {
+        "en": "Pending",
+        "kr": "대기",
+        "vi": "Đang xử lý"
+    },
+    "REPORT.CANCELLED": {
+        "en": "Cancelled",
+        "kr": "취소 완료",
+        "vi": "Đã hủy"
+    },
+    "REPORT.TITLE_OF_ORDER_CHART": {
+        "en": "Order Summary",
+        "kr": "주문 요약",
+        "vi": "Thống kê đơn hàng"
+    },
+    "REPORT.TITLE_OF_TRUCKOWNER_CHART": {
+        "en": "completed order per customer",
+        "kr": "트럭 기사 별 완료된 운행",
+        "vi": "Đơn hoàn thành theo khách hàng"
+    },
+    "REPORT.TITLE_OF_CUSTOMER_CHART": {
+        "en": "Completed trip per truckowner",
+        "kr": "고객 별 완료트립 수",
+        "vi": "Hoàn thành theo chủ xe"
+    },
+    "USER_ROLE.ADMIN": {
+        "en": "Admin",
+        "kr": "관리자 계정",
+        "vi": "Quản trị viên"
+    },
+    "USER_ROLE.CUSTOMER": {
+        "en": "Customer",
+        "kr": "고객",
+        "vi": "Khách hàng"
+    },
+    "USER_ROLE.TRUCK_OWNER": {
+        "en": "Truck Owner",
+        "kr": "트럭 사업자",
+        "vi": "Chủ xe"
+    },
+    "USER_ROLE.DRIVER": {
+        "en": "Driver",
+        "kr": "배송기사",
+        "vi": "Tài xế"
+    },
+    "ADDRESS.TITLE": {
+        "en": "Address Book",
+        "kr": "주소록",
+        "vi": "Danh Bạ"
+    },
+    "ADDRESS.LOCATION_TYPE": {
+        "en": "Location Type",
+        "kr": "장소 유형",
+        "vi": "Loại địa điểm"
+    },
+    "ADDRESS.CHOOSE_LOCATION_TYPE": {
+        "en": "Choose Location Type",
+        "kr": "장소 유형 선택",
+        "vi": "Chọn loại địa điểm"
+    },
+    "ADDRESS.LOCATION_NAME": {
+        "en": "Location Name",
+        "kr": "위치명",
+        "vi": "Tên địa điểm"
+    },
+    "ADDRESS.LOCATION_ADDRESS": {
+        "en": "Location Address",
+        "kr": "위치 주소",
+        "vi": "Địa Chỉ"
+    },
+    "ADDRESS.PERSON_INCHARGE_NAME": {
+        "en": "Person In Charge",
+        "kr": "담당자",
+        "vi": "Người phụ trách"
+    },
+    "ADDRESS.COMPANY": {
+        "en": "Company/ Enitity Name",
+        "kr": "회사 및 법인명",
+        "vi": "Tên Công ty"
+    },
+    "ADDRESS.NEW": {
+        "en": "New Address Entity",
+        "kr": "새 법인 주소",
+        "vi": "Địa chỉ liên lạc mới"
+    },
+    "ADDRESS.EDIT": {
+        "en": "Edit Address Entity",
+        "kr": "법인 주소 수정",
+        "vi": "Chỉnh sửa địa chỉ liên lạc"
+    },
+    "ADDRESS.PERSON_INCHARGE_NO": {
+        "en": "Contact NO",
+        "kr": "연락처",
+        "vi": "SĐT"
+    },
+    "ADDRESS.CHOOSE_FROM": {
+        "en": "Choose from address book",
+        "kr": "주소록에서 선택",
+        "vi": "Chọn từ danh bạ"
+    },
+    "ADDRESS.NOT_VALID": {
+        "en": "You are using addresses that don't match with Google Map address. You might not be able to track the order with these addresses",
+        "kr": "Google 지도 주소와 일치하지 않는 주소를 사용하고 있습니다. 이 주소로 주문을 추적하지 못할 수도 있습니다.",
+        "vi": "Bạn đang sử dụng địa chỉ không trùng khớp với Google Map. Nếu tiếp tục bạn sẽ không thể theo dõi lộ trình chính xác của đơn hàng này"
+    },
+    "DEFAULT.TITLE": {
+        "en": "Default Preference Settings",
+        "kr": "기본 환경 설정",
+        "vi": "Cài đặt thông tin mặc định"
+    },
+    "DEFAULT.TRANSPORT_TITLE": {
+        "en": "Type of transportation",
+        "kr": "운송 유형",
+        "vi": "Loại phương tiện"
+    },
+    "DEFAULT.PAYLOAD_TITLE": {
+        "en": "Truck Payload",
+        "kr": "트럭 탑재량",
+        "vi": "Tải trọng xe"
+    },
+    "DEFAULT.TRUCK_TYPE_ANY": {
+        "en": "Any Truck Type",
+        "kr": "모든 트럭 유형",
+        "vi": "Loại xe bất kì"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_ANY": {
+        "en": "Any Truck Payload",
+        "kr": "모든 트럭 탑재량",
+        "vi": "Bất kì"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_LESS_THAN_ONE": {
+        "en": "<1 ton",
+        "kr": "<1 톤",
+        "vi": "<1 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_ONE_TO_TWO": {
+        "en": "1 - 2 tons",
+        "kr": "1 - 2 톤",
+        "vi": "1-2 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_TWO_TO_THREE": {
+        "en": "2 -3 tons",
+        "kr": "2 - 3 톤",
+        "vi": "2 -3 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_THREE_TO_FOUR": {
+        "en": "3 - 4 tons",
+        "kr": "3 - 4 톤",
+        "vi": "3 - 4 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_FOUR_TO_FIVE": {
+        "en": "4 - 5 tons",
+        "kr": "4 - 5 톤",
+        "vi": "4 - 5 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_FIVE_TO_SIX": {
+        "en": "5-6 tons",
+        "kr": "5 - 6 톤",
+        "vi": "5-6 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_SIX_TO_EIGHT": {
+        "en": "6-8 tons",
+        "kr": "6 - 8 톤",
+        "vi": "6-8 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_EIGHT_TO_TEN": {
+        "en": "8-10 tons",
+        "kr": "8 - 10 톤",
+        "vi": "8-10 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_TEN_TO_FIFTEEN": {
+        "en": "10-15 tons",
+        "kr": "10 - 15 톤",
+        "vi": "10-15 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_FIFTEEN_TO_TWENTY": {
+        "en": "15-20 tons",
+        "kr": "15 - 20 톤",
+        "vi": "15-20 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_TWENTY_TO_TWENTY_FIVE": {
+        "en": "20-25 tons",
+        "kr": "20 - 25 톤",
+        "vi": "20-25 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_TWENTY_FIVE_TO_THIRTY": {
+        "en": "25-30 tons",
+        "kr": "25 - 30 톤",
+        "vi": "25-30 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_MORE_THAN_THIRTY": {
+        "en": ">30 tons",
+        "kr": ">30 톤",
+        "vi": ">30 tấn"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_ONE": {
+        "en": "1 ton",
+        "kr": "1 톤",
+        "vi": "1 ton"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_TWO": {
+        "en": "2 tons",
+        "kr": "2 톤",
+        "vi": "2 tons"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_THREE": {
+        "en": "3 tons",
+        "kr": "3 톤",
+        "vi": "3 tons"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_FOUR": {
+        "en": "4 tons",
+        "kr": "4 톤",
+        "vi": "4 tons"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_FIVE": {
+        "en": "5 tons",
+        "kr": "5 톤",
+        "vi": "5 tons"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_SIX": {
+        "en": "6 tons",
+        "kr": "6 톤",
+        "vi": "6 tons"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_EIGHT": {
+        "en": "8 tons",
+        "kr": "8 톤",
+        "vi": "8 tons"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_TEN": {
+        "en": "10 tons",
+        "kr": "10 톤",
+        "vi": "10 tons"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_FIFTEEN": {
+        "en": "15 tons",
+        "kr": "15 톤",
+        "vi": "15 tons"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_TWENTY": {
+        "en": "20 tons",
+        "kr": "20 톤",
+        "vi": "20 tons"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_TWENTY_FIVE": {
+        "en": "25 tons",
+        "kr": "25 톤",
+        "vi": "25 tons"
+    },
+    "DEFAULT.TRUCK_PAYLOAD_THIRTY": {
+        "en": "30 tons",
+        "kr": "30 톤",
+        "vi": "30 tons"
+    },
+    "DEFAULT.PERSON_INCHARGE": {
+        "en": "Main Person in charge",
+        "kr": "주요 담당자",
+        "vi": "Người phụ trách chính"
+    },
+    "DEFAULT.PERSON_INCHARGE_NO": {
+        "en": "Main person NO",
+        "kr": "주요 담당자 번호",
+        "vi": "SĐT người phụ trách"
+    },
+    "DEFAULT.PICKUP_LOCATION": {
+        "en": "Pick up Location",
+        "kr": "상차지",
+        "vi": "Địa chỉ nhận hàng"
+    },
+    "DEFAULT.DROPOFF_LOCATION": {
+        "en": "Drop off Location",
+        "kr": "하차지",
+        "vi": "Địa chỉ giao hàng"
+    },
+    "DEFAULT.PICKUP_INFO": {
+        "en": "Default Pick up info",
+        "kr": "기본 상차 정보",
+        "vi": "Thông tin nhận hàng mặc định"
+    },
+    "DEFAULT.DROPOFF_INFO": {
+        "en": "Default Drop off info",
+        "kr": "기본 하차 정보",
+        "vi": "Thông tin giao hàng mặc định"
+    },
+    "DEFAULT.CHOOSE_TYPE_LABEL": {
+        "en": "Choose Truck Type",
+        "kr": "트럭 유형 선택",
+        "vi": "Chọn loại xe tải"
+    },
+    "DEFAULT.CHOOSE_PAYLOAD_LABEL": {
+        "en": "Choose Payload",
+        "kr": "탑재량 선택",
+        "vi": "Chọn tải trọng"
+    },
+    "DEFAULT.CHOOSE_TRANSPORT_LABEL": {
+        "en": "Choose Type of transportation",
+        "kr": "운송 유형 선택",
+        "vi": "Chọn phương tiện di chuyển"
+    },
+    "DEFAULT.CHOOSE_TRUCK_LOAD_LABEL": {
+        "en": "Input Truck Load",
+        "kr": "트럭 부하 입력",
+        "vi": "Nhập tải trọng"
+    },
+    "DEFAULT.MINI_VAN": {
+        "en": "Mini-Van",
+        "kr": "미니밴",
+        "vi": "Xe tải nhỏ"
+    },
+    "DEFAULT.TARPAULIN_COVER": {
+        "en": "Truck with tarpaulin cover",
+        "kr": "타포린 커버 트럭",
+        "vi": "Xe tải thùng mui bạt"
+    },
+    "DEFAULT.GRID_AND_TARPAULIN_COVER": {
+        "en": "Truck with grid and tarpaulin cover",
+        "kr": "그리드 및 타포린 커버 트럭",
+        "vi": "Xe tải thùng khung mui bạt"
+    },
+    "DEFAULT.WING_BODY": {
+        "en": "Truck with wing-body",
+        "kr": "윙바디 트럭",
+        "vi": "Xe tải thùng bạt cánh dơi"
+    },
+    "DEFAULT.FOR_RETAILER": {
+        "en": "Truck for retailer",
+        "kr": "소매업용 트럭",
+        "vi": "Xe tải bán hàng lưu động"
+    },
+    "DEFAULT.WITHOUT_BODY": {
+        "en": "Truck without body",
+        "kr": "차체없는 트럭",
+        "vi": "Xe tải không thùng"
+    },
+    "DEFAULT.DUMP_TRUCK": {
+        "en": "Dump truck",
+        "kr": "덤프 트럭",
+        "vi": "Xe ben"
+    },
+    "DEFAULT.TANK_TRUCK": {
+        "en": "Tank truck",
+        "kr": "탱크 트럭",
+        "vi": "Xe bồn"
+    },
+    "DEFAULT.WITH_LIFT": {
+        "en": "Truck with lift",
+        "kr": "리프트 트럭",
+        "vi": "Xe gắn cẩu"
+    },
+    "DEFAULT.MEZZAN": {
+        "en": "Mezzanine van",
+        "kr": "메 자닌 밴",
+        "vi": "Xe tải thùng lửng"
+    },
+    "DEFAULT.FREEZING_BODY": {
+        "en": "Truck with freezing body",
+        "kr": "냉동 트럭",
+        "vi": "Xe thùng bảo ôn (đông lạnh)"
+    },
+    "DEFAULT.CLOSED_BODY": {
+        "en": "Truck with closed body",
+        "kr": "폐쇄형 트럭",
+        "vi": "Xe tải thùng kín"
+    },
+    "DEFAULT.PAYMENT_TYPE_LABEL": {
+        "en": "Payment Type",
+        "kr": "결제 유형",
+        "vi": "Loại thanh toán"
+    },
+    "DEFAULT.PAYMENT_TITLE": {
+        "en": "Default Payment Setting",
+        "kr": "기본 결제 설정",
+        "vi": "Quản lý thanh toán"
+    },
+    "DEFAULT.INSTANT_CASH": {
+        "en": "Instant (Cash)",
+        "kr": "즉시 (현금)",
+        "vi": "Trả ngay (Tiền mặt)"
+    },
+    "DEFAULT.INSTANT_BANK": {
+        "en": "Instant (Bank transfer)",
+        "kr": "즉시 (은행 송금)",
+        "vi": "Trả ngay (Chuyển khoản)"
+    },
+    "DEFAULT.POST_PAID_15": {
+        "en": "Post Paid (15 days)",
+        "kr": "후불 (15일)",
+        "vi": "Trả sau (15 ngày)"
+    },
+    "DEFAULT.POST_PAID_30": {
+        "en": "Post Paid (30 days)",
+        "kr": "후불 (30일)",
+        "vi": "Trả sau (30 ngày)"
+    },
+    "DEFAULT.POST_PAID_45": {
+        "en": "Post Paid (45 days)",
+        "kr": "후불 (45일)",
+        "vi": "Trả sau (45 ngày)"
+    },
+    "DEFAULT.OTHER": {
+        "en": "Others",
+        "kr": "기타",
+        "vi": "Khác"
+    },
+    "DEFAULT.PAYMENT_TYPE_PLACEHOLDER": {
+        "en": "Choose Payment Type",
+        "kr": "결제 유형 선택",
+        "vi": "Chọn loại thanh toán"
+    },
+    "DEFAULT.ADDRESS_PLACEHOLDER": {
+        "en": "Address (as in Business license)",
+        "kr": "주소 (사업자등록증)",
+        "vi": "Địa chỉ ( trên giấy phép doanh nghiệp)"
+    },
+    "DEFAULT.COMPANY_PLACEHOLDER": {
+        "en": "Company name",
+        "kr": "회사명",
+        "vi": "Tên doanh nghiệp"
+    },
+    "DEFAULT.BUSSINESS_PLACEHOLDER": {
+        "en": "Business license NO",
+        "kr": "사업자등록번호",
+        "vi": "Mã số doanh nghiệp"
+    },
+    "DEFAULT.EMAIL_PLACEHOLDER": {
+        "en": "Emails (to send e-invoice)",
+        "kr": "이메일 (전자 인보이스 발송용)",
+        "vi": "Email nhận hoá đơn điện tử"
+    },
+    "BANK.COMPANY": {
+        "en": "Company name",
+        "kr": "회사명",
+        "vi": "Tên công ty"
+    },
+    "BANK.NAME": {
+        "en": "Bank Name",
+        "kr": "은행 이름",
+        "vi": "Tên ngân hàng"
+    },
+    "BANK.BRANCH": {
+        "en": "Bank Branch",
+        "kr": "은행 지점",
+        "vi": "Chi nhánh"
+    },
+    "BANK.OWNER": {
+        "en": "Bank Account Holder Name",
+        "kr": "은행 계좌 소유자 이름",
+        "vi": "Tên chủ tài khoản"
+    },
+    "BANK.NUMBER": {
+        "en": "Bank Account Number",
+        "kr": "은행 계좌 번호",
+        "vi": "Số tài khoản"
+    },
+    "BANK.BUSSINESS": {
+        "en": "Business license No",
+        "kr": "기업등록증 번호",
+        "vi": "Mã số doanh nghiệp"
+    },
+    "PRICING.TITLE": {
+        "en": "Pricing setting",
+        "kr": "가격 설정",
+        "vi": "Cài đặt giá"
+    },
+    "PRICING.ON_OFF": {
+        "en": "Turn ON/OFF settings",
+        "kr": "켜기 / 끄기 설정",
+        "vi": "Mở/ Tắt cài đặt"
+    },
+    "PRICING.BASE_FARE": {
+        "en": "Base Fare",
+        "kr": "기본 요금",
+        "vi": "Giá khởi điểm"
+    },
+    "PRICING.SAME_ZONE": {
+        "en": "Within the same zone",
+        "kr": "동일 구역 내",
+        "vi": "Trong cùng Khu vực"
+    },
+    "PRICING.PICKUP_AREA": {
+        "en": "Pick up zone area",
+        "kr": "상차 지역",
+        "vi": "Khu vực lấy hàng"
+    },
+    "PRICING.DROPOFF_AREA": {
+        "en": "Drop off zone area",
+        "kr": "하차 지역",
+        "vi": "Khu vực giao hàng"
+    },
+    "PRICING.PAYLOAD": {
+        "en": "Payload",
+        "kr": "탑재량",
+        "vi": "Tải trọng"
+    },
+    "PRICING.COST": {
+        "en": "Cost",
+        "kr": "요금",
+        "vi": "Chi phí"
+    },
+    "PRICING.INPUT_PLACEHOLDER": {
+        "en": "Input price",
+        "kr": "가격 입력",
+        "vi": "Nhập giá"
+    },
+    "PRICING.FROM": {
+        "en": "From",
+        "kr": "에서",
+        "vi": "Từ"
+    },
+    "PRICING.TO": {
+        "en": "To",
+        "kr": "로",
+        "vi": "Đến"
+    },
+    "PRICING.ZONE_NOT_APPLICABLE": {
+        "en": "(if zone charges are not applicable)",
+        "kr": "(구역 요금이 적용되지 않는 경우)",
+        "vi": "Nếu giá theo khu vực không áp dụng"
+    },
+    "PRICING.COST_PER_KM": {
+        "en": "Cost per km",
+        "kr": "km 별 요금",
+        "vi": "Giá trên mỗi km"
+    },
+    "PRICING.MULTIPLE_STOPS": {
+        "en": "Multiple stops",
+        "kr": "여러 정차",
+        "vi": "Nhiều điểm giao hàng"
+    },
+    "PRICING.SPECIAL_DANGEROUS_GOODS": {
+        "en": "Special/ Dangerous Goods",
+        "kr": "특수 및 위험물",
+        "vi": "Mặt hàng đặc biệt/ nguy hiểm"
+    },
+    "PRICING.HEAVY_CARGO": {
+        "en": "Heavy cargo Load >",
+        "kr": "무거운 물건",
+        "vi": "Hàng nặng >"
+    },
+    "PRICING.PRICE_OPTION": {
+        "en": "Price option",
+        "kr": "가격 옵션",
+        "vi": "Cách tính giá (tỉ lệ %, giá trị tuyệt đối)"
+    },
+    "PRICING.DYNAMIC_ITEMS_TITLE": {
+        "en": "Other Dynamic Charges",
+        "kr": "기타 비용",
+        "vi": "Các chi phí động khác"
+    },
+    "PRICING.USE_THIS_SETTING": {
+        "en": "Use this setting",
+        "kr": "이 설정 사용",
+        "vi": "Sử dụng Cài đặt này"
+    },
+    "PRICING.ZONE_FARE_LABEL": {
+        "en": "Zone Charges",
+        "kr": "구역 요금",
+        "vi": "Giá theo khu vực"
+    },
+    "PRICING.ZONE_FARE_INFO": {
+        "en": "Adjust the base fare based on pickup and drop off zones. If zone based setting already applies, system will not apply distance based setting",
+        "kr": "픽업 및 하차 구역에 따라 기본 요금을 조정합니다. 구역 기반 설정이 이미 적용된 경우 시스템은 거리 기반 설정을 적용하지 않습니다.",
+        "vi": "Điều chỉnh giá khởi điểm dựa trên khu vực lấy hàng và giao hàng. Nếu Cài đặt dựa trên Khu vực đã được áp dụng, hệ thống sẽ không áp dụng Cài đặt dựa trên Khoảng cách"
+    },
+    "PRICING.DISTANCE_FARE_LABEL": {
+        "en": "Distance Charges",
+        "kr": "거리 요금",
+        "vi": "Giá theo quãng đường"
+    },
+    "PRICING.MULTIPLE_CHARGE": {
+        "en": "Multiple Stops Charges",
+        "kr": "다중 경유 요금",
+        "vi": "Giá theo nhiều điểm giao hàng"
+    },
+    "PRICING.PAYLOAD_FARE_LABEL": {
+        "en": "Adjust Base fare by Payload",
+        "kr": "탑재량 요금",
+        "vi": "Điều chỉnh giá khởi điểm theo Tải trọng"
+    },
+    "PRICING.PERCENTAGE": {
+        "en": "%",
+        "kr": "%",
+        "vi": "%"
+    },
+    "PRICING.VALUE": {
+        "en": "value",
+        "kr": "값",
+        "vi": "Giá trị"
+    },
+    "PRICING.BASE_FARE_PER_TRUCK_TYPE": {
+        "en": "Starting fare per Truck Type",
+        "kr": "트럭 유형 별 기본 가격",
+        "vi": "Giá khởi điểm theo loại xe"
+    },
+    "PRICING.DIFFERENT_ABOVE": {
+        "en": "(if different from above)",
+        "kr": "(상기와 다를 경우)",
+        "vi": "(cài đặt nếu khác bên trên)"
+    },
+    "PRICING.BASE_FARE_TRACTOR_LABEL": {
+        "en": "Starting fare for Trailor Tractor",
+        "kr": "트레일러 트럭터의 기본 가격",
+        "vi": "Giá khởi điểm cho Xe Containers"
+    },
+    "PRICING.BASE_FARE_NORMAL_LABEL": {
+        "en": "Starting fare for Normal Truck",
+        "kr": "일반 트럭의 기본 가격",
+        "vi": "Giá khởi điểm cho Xe Tải"
+    },
+    "PRICING.SURCHARGES": {
+        "en": "Surcharges",
+        "kr": "할증료",
+        "vi": "Phụ phí bổ sung"
+    },
+    "PRICING.COST_PER_STOP": {
+        "en": "Cost per stop",
+        "kr": "정차 당 비용",
+        "vi": "Phụ phí trên mỗi điểm giao hàng"
+    },
+    "PRICING.ZONE_CHARGES": {
+        "en": "Zone Charges",
+        "kr": "",
+        "vi": "Giá theo khu vực"
+    },
+    "PRICING.INVOICE_VAT": {
+        "en": "Invoice VAT",
+        "kr": "",
+        "vi": "Hóa đơn VAT"
+    },
+    "PRICING.CHOOSE_LOCATION": {
+        "en": "Choose location",
+        "kr": "위치 선택",
+        "vi": "Chọn địa điểm"
+    },
+    "IMPORTANT_NOTE.MENU_TITLE": {
+        "en": "Important Notes",
+        "kr": "",
+        "vi": "Thông tin quan trọng"
+    },
+    "IMPORTANT_NOTE.CONFIRM": {
+        "en": "Confirm",
+        "kr": "",
+        "vi": "Xác nhận"
+    },
+    "IMPORTANT_NOTE.NOT_SHOW_AGAIN": {
+        "en": "Don't show this again",
+        "kr": "",
+        "vi": "Không hiển thị lần sau"
+    },
+    "IMPORTANT_NOTE.READ_MORE": {
+        "en": "Read more",
+        "kr": "",
+        "vi": "Xem thêm"
+    },
+    "IMPORTANT_NOTE.SAME_ZONE": {
+        "en": "Within the same zone",
+        "kr": "",
+        "vi": "Trong cùng Khu vực"
+    },
+    "IMPORTANT_NOTE.PICKUP_AREA": {
+        "en": "Pick up zone area",
+        "kr": "",
+        "vi": "Khu vực lấy hàng"
+    },
+    "IMPORTANT_NOTE.DROPOFF_AREA": {
+        "en": "Drop off zone area",
+        "kr": "",
+        "vi": "Khu vực giao hàng"
+    },
+    "IMPORTANT_NOTE.PAYLOAD": {
+        "en": "Payload",
+        "kr": "",
+        "vi": "Payload"
+    },
+    "IMPORTANT_NOTE.COST": {
+        "en": "Cost",
+        "kr": "",
+        "vi": "Cost"
+    },
+    "IMPORTANT_NOTE.INPUT_PLACEHOLDER": {
+        "en": "Input price",
+        "kr": "",
+        "vi": "Nhập giá"
+    },
+    "IMPORTANT_NOTE.FROM": {
+        "en": "From",
+        "kr": "",
+        "vi": "Từ"
+    },
+    "IMPORTANT_NOTE.TO": {
+        "en": "To",
+        "kr": "",
+        "vi": "Đến"
+    },
+    "IMPORTANT_NOTE.ZONE_NOT_APPLICABLE": {
+        "en": "(if zone charges are not applicable)",
+        "kr": "",
+        "vi": "Nếu giá theo khu vực không áp dụng"
+    },
+    "IMPORTANT_NOTE.COST_PER_KM": {
+        "en": "Cost per km",
+        "kr": "",
+        "vi": "Giá trên mỗi km"
+    },
+    "IMPORTANT_NOTE.MULTIPLE_STOPS": {
+        "en": "Multiple stops",
+        "kr": "",
+        "vi": "Nhiều điểm giao hàng"
+    },
+    "IMPORTANT_NOTE.SPECIAL_DANGEROUS_GOODS": {
+        "en": "Special/ Dangerous Goods",
+        "kr": "",
+        "vi": "Mặt hàng đặc biệt/ nguy hiểm"
+    },
+    "IMPORTANT_NOTE.HEAVY_CARGO": {
+        "en": "Heavy cargo Load >",
+        "kr": "",
+        "vi": "Hàng nặng >"
+    },
+    "IMPORTANT_NOTE.PRICE_OPTION": {
+        "en": "Price option",
+        "kr": "",
+        "vi": "Cách tính giá (tỉ lệ %, giá trị tuyệt đối)"
+    },
+    "IMPORTANT_NOTE.DYNAMIC_ITEMS_TITLE": {
+        "en": "Other Dynamic Charges",
+        "kr": "",
+        "vi": "Các chi phí động khác"
+    },
+    "IMPORTANT_NOTE.USE_THIS_SETTING": {
+        "en": "Use this setting",
+        "kr": "",
+        "vi": "Sử dụng Cài đặt này"
+    },
+    "IMPORTANT_NOTE.ZONE_FARE_LABEL": {
+        "en": "Zone Charges",
+        "kr": "",
+        "vi": "Giá theo khu vực"
+    },
+    "IMPORTANT_NOTE.ZONE_FARE_INFO": {
+        "en": "Adjust the base fare based on pickup and drop off zones. If zone based setting already applies, system will not apply distance based setting",
+        "kr": "",
+        "vi": "Điều chỉnh giá khởi điểm dựa trên khu vực lấy hàng và giao hàng. Nếu Cài đặt dựa trên Khu vực đã được áp dụng, hệ thống sẽ không áp dụng Cài đặt dựa trên Khoảng cách"
+    },
+    "IMPORTANT_NOTE.DISTANCE_FARE_LABEL": {
+        "en": "Distance Charges",
+        "kr": "",
+        "vi": "Giá theo quãng đường"
+    },
+    "IMPORTANT_NOTE.PAYLOAD_FARE_LABEL": {
+        "en": "Payload Charge",
+        "kr": "",
+        "vi": "Điều chỉnh giá khởi điểm theo Tải trọng"
+    },
+    "IMPORTANT_NOTE.PERCENTAGE": {
+        "en": "%",
+        "kr": "",
+        "vi": "%"
+    },
+    "IMPORTANT_NOTE.VALUE": {
+        "en": "value",
+        "kr": "",
+        "vi": "Giá trị"
+    },
+    "IMPORTANT_NOTE.BASE_FARE_PER_TRUCK_TYPE": {
+        "en": "Starting fare per Truck Type",
+        "kr": "",
+        "vi": "Giá khởi điểm theo loại xe"
+    },
+    "IMPORTANT_NOTE.DIFFERENT_ABOVE": {
+        "en": "(if different from above)",
+        "kr": "",
+        "vi": "(cài đặt nếu khác bên trên)"
+    },
+    "IMPORTANT_NOTE.BASE_FARE_TRACTOR_LABEL": {
+        "en": "Starting fare for Trailor Tractor",
+        "kr": "",
+        "vi": "Giá khởi điểm cho Xe Containers"
+    },
+    "IMPORTANT_NOTE.BASE_FARE_NORMAL_LABEL": {
+        "en": "Starting fare for Normal Truck",
+        "kr": "",
+        "vi": "Giá khởi điểm cho Xe Tải"
+    },
+    "IMPORTANT_NOTE.SURCHARGES": {
+        "en": "Surcharges",
+        "kr": "",
+        "vi": "Phụ phí bổ sung"
+    },
+    "IMPORTANT_NOTE.COST_PER_STOP": {
+        "en": "Cost per stop",
+        "kr": "",
+        "vi": "Phụ phí trên mỗi điểm giao hàng"
+    },
+    "IMPORTANT_NOTE.INVOICE_VAT": {
+        "en": "Invoice VAT",
+        "kr": "",
+        "vi": "Hóa đơn VAT"
+    },
+    "IMPORTANT_NOTE.VAT_INFORMATION": {
+        "en": "VAT information",
+        "kr": "",
+        "vi": "Thông tin VAT"
+    },
+    "SEARCH.ALL": {
+        "en": "Search All",
+        "kr": "모두 검색",
+        "vi": "Tất cả"
+    },
+    "SEARCH.MULTIPLE": {
+        "en": "Search By Fields",
+        "kr": "필드로 검색",
+        "vi": "Lọc theo"
+    },
+    "SETTINGS.LOGO": {
+        "en": "Logo",
+        "kr": "로고",
+        "vi": "Logo"
+    },
+    "SETTINGS.QR": {
+        "en": "QR img",
+        "kr": "QR 이미지",
+        "vi": "Hình ảnh QR"
+    },
+    "SETTINGS.QR_TEXT": {
+        "en": "QR label",
+        "kr": "QR 라벨",
+        "vi": "QR label"
+    },
+    "SETTINGS.FACEBOOK_LINK": {
+        "en": "Facebook link",
+        "kr": "페이스북 링크",
+        "vi": "Đường dẫn facebook"
+    },
+    "SETTINGS.FACEBOOK_TEXT": {
+        "en": "Facebook text",
+        "kr": "페이스북 문자",
+        "vi": "Nhãn facebook footer"
+    },
+    "SETTINGS.EMAIL": {
+        "en": "Email",
+        "kr": "이메일",
+        "vi": "Email"
+    },
+    "SETTINGS.PHONE_NUMBER": {
+        "en": "Phone number",
+        "kr": "전화 번호",
+        "vi": "Số điện thoại"
+    },
+    "SETTINGS.IMAGE_SIZE": {
+        "en": "Image size < 3MB, (130px x 40px)",
+        "kr": "이미지 크기 < 3MB, (130px x 40px)",
+        "vi": "Kích thước < 3MB, (130px x 40px)"
+    },
+    "SETTINGS.IMAGE_SIZE_QR": {
+        "en": "Image size < 3MB, (36px x 36px)",
+        "kr": "이미지 크기 < 3MB, (130px x 40px)",
+        "vi": "kích thước < 3MB, (36px x 36px)"
+    },
+    "SETTINGS.COMPANY_NAME": {
+        "en": "Brand name",
+        "kr": "브랜드 이름",
+        "vi": "Tên công ty"
+    },
+    "SETTINGS.YELLOW": {
+        "en": "Yellow",
+        "kr": "노랑색",
+        "vi": "Vàng"
+    },
+    "SETTINGS.PINK": {
+        "en": "Pink",
+        "kr": "핑크색",
+        "vi": "Hồng"
+    },
+    "SETTINGS.ORANGE": {
+        "en": "Orange",
+        "kr": "주황색",
+        "vi": "Cam"
+    },
+    "SETTINGS.GREEN": {
+        "en": "Green",
+        "kr": "초록색",
+        "vi": "Xanh lá"
+    },
+    "SETTINGS.BLUE": {
+        "en": "Blue",
+        "kr": "파랑색",
+        "vi": "Xanh da trời"
+    },
+    "SETTINGS.GREY": {
+        "en": "Grey",
+        "kr": "회색",
+        "vi": "Xám"
+    },
+    "SETTINGS.DARK_GREEN": {
+        "en": "Dark green",
+        "kr": "짙은 녹색",
+        "vi": "Xanh đen"
+    },
+    "SETTINGS.BLACK": {
+        "en": "Black",
+        "kr": "검정색",
+        "vi": "Đen"
+    },
+    "SETTINGS.DEFAULT_COLOR": {
+        "en": "Theme color",
+        "kr": "테마 색상",
+        "vi": "Màu chủ đạo"
+    },
+    "SETTINGS.CONT_20": {
+        "en": "Container 20",
+        "kr": "Container 20'",
+        "vi": "Container 20'"
+    },
+    "SETTINGS.CONT_40": {
+        "en": "Container 40",
+        "kr": "Container 40'",
+        "vi": "Container 40'"
+    },
+    "SETTINGS.CONT_45": {
+        "en": "Container 45",
+        "kr": "Container 45'",
+        "vi": "Container 45'"
+    },
+    "SETTINGS.FOOTER": {
+        "en": "Footer contact infomation",
+        "kr": "",
+        "vi": "Thông tin footer"
+    },
+    "SETTINGS.THEME_AND_LOGO": {
+        "en": "Theme & Logo setting",
+        "kr": "",
+        "vi": "Cài đặt màu chủ đạo và logo"
+    },
+    "SETTINGS.ORDER_QUANTITY": {
+        "en": "Setting order quantity",
+        "kr": "",
+        "vi": "Cài đặt giới hạn số lượng đơn hàng"
+    },
+    "SETTINGS.MONTHLY_ORDER": {
+        "en": "Maximum order per calendar month",
+        "kr": "",
+        "vi": "Đơn hàng tối đa mỗi tháng"
+    },
+    "IMPORT.LABEL": {
+        "en": "Multiple order",
+        "kr": "Multiple order",
+        "vi": "Tạo nhiều đơn hàng"
+    },
+    "IMPORT.FROM_EXCEL": {
+        "en": "Upload from excel",
+        "kr": "Upload from excel",
+        "vi": "Đăng tải từ Excel"
+    },
+    "IMPORT.DOWNLOAD_TEMPLATE": {
+        "en": "Download multiple orders template",
+        "kr": "Download multiple orders template",
+        "vi": "Tải tệp mẫu cho Danh sách đơn hàng"
+    },
+    "IMPORT.UPLOAD": {
+        "en": "Upload your multiple orders file",
+        "kr": "Upload your multiple orders file",
+        "vi": "Đăng tải Danh sách đơn hàng"
+    },
+    "IMPORT.DRAG": {
+        "en": "Drag & Drop the excel file containing multiple orders infomation",
+        "kr": "Drag & Drop the excel file containing multiple orders infomation",
+        "vi": "Kéo và thả tệp excel chứa Danh sách đơn hàng"
+    },
+    "IMPORT.SELECT": {
+        "en": "Select file",
+        "kr": "Select file",
+        "vi": "Chọn tệp"
+    },
+    "IMPORT.DOWNLOAD_BUTTON": {
+        "en": "Download",
+        "kr": "Download",
+        "vi": "Tải về"
+    },
+    "IMPORT.TEMPLATE": {
+        "en": "Template",
+        "kr": "Template",
+        "vi": "Tệp mẫu"
+    },
+    "IMPORT.UPLOAD_BUTTON": {
+        "en": "Upload",
+        "kr": "Upload",
+        "vi": "Đăng tải"
+    },
+    "IMPORT.OR": {
+        "en": "—— OR ——",
+        "kr": "—— OR ——",
+        "vi": "—— HOẶC ——"
+    },
+    "PRICE_QUOTATION.TITLE": {
+        "en": "Price quotation setup",
+        "kr": "Price quotation setup",
+        "vi": "Price quotation setup"
+    },
+    "PRICE_QUOTATION.STANDARD_LICENSE": {
+        "en": "Standard license",
+        "kr": "Standard license",
+        "vi": "Standard license"
+    },
+    "PRICE_QUOTATION.PREMIUM_LICENSE": {
+        "en": "Premium license",
+        "kr": "Premium license",
+        "vi": "Premium license"
+    },
+    "PRICE_QUOTATION.NAME": {
+        "en": "Name",
+        "kr": "Name",
+        "vi": "Name"
+    },
+    "PRICE_QUOTATION.TO_CUSTOMER": {
+        "en": "To customer",
+        "kr": "To customer",
+        "vi": "To customer"
+    },
+    "PRICE_QUOTATION.LAST_UPDATED_TIME": {
+        "en": "Last updated time",
+        "kr": "Last updated time",
+        "vi": "Last updated time"
+    },
+    "PRICE_QUOTATION.LAST_UPDATED_BY": {
+        "en": "Last updated by",
+        "kr": "Last updated by",
+        "vi": "Last updated by"
+    },
+    "PRICE_QUOTATION.STATUS": {
+        "en": "Status",
+        "kr": "Status",
+        "vi": "Status"
+    },
+    "PRICE_QUOTATION.DRAFT": {
+        "en": "Draft",
+        "kr": "Draft",
+        "vi": "Draft"
+    },
+    "PRICE_QUOTATION.PUBLISHED": {
+        "en": "Published",
+        "kr": "Published",
+        "vi": "Published"
+    },
+    "PRICE_QUOTATION.ADD_NEW": {
+        "en": "Add new",
+        "kr": "Add new",
+        "vi": "Add new"
+    },
+    "PRICE_QUOTATION.ALL_CUSTOMER": {
+        "en": "All customer",
+        "kr": "All customer",
+        "vi": "All customer"
+    },
+    "PRICE_QUOTATION.ADD_NEW_POPUP_TITLE": {
+        "en": "Add new quotation",
+        "kr": "Add new quotation",
+        "vi": "Add new quotation"
+    },
+    "PRICE_QUOTATION.EDIT_POPUP_TITLE": {
+        "en": "Edit quotation",
+        "kr": "Edit quotation",
+        "vi": "Edit quotation"
+    },
+    "PRICE_QUOTATION.OK": {
+        "en": "OK",
+        "kr": "OK",
+        "vi": "OK"
+    },
+    "PRICE_QUOTATION.CANCEL": {
+        "en": "Cancel",
+        "kr": "Cancel",
+        "vi": "Cancel"
+    },
+    "PRICE_QUOTATION.CURRENCY": {
+        "en": "Currency",
+        "kr": "Currency",
+        "vi": "Currency"
+    },
+    "PRICE_QUOTATION.NOTE_TITLE": {
+        "en": "Additional charges/notes",
+        "kr": "Additional charges/notes",
+        "vi": "Additional charges/notes"
+    },
+    "PRICE_QUOTATION.NOTE_PLACEHOLDER": {
+        "en": "1. VAT\n2. Overnight charges\n3. Labour cost",
+        "kr": "1. VAT\n2. Overnight charges\n3. Labour cost",
+        "vi": "1. VAT\n2. Overnight charges\n3. Labour cost"
+    },
+    "PRICE_QUOTATION.SAVE": {
+        "en": "Save",
+        "kr": "Save",
+        "vi": "Save"
+    },
+    "PRICE_QUOTATION.FROM": {
+        "en": "From",
+        "kr": "From",
+        "vi": "From"
+    },
+    "PRICE_QUOTATION.TO": {
+        "en": "To",
+        "kr": "To",
+        "vi": "To"
+    },
+    "PRICE_QUOTATION.DEL_ROW": {
+        "en": "Delete row",
+        "kr": "Delete row",
+        "vi": "Delete row"
+    },
+    "PRICE_QUOTATION.ADD_ROW": {
+        "en": "Insert row",
+        "kr": "Insert row",
+        "vi": "Insert row"
+    },
+    "PRICE_QUOTATION.ADD_ROW_ABOVE": {
+        "en": "Above",
+        "kr": "Above",
+        "vi": "Above"
+    },
+    "PRICE_QUOTATION.ADD_ROW_BELOW": {
+        "en": "Below",
+        "kr": "Below",
+        "vi": "Below"
+    },
+    "PRICE_QUOTATION.DEL_COLUMN": {
+        "en": "Delete column",
+        "kr": "Delete column",
+        "vi": "Delete column"
+    },
+    "PRICE_QUOTATION.ADD_COLUMN": {
+        "en": "Insert column",
+        "kr": "Insert column",
+        "vi": "Insert column"
+    },
+    "PRICE_QUOTATION.ADD_COLUMN_LEFT": {
+        "en": "Left",
+        "kr": "Left",
+        "vi": "Left"
+    },
+    "PRICE_QUOTATION.ADD_COLUMN_RIGHT": {
+        "en": "Right",
+        "kr": "Right",
+        "vi": "Right"
+    },
+    "PRICE_QUOTATION.UPGRADE_LICENSE": {
+        "en": "Upgrade to premium license to enjoy advance features such as setting price quotation per client",
+        "kr": "Upgrade to premium license to enjoy advance features such as setting price quotation per client",
+        "vi": "Upgrade to premium license to enjoy advance features such as setting price quotation per client"
+    },
+    "QUOTATION.NAME": {
+        "en": "Name",
+        "kr": "Name",
+        "vi": "Name"
+    },
+    "QUOTATION.UPDATED_DATE": {
+        "en": "Updated Date",
+        "kr": "Updated Date",
+        "vi": "Updated Date"
+    },
+    "QUOTATION.CURRENCY": {
+        "en": "Currency",
+        "kr": "Currency",
+        "vi": "Currency"
+    },
+    "QUOTATION.FROM": {
+        "en": "From",
+        "kr": "From",
+        "vi": "From"
+    },
+    "QUOTATION.TO": {
+        "en": "To",
+        "kr": "To",
+        "vi": "To"
+    },
+    "QUOTATION.ADDITIONAL_CHARGES": {
+        "en": "ADDITIONAL CHARGES / NOTES",
+        "kr": "ADDITIONAL CHARGES / NOTES",
+        "vi": "ADDITIONAL CHARGES / NOTES"
+    },
+    "QUOTATION.DOWNLOAD": {
+        "en": "Download",
+        "kr": "Download",
+        "vi": "Download"
+    },
+    "QUOTATION.TITLE": {
+        "en": "Price quotation for trucking",
+        "kr": "Price quotation for trucking",
+        "vi": "Price quotation for trucking"
+    },
+    "TRACKING.SETUP": {
+        "en": "Tracking setup",
+        "kr": "Tracking setup",
+        "vi": "Tracking setup"
+    },
+    "TRACKING.UPGRADE_REQUEST": {
+        "en": "Premium license can see realtime tracking through GPS device and Map. Standard license can see order's tracking status only.",
+        "kr": "Premium license can see realtime tracking through GPS device and Map. Standard license can see order's tracking status only.",
+        "vi": "Premium license can see realtime tracking through GPS device and Map. Standard license can see order's tracking status only."
+    },
+    "TRACKING.DISPLAY_FROM": {
+        "en": "Display GPS device information from",
+        "kr": "Display GPS device information from",
+        "vi": "Display GPS device information from"
+    },
+    "TRACKING.DISPLAY_ON": {
+        "en": "Display GPS device - Route review information in",
+        "kr": "Display GPS device - Route review information in",
+        "vi": "Display GPS device - Route review information in"
+    },
+    "TRACKING.ON_CUSTOMER": {
+        "en": "Customer",
+        "kr": "Customer",
+        "vi": "Customer"
+    },
+    "TRACKING.ON_TRUCKOWNER": {
+        "en": "Truckowner",
+        "kr": "Truckowner",
+        "vi": "Truckowner"
+    },
+    "TRACKING.UPGRADE": {
+        "en": "Upgrade License",
+        "kr": "Upgrade License",
+        "vi": "Upgrade License"
+    },
+    "TRACKING.REQUEST_UPGRADE": {
+        "en": "Request for upgrade",
+        "kr": "Request for upgrade",
+        "vi": "Request for upgrade"
+    },
+    "TRACKING.SUB_TITLE": {
+        "en": "Thank you for using TaaS Truck. Let’s upgrade to premium license to enjoy advanced features and instant support around the clock.",
+        "kr": "Thank you for using TaaS Truck. Let’s upgrade to premium license to enjoy advanced features and instant support around the clock.",
+        "vi": "Thank you for using TaaS Truck. Let’s upgrade to premium license to enjoy advanced features and instant support around the clock."
+    },
+    "TRACKING.UPGRADE_HEADER": {
+        "en": "Upgrade TaaS Truck license",
+        "kr": "Upgrade TaaS Truck license",
+        "vi": "Upgrade TaaS Truck license"
+    },
+    "LICENSE.THANK_YOU": {
+        "en": "Thank you for your request. We will get back to you as soon as possible on the purchase. Please contact us at hotro@tada.global if you have any other request",
+        "kr": "Thank you for your request. We will get back to you as soon as possible on the purchase. Please contact us at hotro@tada.global if you have any other request",
+        "vi": "Thank you for your request. We will get back to you as soon as possible on the purchase. Please contact us at hotro@tada.global if you have any other request"
+    },
+    "LICENSE.NOTES": {
+        "en": "Notes",
+        "kr": "Notes",
+        "vi": "Notes"
+    }
+}

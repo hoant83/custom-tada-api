@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tada-truck",
+  "private_key_id": "9ebd9878a6d68d8b591abc69472f8c632c57809e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWktoofcA3/c0P\ni6fC/Iw62QQBZQY3klibnnE/iu/OIkxRjokKKKPofkV5T+v8u4/HWMffnGhARWg6\nJX2sK07MAxVTiNr4fGkGTOzvY5J1VY/uK8FtGWnO7nnHBxASoP5dblNBH/pzkmlE\nSCkK7QmO+dViEP3LsR8msycCV7bvrb1+QKiBGLwCanuCudijRPw+If7bcPJ4/8n1\nowphOGm6eLL8QwqS25sfjxToG520Zx77CHDcOFDElaECzieocPH/pQ70YJ+Rml/1\nTZ+pZ/iptgas2PplkJ0m9bpyNRkB6m1HZaSzRrsn4P0pLV9Z8znp/8UAhL4BC8rq\nv/x71sNDAgMBAAECggEASyQTzHscrpRwfd6CpLKlRETCU/PXS2oz380M1Nn/3A2P\nqm+IAdLQIRjKkMSKjsAG+0NZ00RZXiGE5ueItJ+UHgk33k0AgVqMisFeyAQXtYgy\nYHfjeg9hlwu5J9JlefZvma6Ry4Eq2fvpnlKocLRjvb79dofmL30/f2+N+wRM3YRB\nMYWvdXOcFutZaTEVZCN7VYO4TlRYNitWOxaR6z7P0MuwQQSmDIVhl/iU3T2MxH1z\nNn8K+yvrf00aEqKNpSGSAkx+l/WYWP2eks9IBgxUp547ZIRDJW5pIvCD4yZc/V3I\n/sCRBSTadZmU9/5lNzdyIgyWNJ+cSjiG3WCYXRnCAQKBgQDP9GjOihFQ8gs46vlJ\nhPUNmYLCkCh+ix/oAbeVf+ERAWcv+vz7txyExliuPv9/PNdnxGfdH3WzSsffKjCL\niBeRAD8C1fndKY7VCQWzoxUcbgZ6SsQa6KHrEdHMeQN+Xvg1PBD59zO0kUUBm4Ai\nT4ydF6lXM7zHrUlatVoNsMWBAQKBgQC5XJvUdgvMIxeYqQgTJtpj2FCR71Xldrok\nk9yTis1Kpu2TN9ccHe7NmrRI8teUt67XIHElcAsNyqRYt2YCMzg8Z6ZZ+9FcQpkt\ngXGg4q6b/CqC4eh6T79Xo+znPIxA+Vsy/cTeahbtTUHMByJKO6uKDBtsP5jXTtRg\n3goEEiYAQwKBgEj4tdJMBpmF5cQ6R/GxcyArjwPg/CSzgyWxfI88SWjjOidPBnj5\nn0tEIpg6SQOIAPpLpDqmsHGSuyInNtOvlL1v/axsE3q0+4br3JFVl7HbNfCxzbC3\nkyHepeT/TeeJQcXEZxyfzwf8td9DhqoDig8R331XDVZwCz6GRqxpLFUBAoGBALAa\nxBH+dQbk8C4hqYJIj4P8p89+S2VOf1rw/8dNP+2E2oHbs4sLBS5hpJcJ4LdyK7JH\nKDghUt8vfySqWUgN0YfSEcG79RRqUY1iRcpMkwevc9QVPQG3clqZayHl7Hpuba7s\nWnXU5SNfGvv0ayeLuVXWWtdlNJiaVDwTuABWHbRxAoGAGoNfqyuwzpuqZRpvZKJd\nqobH0D4flWRVkWCblkCDXgJGgimWV6nK88jKi2IwvSfE5qrT7Pe4bz2V6KE9iUYN\n+LoF5tO3A70CZqmY4fGh5HesXj2TacNlwbCAnhs+vEDxVxiDG+O8Olicyqz0QszX\npVhLY6+Nap36iZSXWWuwaFE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-74cwl@tada-truck.iam.gserviceaccount.com",
+  "client_id": "116790801604059919460",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-74cwl%40tada-truck.iam.gserviceaccount.com"
+}

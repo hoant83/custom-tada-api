@@ -1,0 +1,96 @@
+<h4>{{companyName}} xin chào {{nickname}}</h4>
+
+<p>Cảm ơn bạn đã tạo đơn hàng cùng {{companyName}}.</p>
+
+<p>Hiện tại, đơn đã được gửi đến các chủ xe/ tài xế và bạn sẽ sớm nhận được liên hệ từ chủ xe/ tài xế
+    để hai bên thỏa thuận về giá cước.</p>
+
+<p>Bạn vui lòng kiểm tra lại thông tin đơn hàng:</p>
+<div>
+    <span>
+        Loại xe:
+    </span>
+    <span>
+        {{serviceType}}
+    </span>
+</div>
+<div>
+    <span>
+        Địa chỉ lấy hàng:
+    </span>
+    <span>
+        {{pickupAddress}}
+    </span>
+</div>
+<div>
+    <span>
+        Địa chỉ giao hàng:
+    </span>
+    <span>
+        {{dropOffAddress}}
+    </span>
+</div>
+{{#if containerSize includeZero=true}}
+<div>
+    <span>
+        Kích cỡ công:
+    </span>
+    <span>
+        {{containerSize}}
+    </span>
+</div>
+<div>
+    <span>
+        Số lượng công:
+    </span>
+    <span>
+        {{containerQuantity}}
+    </span>
+</div>
+<div>
+    <span>
+        Loại công:
+    </span>
+    <span>
+        {{containerType}}
+    </span>
+</div>
+{{/if}}
+{{#if truckType includeZero=true}}
+<div>
+    <span>
+        Loại xe tải:
+    </span>
+    <span>
+        {{truckType}}
+    </span>
+</div>
+<div>
+    <span>
+        Số lượng xe:
+    </span>
+    <span>
+        {{suggestedTruckQuantity}}
+    </span>
+</div>
+{{/if}}
+<div>
+    <span>
+        Mô tả hàng hóa:
+    </span>
+    <span>
+        {{cargoDescription}}
+    </span>
+</div>
+<div>
+    <span>
+        Loại hàng hóa:
+    </span>
+    <span>
+        {{cargoType}}
+    </span>
+</div>
+<p>Nếu thay đổi, chỉnh sửa thông tin đơn hàng, bạn vui lòng truy cập vào mục Quản lý đơn hàng trên website.
+</p>
+
+{{> footer }}

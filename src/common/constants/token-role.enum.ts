@@ -1,0 +1,6 @@
+export enum TOKEN_ROLE {
+  ADMIN,
+  CUSTOMER,
+  TRUCK_OWNER,
+  DRIVER,
+}

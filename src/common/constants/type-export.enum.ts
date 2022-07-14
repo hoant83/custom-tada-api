@@ -1,0 +1,4 @@
+export enum TYPE_EXPORT_ORDER {
+  MANAGE = 'MANAGE',
+  PAYMENT = 'PAYMENT',
+}

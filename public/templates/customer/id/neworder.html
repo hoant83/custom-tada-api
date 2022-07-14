@@ -1,0 +1,94 @@
+<h4>Welcome {{nickname}} to {{companyName}}.</h4>
+
+<p>Thank you for creating your order with {{companyName}}</p>
+
+<p>Your order has been placed, truck owners/drivers will contact you for fare agreement</p>
+
+<p>Please check your order information</p>
+<div>
+    <span>
+        Type of transportation:
+    </span>
+    <span>
+        {{serviceType}}
+    </span>
+</div>
+<div>
+    <span>
+        Pick up address:
+    </span>
+    <span>
+        {{pickupAddress}}
+    </span>
+</div>
+<div>
+    <span>
+        Drop off address:
+    </span>
+    <span>
+        {{dropOffAddress}}
+    </span>
+</div>
+{{#if containerSize includeZero=true}}
+<div>
+    <span>
+        Container size:
+    </span>
+    <span>
+        {{containerSize}}
+    </span>
+</div>
+<div>
+    <span>
+        No of containers:
+    </span>
+    <span>
+        {{containerQuantity}}
+    </span>
+</div>
+<div>
+    <span>
+        Container type:
+    </span>
+    <span>
+        {{containerType}}
+    </span>
+</div>
+{{/if}}
+{{#if truckType includeZero=true}}
+<div>
+    <span>
+        Truck type:
+    </span>
+    <span>
+        {{truckType}}
+    </span>
+</div>
+<div>
+    <span>
+        No of trucks:
+    </span>
+    <span>
+        {{suggestedTruckQuantity}}
+    </span>
+</div>
+{{/if}}
+<div>
+    <span>
+        Cargo Description:
+    </span>
+    <span>
+        {{cargoDescription}}
+    </span>
+</div>
+<div>
+    <span>
+        Cargo Type:
+    </span>
+    <span>
+        {{cargoType}}
+    </span>
+</div>
+<p>For any changes, please visit our website and update at Order Management section.</p>
+
+{{> footer }}

@@ -1,0 +1,911 @@
+Translate,en,kr,vi
+VALIDATE.EMAIL,Please enter a valid email address (Ex: johndoe@domain.com),유효한 메일 주소를 입력하세요. (예: johndoe@domain.com),Vui lòng nhập một địa chỉ email hợp lệ (ví dụ: johndoe@domain.com).
+VALIDATE.REQUIRED,This is a required field,필수 입력란입니다.,Đây là thông tin bắt buộc.
+VALIDATE.LOGIN,The account sign-in was incorrect,로그인 계정이 올바르지 않습니다.,Tài khoản đăng nhập không đúng
+VALIDATE.CONFIRM_PASSWORD,Please enter the same value again,다시 한번 입력해 주세요.,Vui lòng nhập lại mật khẩu lần nữa
+VALIDATE.PHONE,Phone number is not valid,잘못된 전화번호 입니다.,Số điện thoại không hợp lệ
+VALIDATE.NUMBER,Please enter numbers,숫자를 입력하세요.,Vui lòng nhập số
+ACCOUNT.LOGIN_TITLE,Log in,로그인,Đăng nhập
+ACCOUNT.LOGIN_WELCOME,Welcome!,환영합니다!,Chào mừng bạn!
+ACCOUNT.CREATE_TITLE,Sign up,가입,Đăng ký
+ACCOUNT.CREATENEW_TITLE,Create New Account,새로운 계정 생성,Tạo mới tài khoản
+ACCOUNT.EDIT_TITLE,Edit Account,계정 변경,Chỉnh sửa tài khoản
+ACCOUNT.MANAGE_TITLE,Manage Accounts,계정 관리,Quản lý tài khoản
+ACCOUNT.RESETPASSWORD_TITLE,Reset your password,비밀번호를 변경해 주세요.,Cài đặt lại mật khẩu
+ACCOUNT.SETPASSWORD_TITLE,Set your password,비밀번호를 설정하세요.,Cài đặt mật khẩu
+ACCOUNT.FORGOT_TITLE,Forgot password?,비밀번호를 잊으셨습니까?,Quên mật khẩu?
+ACCOUNT.EMAIL,User email,이메일,Email người dùng
+ACCOUNT.PASSWORD,Password,비밀번호,Mật khẩu
+ACCOUNT.REMEMBERME,Remember me,기억해 주세요.,Ghi nhớ tôi
+ACCOUNT.CONFIRM_PASSWORD,Confirm Password,비밀번호 확인,Xác nhận mật khẩu
+ACCOUNT.PHONE,Phone number (optional),전화 번호 (선택),Số điện thoại (tùy chọn)
+ACCOUNT.PHONE_REQUIRED,Phone number,전화 번호,Số điện thoại
+ACCOUNT.CUSTOMER_TYPE,Choose your Type,유형 선택,Chọn loại tài khoản
+ACCOUNT.FIRST_NAME,First name,이름,Họ
+ACCOUNT.LAST_NAME,Last name,성,Tên
+ACCOUNT.VERIFIED_STATUS,Verified status,인증 상태,Trạng thái xác thực
+ACCOUNT.LINK_FORGOTPASSWORD,Forgot password?,비밀번호를 잊으셨습니까?,Quên mật khẩu?
+ACCOUNT.STATUS,Status,상태,Trạng thái
+ACCOUNT.TYPE,Role,유형,Phân quyền
+ACCOUNT.THANKYOU,Thank you!,감사합니다!,Cám ơn!
+ACCOUNT.THANKYOU_CREATED,Your account has been created successfully,계정이 성공적으로 생성되었습니다.,Tài khoản đã được tạo thành công
+ACCOUNT.THANKYOU_CREATEDNOTE,Please check your email to verify your account,계정 인증 작업을 위해 이메일을 확인해 주세요.,Vui lòng kiểm tra email để xác thực tài khoản của bạn
+ACCOUNT.THANKYOU_RESETPW,A reset password link has been sent to your email address,비밀번호 변경이 가능한 링크가 이메일로 전송되었습니다.,Một url đặt lại mật khẩu đã được gửi tới địa chỉ email của bạn
+ACCOUNT.THANKYOU_RESETPWNOTE,Please check your mail,이메일을 확인해주세요.,Vui lòng kiểm tra email
+ACCOUNT.VERIFIED_PAGETITLE,Account Verification,계정 인증,Xác thực tài khoản
+ACCOUNT.VERIFIED_TITLE,Thank you!,감사합니다!,Cám ơn!
+ACCOUNT.VERIFIED_MESSAGE,Your account has been verified,계정 인증 작업이 성공적으로 이루어졌습니다.,Tài khoản của bạn đã được xác thực
+ACCOUNT.VERIFIED_MOREINFO,,,
+ACCOUNT.SELECT_ALL,All,모두 선택,Tất cả
+ACCOUNT.SELECT,Select ...,선택,Chọn ...
+ACCOUNT.MESSAGE_REQUIRED,Message,메시지,Tin nhắn
+MENU.ACCOUNT_SETUP,Account Setup,계정 설정,Quản lý tài khoản
+MENU.NEW_ORDER,New order,새로운 주문,Tạo đơn hàng
+MENU.MANAGE_ORDERS,Manage orders,주문 관리,Quản lý đơn hàng
+MENU.MANAGE_PAYMENTS,Manage payments,결제 관리,Quản lý thanh toán
+MENU.MY_JOBS,My Jobs,내 작업,Đơn hàng của tôi
+MENU.TERM_CONDITIONS,Terms & Conditions,약관,Điều khoản sử dụng
+MENU.REPORTS,Reports,리포트,Báo cáo
+MENU.MANAGE_NEWORDER,New order,새로운 주문,Đơn hàng mới
+MENU.TRUCKOWNER_MANAGE_ORDERS,Manage orders,주문 관리,Đơn hàng đã nhận
+MENU.QUOTATION,View price quotation,View price quotation,Xem báo giá
+TOPMENU.FAQ,FAQ,FAQ,Câu hỏi thường gặp
+TOPMENU.NOTIFICATION,Notification,알림,Thông báo
+TOPMENU.WELCOME,Welcome,환영합니다,Chào
+STATUS.UNVERIFIED,Not verified,미인증,Chưa xác thực
+STATUS.VERIFIED,Verified,인증 완료,Xác thực
+STATUS.PENDING,Pending,대기,Đang chờ xác thực
+USER_STATUS.ACTIVE,Active,활성화 상태,Đang hoạt động
+USER_STATUS.INACTIVE,Inactive,비활성화 상태,Ngưng hoạt động
+PAGING.FIRST,First,처음,Về đầu
+PAGING.LAST,Last,마지막,Cuối
+PAGING.NEXT,Next,다음,kế tiếp
+PAGING.PREV,Previous,이전,trước
+PAGING.AMOUNT,record(s) found,검색된 목록,mẩu được tìm thấy
+PAGING.PER_PAGE,per page,페이지,trên trang
+CUSTOMER.ACCOUNT_SETUP,Account setup,계정 설정,Thiết lập tài khoản
+CUSTOMER.ACCOUNT_INFO,Account information,계정 정보,Thông tin tài khoản
+CUSTOMER.NEW_TYPE_LABEL,Customer Type,고객 유형,Loại khách hàng
+CUSTOMER.TYPE_LABEL,Account type,계정 유형,Loại tài khoản
+CUSTOMER.TYPE_COMPANY,Company,회사,Công ty
+CUSTOMER.TYPE_INDIVIDUAL,Individual,개인,Cá nhân
+CUSTOMER.TYPE_CORPORATE,Corporate,회사,Công ty
+CUSTOMER.TYPE_LOGISTIC_FORWARDER,Logistic/Forwarder,Logistic/Forwarder,Logistic/Forwarder
+CUSTOMER.STATUS,Status,상태,Trạng thái
+CUSTOMER.STATUS_LABEL,Account Status,계정 상태,Trạng thái
+CUSTOMER.EMAIL_STATUS_LABEL,Email verify Status,이메일 인증 상태,Trạng thái email
+CUSTOMER.STATUS_LABELNOTE,Please upload ID Card and/or Company Business License No to have account verified,계정 인증을 위해 신분증을 업로드 하시고 기업등록증 번호를 입력해 주세요.,Hãy tải lên bản chụp CMND hoặc giấy phép KD công ty để xác thực tài khoản
+CUSTOMER.ADMIN_NAME,Owner's Name,관리자명,Tên chủ tài khoản
+CUSTOMER.ADMIN_EMAIL,Owner's Email,관리자 이메일,Email chủ tài khoản
+CUSTOMER.ADMIN_CONTACTNO,Owner's Contact NO,관리자 연락처,ĐT chủ tài khoản
+CUSTOMER.ADMIN_CARDNO,Owner's ID Card NO,관리자 신분증 번호,CMND
+CUSTOMER.ADMIN_CARDFRONT,Upload Owner's ID Card (front),관리자 신분증 앞면 업로드,Tải CMND (mặt trước)
+CUSTOMER.ADMIN_CARDBACK,Upload Owner's ID Card (back),관리자 신분증 뒷면 업로드,Tải CMND (mặt sau)
+CUSTOMER.ADMIN_PROFILE_IMG,Upload Owner's Profile image,관리자 프로필 이미지 업로드,Tải ảnh đại diện
+CUSTOMER.EMPLOYEE_TITLE,Employee Accounts,직원 계정,Tài khoản nhân viên
+CUSTOMER.NAME,Name,이름,Tên
+CUSTOMER.YOUR_EMAIL,Your Email,이메일,Email
+CUSTOMER.EMAIL,Owner Email,이메일,Email
+CUSTOMER.PHONE,Phone,전화번호,Điện thoại
+CUSTOMER.FAVOURITE_TRUCK,Favourite truck operators,좋아하는 트럭 사업자,Công ty vận tải yêu thích
+CUSTOMER.FAVOURITE_TRUCKINFO,"Add your own favourite truck operators if you have good experiences and want them to deliver your goods. Once set up, your orders will be dispatched <b>ONLY</b> to these favourite truck operators. If you want to dispatch order to all available truck operators, just click Reset button to remove all the favourite truck operators.","지난 주문에서 마음에 드는 트럭 사업자가 있었다면 ""좋아하는 트럭 사업자""에 추가하십시오. 추가가 완료된 후 주문 생성시 ""좋아하는 트럭 사업자""에게만 알림이 가도록 설정할 수 있습니다. 사용 가능한 모든 트럭 사업자에게 주문을 발송하려면 변경 버튼을 클릭하여 ""좋아하는 트럭 사업자""에 클릭 버튼을 없애주시면 됩니다.","Thêm các công ty vận tải yêu thích vào danh sách nếu bạn đã có kinh nghiệm tốt khi làm việc cùng họ. Chú ý là các đơn hàng của bạn sẽ CHỈ được gửi đến cho các công ty trong danh sách mà thôi. Nếu bạn muốn đơn hàng được gửi đến tất cả các công ty trong hệ thống, hãy nhấn nút Huỷ thiết lập để xóa tất cả danh sách công ty yêu thích."
+CUSTOMER.PLACEHOLDER_FAVOURITE,Enter Truck owner's Partner ID,트럭 사업자의 파트너 ID를 입력해 주세요.,Nhập Mã đối tác của công ty vận tải
+CUSTOMER.FAVOURITE_PARTNERNOTE,You can find Truck owner's Partner ID in Manage Order - View Truck Operator. Or simple call TADA to get the Partner ID for any trucj operator that you wish to add.,주문 관리 - 트럭 사업자 보기 에서 트럭 사업자의 파트너 ID를 찾을 수 있습니다. 또는 TADA에 전화하시면 추가를 원하는 트럭 사업자의 파트너 ID를 알 수 있습니다.,Bạn có thể tìm thấy Mã đối tác của công ty vận tải trong Quản lý đơn hàng - Xem chủ xe. Hoặc đơn giản gọi cho TADA để lấy Mã đối tác cho bất kì công ty vận tải nào mà bạn muốn thêm.
+CUSTOMER.FAVOURITE_NOTE,You can find Truck owner's Partner ID in Manage Order - View Truck Operator. Or simple call TADA to get the Partner ID for any truck operator that you wish to add.,주문 관리 - 트럭 사업자 보기 에서 트럭 사업자의 파트너 ID를 찾을 수 있습니다. 또는 TADA에 전화하시면 추가를 원하는 트럭 사업자의 파트너 ID를 알 수 있습니다.,Bạn có thể tìm thấy Mã đối tác của công ty vận tải trong Quản lý đơn hàng - Xem chủ xe. Hoặc đơn giản gọi cho TADA để lấy Mã đối tác cho bất kì công ty vận tải nào mà bạn muốn thêm.
+CUSTOMER.OWNER,Owner,소유자,Chủ tài khoản
+CUSTOMER.ROLE_LABEL,Account type,계정 유형,Phân quyền
+CUSTOMER.ROLE_OWNER,Owner,소유자,Chủ tài khoản
+CUSTOMER.ROLE_ADMIN,Manager,관리자,Tài khoản Quản lý
+CUSTOMER.ROLE_EXECUTIVE,Staff,실무자,Tài khoản Nhân viên
+CUSTOMER.TRUCKOWNER_NAME,Name,이름,Công ty
+CUSTOMER.FAVOURITE_NEW,Add new favourite truck company,선호하는 트럭 회사 추가,Thêm công ty yêu thích
+CUSTOMER.NEW_TITLE,New Customer,새로운 고객,Tạo mới tài khoản
+CUSTOMER.EDIT_TITLE,Edit Customer,고객 변경,Chỉnh sửa tài khoản
+CUSTOMER.MANAGE_TITLE,Manage Customers,고객 관리,Quản lý tài khoản
+CUSTOMER.FORGOT_MESSAGE,Please input your email address (that you register with TADA Truck) to reset your password,비밀번호를 변경하기 위해 기존에 등록하신 이메일 주소를 입력해 주세요.,Vui lòng nhập email mà bạn đã đăng ký với TADA Truck để thiết lập lại mật khẩu của bạn
+CUSTOMER.PARTNER_ID,Partner Id,파트너 ID,Mã đối tác
+CUSTOMER.EMPLOYEE_ADD_TITLE,Add New Employee,직원 추가,Thêm mới nhân viên
+CUSTOMER.EMPLOYEE_EDIT_TITLE,Edit Employee,직원 변경,Chỉnh sửa thông tin nhân viên
+CUSTOMER.MANAGE_RESTORE_TITLE,Manage Deleted Customers,삭제된 고객 관리,Quản lý tài khoản khách hàng đã xóa
+CUSTOMER.TRUCK_OPERATOR,Truck operator,트럭 관리자,Tài xế
+COMPANY.LABEL,Company Info,회사 정보,Thông tin về  công ty
+COMPANY.SUBTAB_TITLE,Company Information,회사 정보,Thông tin về  công ty
+COMPANY.NAME,Company Name,회사명,Tên công ty
+COMPANY.PHONE,Company Contact NO,회사 연락처,ĐT công ty
+COMPANY.ADDRESS,Company Address,회사 주소,Địa chỉ
+COMPANY.BUSINESS_LICENSENO,Business License No,기업등록증 번호,Mã số doanh nghiệp
+COMPANY.ICON,Upload Company Icon,회사 로고 업로드,Tải logo công ty
+COMPANY.BUSINESS_LICENSE,Upload Business License,기업등록증 업로드,Tải giấy phép KD
+COMPANY.CONTACT_PERSON,Contact Person,담당자,Người liên lạc
+COMPANY.CONTACT_EMAIL,Contact Email,이메일,Email liên lạc
+COMPANY.CONTACT_PHONE,Contact NO,연락처,ĐT liên lạc
+COMPANY.NEW_TITLE,New Company,새로운 회사,Thêm mới công ty
+COMPANY.EDIT_TITLE,Edit Company,회사 변경,Chỉnh sửa công ty
+COMPANY.COL_NAME,Company Name,회사명,Khách hàng
+BUTTONS.LOGIN,Login,로그인,Đăng nhập
+BUTTONS.SIGNUP,Sign up,회원 가입,Đăng ký
+BUTTONS.CREATE,Create,생성,Tạo mới
+BUTTONS.UPDATE,Update,업데이트,Cập nhật
+BUTTONS.DELETE,Delete,삭제,Xóa
+BUTTONS.TRUCKOWNER_DELETE,Delete order's truck owner,트럭 관리자 오더 삭제,Xóa chủ xe của đơn hàng
+BUTTONS.BACK,Back to login,로그인으로 되돌아가기,Quay lại trang đăng nhập
+BUTTONS.BACK_STEP,Back,이전,Quay lại
+BUTTONS.NEXT_STEP,Next,다음,Tiếp tục
+BUTTONS.EDIT,Edit,변경,Sửa
+BUTTONS.CANCEL,Cancel,취소,Huỷ
+BUTTONS.ORDER_CANCEL,Cancel,취소,Hủy đơn
+BUTTONS.CUSTOMER_CANCEL,Cancel as Customer,고객이 취소,Khách hàng hủy đơn
+BUTTONS.TRUCKOWNER_CANCEL,Cancel as Truckowner,트럭 사업자가 취소,Chủ xe hủy đơn
+BUTTONS.OK,Ok,OK,Đồng ý
+BUTTONS.TRACKING,Tracking,배송 추적,Xem lộ trình
+BUTTONS.ADD_MORE,Add more,추가,Thêm mới
+BUTTONS.RESET,Reset,변경,Hủy thiết lập
+BUTTONS.CLOSE,Close,닫기,Đóng
+BUTTONS.ASSIGN,Assign,배정,Chỉ định
+BUTTONS.ADD,Add,추가,Thêm
+BUTTONS.ADD_NEW,Add New,추가,Thêm mới
+BUTTONS.SAVE,Save,저장,Lưu
+BUTTONS.SAVE_EDIT,Save and Edit,저장 및 변경,Lưu và tiếp tục sửa
+BUTTONS.ACCOUNT_RESET,Reset your password,비밀번호 변경,Thiết lập lại
+BUTTONS.VIEW_TRUCK,View truck owner,트럭 사업자 보기,Xem chủ xe
+BUTTONS.ASSIGNED_TRUCK,Assigned truck operator info,배정된 트럭 사업자 정보,Thông tin chủ xe
+BUTTONS.ASSIGN_AS_TRUCKOWNER,Assign as truck owner,트럭 관리자로 등록,Đăng ký dưới quyền chủ xe
+BUTTONS.ASSIGN_JOB,Assign & Start the job,배정 & 작업 시작,Hoàn thành và bắt đầu công việc
+BUTTONS.SEND,Send,전송,Gửi
+BUTTONS.CONFIRM,Confirm,확인,Xác nhận
+BUTTONS.FIND_NEWDRIVER,Find new driver,새로운 배송기사 찾기,Tìm tài xế mới
+BUTTONS.FIND_NEWTRUCK,Find new truck,새로운 트럭 찾기,Tìm xe mới
+BUTTONS.ADD_NEWCUSTOMER,Create new customer,새로운 고객 생성,Tạo khách hàng mới
+BUTTONS.ADD_NEWDRIVER,Add new driver,배송기사 추가,Tạo tài xế mới
+BUTTONS.CHOOSE_IMAGE,Choose an image,이미지 선택,Chọn hình
+BUTTONS.ADD_NEWTRUCKOWNER,Add new truck owner,트럭 사업자 추가,Thêm mới chủ xe
+BUTTONS.ADD_NEWADMIN,Add new admin account,관리자 계정 추가,Thêm mới tài khoản quản trị
+BUTTONS.ADD_NEWORDER,Create new order,주문 생성,Tạo mới đơn hàng
+BUTTONS.ACCEPT,Accept,승인,Chấp nhận đơn hàng
+BUTTONS.LOAD_MORE,Load more,더 보기,Xem thêm
+BUTTONS.LOAD,Load,더 보기,Tải
+BUTTONS.EDIT_DRIVERTRUCK,Edit Truck & Driver,트럭 & 배송기사 변경,Chỉnh sửa xe và tài xế
+BUTTONS.RESTORE,Restore Users,사용자 복원,Khôi phục lại tài khoản đã xóa
+BUTTONS.YES,Yes,예,Có
+BUTTONS.NO,No,아니오,Không
+BUTTONS.SECRET_CODE,Show pickup/deliver code,픽업/배송 코드 보기,Xem mã giao/nhận hàng
+BUTTONS.SEND_SMS_MANUAL,Send SMS Manual,문자 보내기,Gửi tin nhắn thủ công
+BUTTONS.SEND_MESSAGE,Send,전송,Gửi
+BUTTONS.CHOOSE_MULTIPLE,Choose documents (maximum 3 files),문서 선택 (최대 3개 파일),Chọn tài liệu (tối đa 3 tập tin)
+BUTTONS.RESET_FILTER,Clear all filters,모든 필터 지우기,Xóa tất cả các bộ lọc
+PLACEHOLDER.EMAIL,,,
+PLACEHOLDER.PASSWORD,,,
+PLACEHOLDER.CONFIRM_PASSWORD,,,
+PLACEHOLDER.PHONE,Ex: 09xxxxxxxx,예: 09xxxxxxxx,Ví dụ: 0xxxxxxxxx
+PLACEHOLDER.FIRST_NAME,,,
+PLACEHOLDER.LAST_NAME,,,
+PLACEHOLDER.VERIFIED_STATUS,,,
+PLACEHOLDER.STATUS,,,
+PLACEHOLDER.TYPE,,,
+PLACEHOLDER.CLONE_INPUT,Input order's number,주문 번호를 입력하세요.,nhập mã đơn hàng
+PLACEHOLDER.TRUCK_LOAD,"2 tons, 5 tons, 8 tons...","2 톤, 5 톤, 8 톤…","2 tấn, 5 tấn, 8 tấn..."
+PLACEHOLDER.CARGO_NAME,"rice, clothes, fruits,...","쌀, 옷, 과일,…","gạo, quần áo, trái cây..."
+PLACEHOLDER.CARGO_WEIGHT,Input Cargo Weight,"500kg, 5 톤, 10 톤...","500kg, 5kg, 1000kg..."
+PLACEHOLDER.PACKAGE_SIZE,Input Package Size,"박스, 500cm x 500cm x 1000cm","hộp, 500cm x 500cm x 1000cm"
+PLACEHOLDER.PICKUP_EMPADDRESS,input pick up address,상차지 주소,nhập địa chỉ lấy hàng
+PLACEHOLDER.DROPOFF_EMPADDRESS,input drop off address,하차지 주소,nhập địa chỉ giao hàng
+PLACEHOLDER.PICKUP_EMPTY,input pick up empty container address,빈 컨테이너 상차지 주소,nhập địa chỉ lấy công rỗng
+PLACEHOLDER.DROPOFF_EMPTY,input drop off empty container address,빈 컨테이너 하차지 주소,nhập địa chỉ giao công rỗng
+PLACEHOLDER.PRICE_REQUEST,input price,가격을 입력하세요.,nhập giá
+PLACEHOLDER.VAT_INFO,input vat info,VAT 정보를 입력하세요.,nhập mã số thuế
+PLACEHOLDER.SEARCH,search here,검색,Tìm kiếm
+FILTER.SEARCH,Search,검색,Tìm kiếm
+FILTER.SEARCHBY,Search by,검색,Tìm kiếm theo
+FILTER.EXPORT,Export to,데이터 내보내기,Xuất sang
+ORDER.SUMMARY_TITLE_TOP,Order Summary,주문 요약,Thông tin đơn hàng
+ORDER.CREATE_TITLE,Order created,주문이 생성되었습니다.,Đơn hàng đã được tạo
+ORDER.CREATE_TITLENOTE,Notes: (*) - compulsory fields,참고 : (*) - 필수 항목,Chú ý: (*) - thông tin bắt buộc cần có
+ORDER.MANAGE_TITLE,Manage Orders,주문 관리,Quản lý đơn hàng
+ORDER.PENDING_TITLE,Pending Order,진행 중인 주문,Đơn hàng của tôi
+ORDER.COMPLETED_TITLE,Completed Order,완료된 주문,Đơn hàng đã hoàn thanh
+ORDER.SECRET_CODE_TITLE,Secret code,비밀코드,Mã bí mật
+ORDER.DELIVERY_CODE_LABEL,Delivery code,배송코드,Mã nhận hàng
+ORDER.PICKUP_CODE_LABEL,Pickup code,픽업코드,Mã lấy hàng
+ORDER.UPDATED_DATE,Updated date,업데이트일,Ngày cập nhật
+ORDER.CREATED_DATE,Created date,생성일,Ngày tạo
+ORDER.CREATED_BY,Created by,주문 생성자,Tạo bởi
+ORDER.COMPANY,Company,회사,Công ty
+ORDER.ID,Order ID,주문 ID,Mã đơn hàng
+ORDER.ORDER_PREFERENCE,Order preference,선호하는 주문,Đơn  hàng tham chiếu
+ORDER.ORDERTYPE_LABEL,Order Type,주문 유형,Kiểu đơn hàng
+ORDER.ORDERTYPE_STANDARD,Standard,스탠다드,Tạo thông thường
+ORDER.ORDERTYPE_STANDARDNOTE,Default,기본,Đơn hàng tiêu chuẩn
+ORDER.ORDERTYPE_QUICK,Quick,빠른 주문 생성,Tạo nhanh
+ORDER.ORDERTYPE_QUICKNOTE,For instant order,즉시 주문,Đơn hàng gấp
+ORDER.CLONE,Clone,불러오기,Copy đơn hàng
+ORDER.CLONENOTE,From existing order,이전 거래,Từ đơn hàng đã có
+ORDER.CLONE_LABEL,,,
+ORDER.CLONE_ACTION,Clone,불러오기,Copy đơn hàng
+ORDER.ORDER_STATUS,Order status,주문 상태,Trạng thái đơn hàng
+ORDER.STATUS_LABEL,Status,상태,Trạng thái
+ORDER.STATUS_CREATED,Newly created,새로 생성됨,Khởi tạo
+ORDER.STATUS_VERIFIED,Verified,인증 완료,Đã xác thực
+ORDER.STATUS_ASSIGNING,Driver searching,기사 검색중,Đang tìm xe
+ORDER.STATUS_ASSIGNED,Driver found,기사 검색 완료,Tìm thấy xe
+ORDER.STATUS_DISPATCHED,Dispatched,배정 완료,Sắp xếp xe
+ORDER.STATUS_PICKING,Picking up,상차 중,Đi lấy hàng
+ORDER.STATUS_PICK_ARRIVED,Pick up arrived,상차지 도착,Đợi lấy hàng
+ORDER.STATUS_PCODEINPUTED,Pick up code is inputted,상차 코드가 입력되었습니다.,Đã nhập mã lấy hàng
+ORDER.STATUS_DELIVERING,Delivering,배송 중,Đi giao hàng
+ORDER.STATUS_DCODEINPUTTED,Delivery code is inputted,배송 코드가 입력되었습니다.,Đã nhập mã giao hàng
+ORDER.STATUS_DELIVERED,Delivered,배송 완료,Hoàn thành
+ORDER.STATUS_CANCELING,Cancelling,취소 중,Đang hủy
+ORDER.STATUS_CANCELED,Cancelled,취소 완료,Đã hủy
+ORDER.STATUS_CUSTCANCEL,Cancelling,취소 중,Đang hủy
+ORDER.ADMIN_STATUS_CUSTCANCEL,Customer Cancelling,고객 취소,Khách Hủy
+ORDER.STATUS_DRIVERCANCEL,Driver Cancelling,기사가 취소,Chủ xe hủy
+ORDER.CANCELEDBY_LABEL,Canceled by,취소 신청인,Đã hủy bởi
+ORDER.CANCELEDBY_CUSTOM,Cancelling,취소 중,Đang hủy
+ORDER.CANCELEDBY_DRIVER,Driver cancelling,배송기사가 취소,Chủ xe hủy
+ORDER.SERVICETYPE_LABEL,Service Type,유형 선택,Loại xe
+ORDER.SERVICETYPE_LABELNOTE,Select type of transportation,배송 유형 선택,Chọn loại xe
+ORDER.SERVICETYPE_DEFAULT,Select type of service,서비스 유형 선택,Chọn loại xe
+ORDER.SERVICETYPE_TRAILOR,Trailor tractor truck,트레일러,Xe công-te-nơ
+ORDER.SERVICETYPE_NORMAL,Normal truck/van,일반 트럭,Xe tải các loại
+ORDER.SERVICETYPE_REFNUMBER,Your own reference number,레퍼런스 넘버,Mã tham chiếu đơn hàng
+ORDER.REFERENCE_NO,Reference NO,레퍼런스 넘버,Mã tham chiếu
+ORDER.SERVICETYPE_REFNUMBERNOTE,Freely to input your customer's order number or your internal reference number for better tracking,"쉬운 배송 조회를 위해 자유롭게 고객 주문 번호를 입력하거나, 자체 레퍼런스 번호를 입력하세요.",Bạn có thể nhập mã vận đơn của khách hàng hoặc bất kì số tham chiếu nào liên quan đến lô hàng để dễ đối soát về sau
+ORDER.SERVICETYPE_REFNOTE_LABEL,Other reference note,기타 참고 사항,Ghi chú tham chiếu khác
+ORDER.SERVICETYPE_REFNOTE,"Hashtag, categories... this information will be included when you export to excel/csv files","해시태그, 카테고리... 이 정보는 엑셀/csv 파일로 내보낼 때 포함됩니다","Hashtag, loại, ... những thông tin này sẽ thể hiện khi bạn xuất dữ liệu sang tệp excel/ csv"
+ORDER.SHIPMENT_INFO,Shipment info,배송 정보,Thông tin vận chuyển
+ORDER.CONTAINERSIZE_LABEL,Container size,컨테이너 크기,Kích cỡ công
+ORDER.CONTAINERTYPE_LABEL,Container type,컨테이너 유형,Loại công
+ORDER.CONTAINERTYPE_DC,DC (Dry container),DC (드라이 컨테이너),Công khô
+ORDER.CONTAINERTYPE_RF,RF (Reefer),RF (냉동차),Công lạnh
+ORDER.CONTAINERTYPE_HC,HC (High cube),HC (하이 큐브),Công cao
+ORDER.CONTAINERTYPE_HR,HR (High cube reefer),HR (하이 큐브 냉동차),Công lạnh cao
+ORDER.CONTAINERTYPE_OT,OT (Open Top),OT (오픈 탑),Công mở
+ORDER.CONTAINERTYPE_FR,FR (Flat Rack),FR (플랫 랙),Công mặt phẳng (FR)
+ORDER.CONTAINERTYPE_TANK,Tank,탱크 컨테이너,Công bồn
+ORDER.CONTAINERQUANTITY,No of containers,컨테이너 수량,Số lượng công
+ORDER.PACKAGE_SIZE_1000_1200,Pallet(WxL) 1000 × 1200 (mm),Pallet(WxL) 1000 × 1200 (mm),Pa-lét (WxL) 1000 × 1200 (mm)
+ORDER.PACKAGE_SIZE_1100_1100,Pallet(WxL) 1100 × 1100 (mm),Pallet(WxL) 1100 × 1100 (mm),Pa-lét (WxL) 1100 × 1100 (mm)
+ORDER.PACKAGE_SIZE_1016_1219,Pallet(WxL) 1016 × 1219 (mm),Pallet(WxL) 1016 × 1219 (mm),Pa-lét (WxL) 1016 × 1219 (mm)
+ORDER.PACKAGE_SIZE_1165_1165,Pallet(WxL) 1165 × 1165 (mm),Pallet(WxL) 1165 × 1165 (mm),Pa-lét (WxL) 1165 × 1165 (mm)
+ORDER.PACKAGE_SIZE_1067_1067,Pallet(WxL) 1067 × 1067 (mm),Pallet(WxL) 1067 × 1067 (mm),Pa-lét (WxL) 1067 × 1067 (mm)
+ORDER.PACKAGE_SIZE_800_1200,Pallet(WxL) 800 × 1200 (mm),Pallet(WxL) 800 × 1200 (mm),Pa-lét (WxL) 800 × 1200 (mm)
+ORDER.PACKAGE_SIZE_OTHER,Others,기타,Khác
+ORDER.TRUCKTYPE_LABEL,Truck type,트럭 유형,Loại xe tải
+ORDER.TRUCKTYPE_NORMAL,Normal,보통,Xe thường
+ORDER.TRUCKTYPE_FREEZING,Freezing,냉동 트럭,Xe đông lạnh
+ORDER.TRUCK_LOAD,Truck payload,트럭 톤수,Tải trọng xe
+ORDER.TRUCK_QUANTITY,No of trucks,트럭 수량,Số lượng xe
+ORDER.CARGO_INFO,Cargo Info,화물 정보,Thông tin hàng hóa
+ORDER.CARGOTYPE_LABEL,Cargo Type,화물 유형,Loại hàng hóa
+ORDER.CARGOTYPE_STANDARD,Standard,표준,Thông thường
+ORDER.CARGOTYPE_DANGEROUS,Dangerous,위험 화물,Nguy hiểm
+ORDER.CARGOTYPE_SPECIAL,Special,특수 화물,Đặc biệt
+ORDER.CARGO_NAME,Cargo Description,화물 상세,Mô tả hàng hóa
+ORDER.CARGO_WEIGHT,Cargo Weight,화물 무게,Trọng lượng ước tính
+ORDER.PACKAGE_SIZE,Package size,포장 유형 & 크기,Quy cách đóng gói
+ORDER.ROUTE_INFO,Route info,경로 정보,Thông tin lộ trình
+ORDER.PICKUP_ADDRESS,Pick up address,상차지 주소,Địa chỉ lấy hàng
+ORDER.PICKUP_CONTACTNO,Pick up contact no,상차지 연락처,ĐT liên hệ lấy hàng
+ORDER.PICKUP_TIME,Pick up time,상차 시각,Giờ lấy hàng
+ORDER.DROPOFF_ADDRESS,Drop off address,하차지 주소,Địa chỉ giao hàng
+ORDER.DROPOFF_CONTACTNO,Drop off contact no,하차지 연락처,ĐT người nhận hàng
+ORDER.DROPOFF_CONTACT,Drop off contact,하차지 연락처,Người nhận hàng
+ORDER.PICKUP_LOCATION,Pick up Location,픽업 위치,Địa điểm lấy hàng
+ORDER.UPLOAD_PHOTOS,Upload photos,이미지 업로드,Tải ảnh
+ORDER.DROPOFF_TIME,Drop off time,하차 시각,Giờ nhận hàng
+ORDER.PICKUP_EMPCONTAINER,Need to pick up empty container?,빈 컨테이너를 픽업해야 합니까?,Cần đi lấy công rỗng?
+ORDER.PICKUP_EMPADDRESS,,,
+ORDER.DROPOFF_EMPCONTAINER,Need to drop off empty container?,빈 컨테이너를 내려야 합니까?,Cần đi trả công rỗng?
+ORDER.DROPOFF_EMPADDRESS,,,
+ORDER.NOTE_TODRIVER,Note to Driver,배송기사에게 메시지,Ghi chú khác cho tài xế
+ORDER.ADDITIONAL_INFO,Additional Info,부가 정보,Thông tin khác
+ORDER.ADDITIONAL_PRICE,Additional Price,추가 가격,Phụ phí
+ORDER.PRICE,Propose Price,가격을 설정하시겠습니까?,Bạn muốn đề xuất mức giá?
+ORDER.DISTANCE,Distance from pickup to dropoff location,상차지 - 하차지 거리,Khoảng cách từ điểm lấy hàng đến điểm giao hàng
+ORDER.PRICE_NOTE,"Price is optional, input if you want a specific price. Otherwise you can negotiate directly with the truck owner for the most suitable price","원하시는 가격을 입력해 주세요. (옵션) 미입력 시, 트럭 사업자와 합리적인 가격을 직접 협상할 수 있습니다.","Nhập mức giá đề xuất nếu bạn muốn, nếu không bạn có thể thương lượng trực tiếp với chủ xe để có được mức giá tốt nhất"
+ORDER.PRICE_REQUEST,Distance from pickup to dropoff location,상차지 - 하차지 거리,Khoảng cách từ điểm lấy hàng đến điểm giao hàng
+ORDER.VAT,VAT Need,VAT 인보이스가 필요합니까?,Bạn cần hóa đơn VAT?
+ORDER.VAT_INFO,VAT information,VAT 정보,Thông tin VAT
+ORDER.VAT_NOT_FILL,"There is no available VAT information for this order yet, please check with customer.",아직 이 주문에 대한 VAT 정보가 없습니다. 고객에게 확인하십시오,"Chưa có thông tin xuất Hoá đơn VAT, vui lòng liên hệ với khách hàng để cập nhật"
+ORDER.NO_VAT,This order does not require VAT invoice,이 주문에는 VAT 인보이스가 필요하지 않습니다,Đơn hàng này không yêu cầu Hóa đơn VAT
+ORDER.PAYMENT_TYPE,Payment Type,결제 유형,Phương thức thanh toán
+ORDER.PAYMENT_AMOUNT,Payment Amount,결제 금액,Số tiền thanh toán
+ORDER.SELECT_SERVICE,Select type of service,서비스 유형을 선택하세요.,Chọn loại dịch vụ
+ORDER.INCHARGE_NAME,Person in charge's name,담당자 성명,Tên người quản lý đơn hàng
+ORDER.INCHARGE_NAMENOTE,"Supervisor who directly manage this order, could be different from the account holder",주문을 직접 관리하는 담당자는 계정 주인과 다를 수 있습니다.,"Người trực tiếp quản lý đơn hàng, có thể khác với chủ tài khoản"
+ORDER.INCHARGE_CONTACTNO,Person in charge's contact NO,담당자 연락처,ĐT người quản lý đơn hàng
+ORDER.OTHERGENERALNOTES,Other general notes,기타 메시지,Các ghi chú khác
+ORDER.DETAIL_REQUEST,Your detailed request,세부 요청사항,Yêu cầu chi tiết của bạn
+ORDER.DETAIL_REQUEST_TRUCK,Detailed request,세부 요청사항,Yêu cầu chi tiết
+ORDER.DETAIL_REQUESTNOTE,"Need to ship 3 cont cashew from Binh Duong to Ho Chi Minh, pick up by 11PM 20 Dec 2020 ...",Binh Duong에서 호치민까지 3개의 컨테이너 캐슈를 배송해야합니다. 2020년 12월 20일 오후 11시까지 픽업하십시오 ...,"Cần chở 3 cont bao tải hạt điều từ Bình Dương lên HCM, lấy hàng trước 23h ngày 20/12/2020 ..."
+ORDER.STAFF_NOTE,Admin note 1,관리자 노트 1,Ghi chú cho Admin 1
+ORDER.STAFF_ANOTHERNOTE,Admin note 2,관리자 노트 2,Ghi chú cho Admin 2
+ORDER.ROUTE_MAP,Route Map,노선도,Bản đồ lộ trình
+ORDER.CREATED_TITLE,Create your order,주문을 생성하세요.,Tạo đơn hàng
+ORDER.THANKYOU_TITLE,Thank you!,감사합니다!,Cảm ơn!
+ORDER.THANKYOU_MESSAGE,Your order has been created successfully!,주문이 성공적으로 생성되었습니다.,Đơn hàng của bạn đã được tạo thành công!
+ORDER.THANKYOU_MOREINFO,Below are the order summary. You can always manage your created order by clicking <strong><i>Manage Orders</i></strong> on the left menu,아래에 주문 요약이 있습니다. 왼쪽 메뉴에서 <strong><i>주문 관리</i></strong>를 클릭하여 언제나 주문을 관리할 수 있습니다.,Bạn có thể xem lại thông tin đơn hàng bên dưới. Bạn có thể chỉnh sửa các đơn hàng đã tạo bằng cách vào mục <strong><i>Quản lý đơn hàng</i></strong> ở menu bên trái.
+ORDER.SUMMARY_TITLE,Summary,주문 요약,Thông tin đơn hàng
+ORDER.SUMMARY_CREATEDBY_TITLE,Created By,생성자,Thông tin người tạo đơn
+ORDER.SUMMARY_TRUCKOWNER_TITLE,Truck Owner Summary,트럭 사업자 요약,Thông tin chủ xe
+ORDER.SUMMARY_DRIVERS_TITLE,Drivers Summary,배송기사 요약,Thông tin các tài xế
+ORDER.SUMMARY_TRUCKS_TITLE,Trucks Summary,트럭 요약,Thông tin các xe tải
+ORDER.SUMMARY_SERVICETYPE,Type of transportation,배송 유형,Loại xe
+ORDER.SUMMARY_BASIC_INFO,Basic Order Info,기본 주문 정보,Thông tin cơ bản đơn hàng
+ORDER.SUMMARY_DRIVER_TRUCK_INFO,Driver & Truck Info,기사 및 트럭 정보,Thông tin Tài xế & Xe
+ORDER.SUMMARY_TRACKING,Tracking & Status,트랙킹 및 상태,Theo dõi & Trạng thái
+ORDER.PAYMENT_NOTES,Payment Notes,지불 메모,Ghi chú thanh toán
+ORDER.PAYMENT_DUE_DATE,Payment Due Date,지불 기한,Hạn thanh toán
+ORDER.PICKUP_COMPANY,Pick up Company,상차 회사,Công ty nhận hàng
+ORDER.DROPOFF_COMPANY,Drop off Company,하차 회사,Công ty giao hàng
+ORDER.TRUCK_OWNER_NAME,Name of Truck Owner,트럭 관리자 이름,Tên Chủ Xe
+ORDER.DRIVER_IDCARD_NO,Driver's ID card NO,기사 운전면허번호,Số CMND tài xế
+ORDER.PICKUP_DOC,Pickup & Delivery handover documents,상차지 및 하차지 제출 서류,Tài liệu Giao nhận
+ORDER.CONTACT_US,Contact us,문의,Liện hệ chúng tôi
+ORDER.OUR_EMAIL,Our Email,이메일,Email
+ORDER.OUR_HOTLINE,Our Hotline,핫라인,Hotline
+ORDER.TRACKING_SECTION,Tracking section,배송 조회,Thông tin lộ trinhf
+ORDER.TRACKING_TITLE,Tracking,배송 조회,Lộ trình
+ORDER.DISTANCE_PICKUP,Distance to pickup,상차지까지의 거리,Khoảng cách đến điểm lấy hàng
+ORDER.DISTANCE_DROPOFF,Distance to drop off,하차지까지의 거리,Khoảng cách đến điểm giao hàng
+ORDER.TRACKING_TRUCK_NAME,Truck name,Truck name,Tên xe
+ORDER.TRACKING_TRUCK_SPEED,Speed,Speed,Vận tốc
+ORDER.TRACKING_TRUCK_RUNNING,Running,Running,Chạy
+ORDER.TRACKING_TRUCK_STOP,Stop,Stop,Dừng
+ORDER.TRACKING_TRUCK_LOST_SIGNAL,Lost signal,Lost signal,Mất tín hiệu
+ORDER.TRACKING_TRUCK_ADDRESS,Address,Address,Địa chỉ
+ORDER.TRACKING_TRUCK_DRIVING_TIME,Driving time,Driving time,Thời gian chạy
+ORDER.VIEW_GPS_DEVICE,View GPS device,View GPS device,Xem thiết bị GPS
+ORDER.GPS_DEVICE,GPS device,GPS device,Thiết bị GPS
+ORDER.REVIEW_DRIVING_ROUTE,Review driving route,Review driving route,Xem lại tuyến đường
+ORDER.VIEW,View,View,Xem
+ORDER.DOWNLOAD,Download,Download,Tải về
+ORDER.VEHICLE,Vehicle,Vehicle,Phương tiện
+ORDER.FROM,From,From,Từ
+ORDER.TO,To,To,Đến
+ORDER.WAYPOINT,Waypoint,Waypoint,Điểm lộ trình
+ORDER.DATE_TIME,Date/Time,Date/Time,Ngày/Giờ
+ORDER.LOCATION,Location,Location,Vị trí
+ORDER.ACTIONLOG_CREATED,Order created,주문이 생성되었습니다.,Đơn hàng khởi tạo
+ORDER.ACTIONLOG_ASSIGNED,Driver found,배송기사를 검색했습니다.,Tìm thấy tài xế
+ORDER.ACTIONLOG_DISPATCHED,Order Dispatched,주문이 배정되었습니다.,Sắp xếp xe đi lấy hàng
+ORDER.ACTIONLOG_PICKING,Start driving,상차지 출발,Bắt đầu đi lấy hàng
+ORDER.ACTIONLOG_PICK_ARRIVED,Arrive pickup,상차지 도착,Đến điểm lấy hàng
+ORDER.ACTIONLOG_PCODEINPUTED,Pick up code is inputted,상차 코드가 입력되었습니다,Đã nhập mã lấy hàng
+ORDER.ACTIONLOG_DELIVERING,Start delivering,배송 시작,Bắt đầu giao hàng
+ORDER.ACTIONLOG_DCODEINPUTTED,Delivery code is inputted,배송 코드가 입력되었습니다.,Đã nhập mã giao hàng
+ORDER.ACTIONLOG_DELIVERED,Delivered,배송 완료,Hoàn thành
+ORDER.PROFILE,Profile,프로필,Hồ sơ
+ORDER.TRUCKOWNER_COMPANY,Truck company name (if any),트럭 회사명 (있는 경우),Tên của công ty vận tải (nếu có)
+ORDER.TRUCKOWNER_NAME,Truck owner name,트럭 사업자 이름,Tên chủ xe
+ORDER.TRUCKOWNER_PHONE,Truck owner Contact No,트럭 사업자 연락처,SĐT chủ xe
+ORDER.TRUCKOWNER_EMAIL,Truck owner Email,트럭 사업자 이메일,Email chủ xe
+ORDER.CREATEDBY_EMAIL,Created By,생성자,Đơn hàng được tạo bởi
+ORDER.CREATEDBY_NAME,Name,고객 이름,Tên người tạo
+ORDER.CREATEDBY_ACCOUNT_ROLE,Account Role,유형,Phân quyền
+ORDER.CREATEDBY_PHONE_NUMBER,Phone number,전화번호,Số điện thoại
+ORDER.NEW_TITLE,New Order,새로운 주문,Đơn hàng mới
+ORDER.NEW_FILTER,"Display all new orders regardless of truck type, region and pay load","트럭 유형, 지역 및 적재량에 관계없이 모든 신규 주문 표시","Hiển thị tất cả các đơn đặt hàng mới không phân biệt loại xe, khu vực và tải trọng"
+ORDER.EDIT_TITLE,Edit Order,주문 변경,Chỉnh sửa đơn hàng
+ORDER.NO_ITEM,No items,목록 없음,Chưa có đơn hàng
+ORDER.DRIVER_NOTES,Driver notes,배송기사 노트,Ghi chú của người giao
+ORDER.COL_PICKUP_ADDRESS,Pickup Address,상차지 주소,Lấy hàng
+ORDER.COL_DROPOFF_ADDRESS,Drop off Address,하차지 주소,Giao hàng
+ORDER.ORDER_COL_VEHICLETYPE,Vehicle Type,차량 타입,Loại phương tiện
+ORDER.ORDER_COL_PRICE,Propose Price,제안 가격,Giá
+ORDER.CURENCY,VND,VND,VND
+ORDER.ORDER_COL_CREATED_DATE,Created date,날짜 생성,Ngày tạo
+ORDER.DATE_TIME_FORMAT,(DD/MM/YY),(DD/MM/YY),(DD/MM/YY)
+ORDER.ORDER_EDIT_LABEL,Edit,수정,Chỉnh sửa
+ORDER.REPORTS_LABEL,Pickup & Delivery handover documents,화물 수취 확인서,Biên bản giao nhận hàng hóa
+ORDER.INVOICES_LABEL,"Receipts, Documents, EIR ","영수증, 서류, EIR","Hóa đơn, chứng từ, phiếu EIR"
+ORDER.CATEGORIES_LABEL,Category,항목,Hạng mục
+ORDER.IMG_LABEL,Photos,사진,Hình Ảnh
+ORDER.FOLDER_TITLE,Documents,서류,Tài liệu
+ORDER.OTHERS_LABEL,Other documents,기타 서류,Giấy tờ khác
+ORDER.PAYMENT_STEP,Input Payment Information,결제 정보 입력,Nhập thông tin thanh toán
+ORDER.TRUCK_STEP,Input Truck Information,트럭 정보 입력,Nhập kích thước hàng
+ORDER.ADDRESS_STEP,Input Address Information,주소지 입력,Nhập địa chỉ giao nhận
+ORDER.SUGGESTED_PRICE,TADA Suggested Price (VND),TADA의 제안가격 (VND),Giá TADA đề xuất (VND)
+ORDER.USE_SUGGESTED_PRICE,Use suggested price,권장 가격 사용,Sử dụng giá đề xuất
+ORDER.USE_MY_PRICE,I want to input My own price,내 가격을 입력하고 싶어요,Tôi muốn nhập giá của mình
+ORDER.USE_QUOTE_PRICE,Quote me the best price,가장 적합한 가격 요청,Hãy báo cho tôi giá tốt nhất
+ORDER.SPECIAL_REQUEST,Other Special Request,기탁 특별 요구사항,Yêu cầu đặc biệt khác
+ORDER.ADJUSTMENT_AMOUNT,Adjustment Amount,조정 금액,Mức điều chỉnh
+ORDER.ADJUSTMENT_BY_TRUCK,(Suggested by Truck Owner),(트럭 소유자 제안가),(Đề xuất bởi Chủ Xe)
+ORDER.FORKLIFT_COST,Forklift cost,지게차 비용,Phí nâng hạ
+ORDER.LABOUR_COST,Labour cost,인건비,Phí bốc xếp
+ORDER.ROAD_FEE,Road fee,도로 요금,Phí cầu đường
+ORDER.WAITING_FEE,Waiting free,무료 대기,Phí chờ
+ORDER.INCENTIVES,Incentives,인센티브,Tiền thưởng
+ORDER.OTHERS,Others,기타,Khác
+ORDER.OTHER_PAYMENT_NOTES,Input notes,메모 입력,Nhập ghi chú
+ORDER.EDIT_PRICE,Edit Price (VND),가격 수정 (VND),Chỉnh sửa giá
+ORDER.WEIGHT,(tons),(톤),(tấn)
+ORDER.MIXED,Allow mixed loading,혼합 적재 허용,Cho phép ghép hàng
+ORDER.FORKLIFT,Require forklift driver,지게차 운전자 필요,Cần tài xế sử dụng xe nâng
+ORDER.SELECT_ALL,Select all,모두 선택,Tất cả
+ORDER.MULTIPLE,(Multiple),여러 정차,(Nhiều địa điểm)
+ORDER.PAYMENT_DONE,Payment Done,결제 완료,Đã thanh toán
+ORDER.PAYMENT_DONE_CUSTOMER,Payment done by customer,고객 결제 완료,Khách hàng đã thanh toán
+ORDER.PAYMENT_DONE_TRUCK,Payment done by truckowner,트럭 소유주 결제 완료,Chủ xe đã xác nhận thanh toán
+ORDER.PER_TRUCK,/ per truck),/트럭 당),/ mỗi xe)
+ORDER.MANAGER_NAME_NO,Order manager name/contact,주문 관리자 이름 / 연락처,tên / sdt người quản lý đơn hàng
+ORDER.PROPOSED_PRICE,Proposed Price,제안 가격,Giá đề xuất
+ORDER.COST_TYPE,Choose the cost type,비용 유형 선택,Chọn loại chi phí
+ORDER.ASSIGN_TO_FAV,Assign order to specific truck owner,특정 트럭 소유자에게 주문 할당,Chỉ định chủ xe cụ thể nhận đơn
+ORDER.ADD_NEW_FAV,Add new favorite truckowner,좋아하는 트럭 소유자 추가,Thêm Chủ xe yêu thích
+TRUCKOWNER.SERVICE_TITLE,My Services,나의 서비스,Dịch vụ của tôi
+TRUCKOWNER.TRUCKSERVICE_LABEL,My available truck service,이용 가능한 트럭 서비스,Tôi chỉ cung cấp dịch vụ
+TRUCKOWNER.TRUCKSERVICE_ALL,All types of truck,모든 유형의 트럭,Tất cả các loại xe
+TRUCKOWNER.TRUCKSERVICE_TRAILORTRACTOR,Trailor tractor truck,트레일러 트럭,Xe công-te-nơ
+TRUCKOWNER.TRUCKSERVICE_NORMAL,Normal Truck/Van,보통 트럭,Xe tải các loại
+TRUCKOWNER.PICKUPZONE_LABEL,My pickup zone,나의 상차지 구역,Tôi chỉ nhận đơn hàng đi từ
+TRUCKOWNER.PICKUPZONE_ALL,All,모두 선택,Tất cả
+TRUCKOWNER.CUSTOMER_INFO,Customer Info,고객 정보,Thông tin khách hàng
+TRUCKOWNER.CUSTOMER_COMPANY,Customer company name,고객 회사명,Tên/Tên công ty của khách hàng
+TRUCKOWNER.CUSTOMER_PHONE,Customer Contact No,고객 연락처,ĐT liên hệ với khách hàng
+TRUCKOWNER.CUSTOMER_EMAIL,Customer Email,고객 이메일,Email của khách hàng
+TRUCKOWNER.ASSIGN_TITLE,Assign Truck & Driver,트럭 & 배송기사 지정,Chọn xe và tài xế
+TRUCKOWNER.NEW_TITLE,New Truck owner,새로운 트럭 사업자,Tạo chủ xe mới
+TRUCKOWNER.EDIT_TITLE,Edit Truck owner,트럭 사업자 변경,Chỉnh sửa thông tin chủ xe
+TRUCKOWNER.MANAGE_TITLE,Manage Truck owners,트럭 사업자 관리,Quản lý chủ xe
+TRUCKOWNER.FORGOT_MESSAGE,Please input your email address to reset your password,비밀번호 변경을 위해 이메일 주소를 입력해 주세요.,Vui lòng nhập email mà bạn đã đăng ký với TADA dành cho Chủ xe để thiết lập lại mật khẩu của bạn
+TRUCKOWNER.PUBLIC_ID,Partner ID,파트너 ID,Mã đối tác
+TRUCKOWNER.MANAGE_RESTORE_TITLE,Manage Deleted Truck Owners,삭제된 트럭 사업자 관리,Quản lý tài khoản chủ xe đã bị xóa
+TRUCKOWNER.STATUS_ASSIGNED,Accepted,수락,Đồng ý
+TRUCKOWNER.STATUS_DISPATCHED,Job started,작업 시작,Sắp xếp xe
+TRUCKOWNER.STATUS_PICKING,Picking up,집화,Đi lấy hàng
+TRUCKOWNER.STATUS_PICKARRIVED,Pick up arrived,상차지 도착,Đợi lấy hàng
+TRUCKOWNER.STATUS_DELIVERING,Delivering,배송 중,Đi giao hàng
+TRUCKOWNER.STATUS_DELIVERED,Delivered,배송 완료,Hoàn thành
+TRUCKOWNER.STATUS_CUSTCANCEL,Customer Cancelling,고객이 취소,Khách hủy
+TRUCKOWNER.STATUS_DRIVERCANCEL,Driver Cancelling,취소 중,Tài xế hủy
+TRUCKOWNER.STATUS_CANCELLED,Cancelled,취소 완료,Đã hủy
+TRUCKOWNER.CONTAINERSIZE_LABEL,My Container size,나의 컨테이너 사이즈,Kích cỡ công của tôi
+TRUCKOWNER.TRUCKPAYLOAD_LABEL,My Truck payload,나의 트럭 탑재량,Tải trọng xe của tôi
+TRUCKOWNER.BANK_ACCOUNT_TITLE,Bank Account Information,은행 계좌 정보,Thông tin Tài khoản Ngân hàng
+TRUCKOWNER.BANK_NAME,Bank Name,은행 이름,Tên ngân hàng
+TRUCKOWNER.BANK_BRANCH,Bank Branch,은행 지점,Chi nhánh
+TRUCKOWNER.BANK_ACCOUNT_HOLDER_NAME,Bank account holder name,은행 계좌 소유자 이름,Tên chủ tài khoản
+TRUCKOWNER.BANK_ACCOUNT_NUMBER,Bank account number,은행 계좌 번호,Số tài khoản
+TRUCKOWNER.MY_ORDERS,My orders,내 작업,Đơn hàng của tôi
+TRUCK.ID,Id,Id,Id
+TRUCK.TITLE,My trucks,나의 트럭,Danh sách xe
+TRUCK.NEW_TITLE,New Truck Info,새로운 트럭 정보,Thông tin xe mới
+TRUCK.TYPE,Truck Type,트럭 유형,Loại xe
+TRUCK.PLATE_NO,Truck Plate NO,트럭 차량번호,Biển số xe
+TRUCK.LOAD,Truck Load,트럭 톤수,Tải trọng xe
+TRUCK.CERIFICATE,Upload Certification of registry,차량등록증 업로드,Tải lên giấy đăng ký xe
+TRUCK.STATUS,Status,상태,Trạng thái
+TRUCK.STATUS_NOTE,Please upload Certificate of Registry to have account verified,계정 인증을 위해 차량등록증을 업로드해 주시기 바랍니다.,Hãy tải lên bản chụp CMND hoặc giấy phép KD công ty để xác thực tài khoản
+TRUCK.SELECT_TITLE,Select the truck,트럭 선택,Chọn xe chở hàng
+TRUCK.ASSIGN_LABEL,Assign to Truck,트럭 배정,Chọn xe chở hàng
+TRUCK.ADD_NEW,Add New Truck,트럭 추가,Thêm mới xe chở hàng
+TRUCK.EDIT_TITLE,Edit Truck Info,트럭 정보 변경,Chỉnh sửa thông tin xe
+TRUCK.MANAGE_TITLE,Manage Trucks,트럭 관리,Quản lý xe chở hàng
+DRIVER.TITLE,My drivers,나의 배송기사,Danh sách tài xế
+DRIVER.NEW_TITLE,New Driver Info,새로운 트럭 사업자 정보,Thông tin tài xế mới
+DRIVER.NAME,Driver Name,배송기사 이름,Tên tài xế
+DRIVER.PHONE,Phone NO,전화번호,Điện thoại
+DRIVER.ID,Driver Card ID,배송기사 신분증,CMND
+DRIVER.CARD_FRONT,Upload Driver ID Card (front),배송기사 신분증(앞면) 업로드,Tải lên CMND (mặt trước)
+DRIVER.CARD_BACK,Upload Driver ID Card (back),배송기사 신분증(뒷면) 업로드,Tải lên CMND (mặt sau)
+DRIVER.LICENCE_CARD,Upload Driver License Card (front),운전 면허증(앞면) 업로드,Tải lên giấy phép lái xe
+DRIVER.STATUS,Status,상태,Trạng thái
+DRIVER.STATUS_NOTE,Please upload Driver Card ID NO and Driver License to have account verified,계정 인증을 위해 운전 면허증을 업로드해 주세요.,Hãy tải lên bản chụp CMND hoặc bằng lái xe để xác thực tài khoản
+DRIVER.SELECT_TITLE,Select Driver,배송기사 선택,Chọn tài chở hàng
+DRIVER.ASSIGN_LABEL,Assign to Driver,배송기사에게 배정,Chọn tài chở hàng
+DRIVER.ADD_NEW,Add New Driver,배송기사 추가,Thêm tài mới
+DRIVER.ADMIN_NEW_TITLE,New Driver,새로운 배송기사,Thêm tài mới
+DRIVER.EDIT_TITLE,Edit Driver,배송기사 변경,Chỉnh sửa thông tin tài xế
+DRIVER.MANAGE_TITLE,Manage Drivers,배송기사 관리,Quản lý tài xế
+JOB.TITLE,My jobs,나의 작업,Đơn hàng của tôi
+JOB.ONGOING_TITLE,On-going jobs,진행 중인 작업,Đơn hàng đang thực hiện
+JOB.PAST_TITLE,Past jobs,완료된 작업,Lịch sử đơn hàng
+JOB.CUSTOMER_NAME,Customer Name,고객 이름,Tên khách hàng
+JOB.CUSTOMER_EMAIL,Customer Email,고객 이메일,Email khách hàng
+JOB.DOCUMENT,Documents,문서,Hóa đơn chứng từ
+JOB.ORDER_NOTE,Click on Order ID to see Summary Info,요약 정보를 보기 위해 주문 ID를 클릭하세요.,Nhấn vào mã đơn hàng để xem thông tin chi tiết
+JOB.THANKYOU_TITLE,Thank you for accepting the order!,주문을 수락해 주셔서 감사합니다.,Cảm ơn bạn đã chấp nhận đơn hàng!
+JOB.THANKYOU_MESSAGE,Please contact customer to negotiate more on the price and contract (if any),가격과 계약 협상을 위해 고객에게 연락하세요. (필요한 경우),Vui lòng liên hệ với khách hàng để thương lượng thêm về giá cả và hợp đồng (nếu có)
+ADMIN_MENU.CUSTOMER,Customers,고객,Khách hàng
+ADMIN_MENU.DRIVER,Drivers,배송기사,Tài xế
+ADMIN_MENU.TRUCKOWNER,Truck owners,트럭 사업자,Chủ xe
+ADMIN_MENU.ADMIN_ACCOUNT,Admin accounts,관리자 계정,Tài khoản quản trị
+ADMIN_MENU.ORDER,Orders,주문,Đơn hàng
+ADMIN_MENU.REPORT,Reports,리포트,Báo cáo
+ADMIN_MENU.AUDIT_LOG,Audit logs,감사 로그,Nhật ký chỉnh sửa
+ADMIN_MENU.NOTIFICATION,Notification,알림,Thông báo
+ADMIN_MENU.SMSSETTING,Sms Setting,문자(SMS) 설정,Cài đặt Sms
+ADMIN_MENU.SETTING,Settings,설정,Thiết lập
+ADMIN_MENU.LOG_OUT,Log out,로그아웃,Thoát
+ADMIN_MENU.FORGOT_MESSAGE,Please input your email address to reset your password,비밀번호 변경을 위해 이메일 주소를 입력해 주세요.,Vui lòng nhập email của bạn để thiết lập lại mật khẩu
+ADMIN_MENU.SMSSETTINGTITLE,Sms Configuration,문자(SMS) 구성,Cài đặt Sms
+NOTIFICATION.TITLE,Title,주제,Tiêu đề
+NOTIFICATION.BODY,Body,내용,Nội dung
+NOTIFICATION.CREATED_DATE,Created Date,생성일,Ngày tạo
+NOTIFICATION.SOURCE_TYPE,From,송부,Từ
+NOTIFICATION.SEND_TO,Send this notification to?,이 알림을 보내시겠습니까?,Gửi thông báo này đến?
+NOTIFICATION.MANAGE_TITLE,Manage Notifications,알림 관리,Quản lý các thông báo
+NOTIFICATION.CREATE_TITLE,Create Notification,알림 생성,Tạo thông báo
+NOTIFICATION.EDIT_TITLE,Edit Notification,알림 설정,Chỉnh sửa thông báo
+NOTIFICATION.TYPE,Type of Notification,알림 유형,Loại thông báo
+NOTIFICATION.CONTENT,Information,정보,Thông tin
+NOTIFICATION.READED,Is Readed?,확인하셨습니까?,Đã đọc?
+AUDIT_LOG.MODULE,Role,유형,Role
+AUDIT_LOG.MANAGE_TITLE,Manage Audit Logs,감사 로그 관리,Quản lý Nhật ký chỉnh sửa
+AUDIT_LOG.ACTION,Action,실행,Thao tác
+AUDIT_LOG.CREATED_DATE,Action Date,실행일,Ngày thao tác
+AUDIT_LOG.CREATED_BY,Action By,실행인,Thao tác bởi
+AUDIT_LOG.CONTENT,Information,정보,Thông tin
+AUDIT_LOG.PHONE_NUMBER,Phone number,전화 번호,Số điện thoại
+ADMIN.ROLE,Admin Roles,관리자 역할,Phân quyền
+ADMIN.NEW_ACCOUNT,New Admin Account,새로운 관리자 계정,Tài khoản quản trị mới
+ADMIN.EDIT_ACCOUNT,Edit Admin Account,관리자 계정 변경,Chỉnh sửa tài khoản quản trị
+ADMIN.ROLE_ADMIN,Admin,관리자,Quản trị
+ADMIN.ROLE_SUPERADMIN,Super Admin,상위 관리자,Quản trị viên cấp cao
+ADMIN.CREATED_DATE,Created date,생성일,Tạo ngày
+ADMIN.UPDATED_DATE,Updated date,업데이트일,Cập nhật ngày
+ADMIN.CREATE_BY,Created by,생성인,Tạo bới
+ADMIN.COL_ACTIONS,Actions,실행,Hoạt động
+ADMIN.MANAGE_ACCOUNT,Manage Admin Accounts,관리자 계정 관리,Quản lý tài khoản quản trị
+ADMIN.SELECTED_ITEMS,selected item(s),선택된 목록,mục đã được chọn
+ADMIN.ACCEPT_SMS,Order accepted,오더 수락됨,Tin nhắn chấp nhận đơn hàng
+ADMIN.CANCELLED_SMS,Order cancelled,오더 취소됨,Tin nhắn hủy đơn hàng
+ADMIN.COMPLETE_SMS,Order completed,오더 완료됨,Hoàn thành đơn hàng
+ADMIN.DRIVER_DELIVER_SMS,Driver delivering,배송중,Tài đang giao
+ADMIN.DRIVER_PICKUP_SMS,Driver pickup,픽업중,Tài đã lấy hàng
+ADMIN.MANAGE_PAYMENTS,Admin Manage Payments,관리자 결제 관리,Quản lý thanh toán
+ADMIN.LAST_ACTIVE_DATE,Last active date,마지막 활성 날짜,Hoạt động lần cuối
+MESSAGES.SELECTED_ITEMS,You haven't selected any items!,목록을 선택하지 않으셨습니다!,Bạn chưa chọn bất kì mục nào!
+MESSAGES.FORGOT_SUCCESS,An email have sent to your email. Please check your email.,메일이 전송되었습니다. 이메일을 확인해 주세요.,Một email đã được gửi cho bạn. Vui lòng kiểm tra mail
+MESSAGES.CONFIRM_DELETE,Are you sure you want to delete?,정말 삭제하시겠습니까?,Bạn có chắc bạn muốn xóa?
+MESSAGES.CONFIRM_PUBLISH,Do you want to publish this quotation to customer?,Do you want to publish this quotation to customer?,Bạn có muốn xuất bản báo giá này cho khách hàng không?
+MESSAGES.CONFIRM_VERIFY,Are you sure to you want to verify this user?,해당 사용자를 인증 하시겠습니까?,Bạn có muốn xác thực người dùng này?
+MESSAGES.CONFIRM_RESET,Are you sure you want to reset?,변경하시겠습니까?,Bạn có chắc bạn muốn thiết lập lại?
+MESSAGES.CONFIRM_CANCEL,Are you sure you want to cancel?,정말 취소하시겠습니까?,Bạn có chắc bạn muốn hủy?
+MESSAGES.CONFIRM_RESTORE,Are you sure to restore this account?,이 계정을 복원시키겠습니까?,Bạn có chắc bạn muốn khôi phục lại tài khoản này?
+MESSAGES.DELETE_SUCCESS,Deleted successfully,삭제되었습니다.,Đã xóa thành công
+MESSAGES.PUBLISH_SUCCESS,Published successfully,Published successfully,Xuất bản thành công
+MESSAGES.VERIFY_SUCCESS,Verified successfully,인증 완료,Đã xác thực thành công
+MESSAGES.UPDATE_SUCCESS,Updated successfully,업데이트 되었습니다.,Đã cập nhật thành công
+MESSAGES.CREATED_SUCCESS,Created successfully,생성되었습니다.,Đã tạo thành công
+MESSAGES.IMAGE_SIZE,Image size < 3MB,이미지 크기 < 3MB,Hình ảnh < 3MB
+MESSAGES.IMAGE_SIZE_LIMIT,(Image size < 3Mbs) (< 6 images),사진 업로드 (이미지 크기<3Mbs) (<6 이미지),(kích thước < 3Mbs) (< 6 ảnh)
+MESSAGES.LOGIN_FAIL,Login fail,로그인 실패,Đăng nhập lỗi
+MESSAGES.CREATE_ERROR,Can not create user,계정을 생성할 수 없습니다.,Không thể tạo tài khoản
+MESSAGES.EMAIL_EXIST,Email existed,이메일이 존재합니다.,Email đã tồn tại
+MESSAGES.INVALID,invalid,올바르지 않습니다.,Không đúng
+MESSAGES.ERROR,An error occurred please try again later,오류가 발생하였으니 다시 시도해 주세요.,"Một lỗi đã xảy ra, vui lòng thử lại sau"
+MESSAGES.NOT_FOUND,Not found,찾을 수 없습니다.,Không tìm thấy
+MESSAGES.SELF_DELETE,Cannot delete yourself,삭제하실 수 없습니다.,Không thể xóa bản thân
+MESSAGES.SUPER_ADMIN_DELETE,Cannot delete super admin,상위 관리자는 삭제하실 수 없습니다.,Không thể xóa quản trị viên cao cấp
+MESSAGES.COMPANY_EXIST,Company already existed,회사가 이미 존재합니다.,Công ty này thực sự đã tồn tại
+MESSAGES.ORDER_NOT_FOUND,No order found,주문을 찾을 수 없습니다.,Không tìm thấy đơn hàng
+MESSAGES.DRIVER_NOT_FOUND,No driver found,배송기사를 찾을 수 없습니다.,Không tìm thấy tài xế
+MESSAGES.TRUCK_NOT_FOUND,No truck found,트럭을 찾을 수 없습니다.,Không tìm thấy xe
+MESSAGES.PHONE_EXIST,Phone number already existed,전화번호가 이미 존재합니다.,Số điện thoại thực sự đã tồn tại
+MESSAGES.EXISTED,Email is already existed,이메일이 이미 존재합니다.,Email thực sự đã tôn tại
+MESSAGES.TRUCK_OWNER_NOT_FOUND,No truck owner found,검색된 트럭 사업자가 없습니다.,Không tìm thấy chủ xe nào
+MESSAGES.ALREADY_FAVORITED,This truck Operator already added!,이 트럭 사업자는 이미 추가되었습니다.,Chủ xe này thực sự đã được thêm!
+MESSAGES.CREATE_ORDER_ERROR,Cannot create order,주문을 생성할 수 없습니다.,Không thể tạo đơn hàng
+MESSAGES.NOT_ASSIGNED,Order is not assigned by truck owners,주문이 아직 트럭 사업자에게 배정되지 않았습니다.,Đơn hàng chưa được các chủ xe đồng ý
+MESSAGES.DELETED_ACCOUNT,"Account has been deleted, contact TADA for support!",계정이 삭제되었습니다. TADA에 연락하십시오!,"Tài khoản của bạn đã bị xóa, liên hệ Tada để được hổ trợ"
+MESSAGES.DRIVER_ALREADY_ADDED,This driver already added by other truck owner,이 배송기사는 다른 트럭 사업자에 의해 이미 추가되었습니다.,Tài xế này thực sự đã được thêm bởi một chủ xe khác
+MESSAGES.KICKED_OUT,"You have logged in somewhere else, try to relog",다른 곳에서 이미 로그인한 상태입니다. 다시 시도해 주세요.,"Bạn đã đăng nhập ở một nơi khác, vui lòng thử đăng nhập lại"
+MESSAGES.WRONG_PHONE_NUMBER_FORMAT,Wrong phone format,전화 번호 형식이 올바르지 않습니다.,Định dạng số điện thoại sai
+MESSAGES.PHONE_INPUT_TOO_LONG,Phone number too long,전화 번호가 너무 깁니다.,Số điện thoại quá dài
+MESSAGES.TAKEN,Order already taken by other truck owner!,주문이 다른 트럭 사업자에게 이미 접수되었습니다!,Đơn hàng đã được lấy bởi một chủ xe khác!
+MESSAGES.TOKEN_ERROR,Token is not found or cannot be parsed,토큰을 찾을 수 없습니다,Token không thể tìm thấy
+MESSAGES.ORDER_PERMISSION,You do not have permission for this order,이 주문에 대한 권한이 없습니다.,Bạn không có quyền trên đơn hàng này
+MESSAGES.LACK_DRIVER_OR_TRUCK,Lack of driver or truck!,배송기사나 트럭이 부족합니다.,Thiếu tài xế hoặc xe tải!
+MESSAGES.FINDNEWTRUCK_ERROR_STATUS,Your orders have to be already assigned for finding new truck,주문이 새로 찾은 트럭 사업자에게 이미 배정되었습니다.,Đơn hàng của bạn thật sự đã được đồng ý bởi chủ xe mới
+MESSAGES.NOT_VERIFIED,"To take order you need to verified your account, contact TADA for support","주문을 위해 계정을 인증해 주세요. 도움이 필요하시면, TADA에 연락 주세요.","Để lấy đơn hàng bạn cần xác thực tài khoản, liên hệ Tada để được hổ trợ"
+MESSAGES.FOLDER_NOT_EXISTED,Folder is not existed,폴더가 존재하지 않습니다.,Thư mục không tồn tại
+MESSAGES.COMPANY_NOT_EXISTED,Company does is not exist,회사가 존재하지 않습니다.,Công ty này không tồn tại
+MESSAGES.DRIVER_EXISTED,Driver is existed,배송기사가 존재합니다.,Tài xế thực sự đã tồn tại
+MESSAGES.CUSTOMER_CANCEL_ORDER,You do not allow to cancel this order due to its status,주문의 현재 상태에서는 주문을 취소할 수 없습니다.,Không thể hủy đơn hàng này. Vui lòng liên hệ Tada!
+MESSAGES.DRIVER_CANCEL_ORDER,"You do not allow to cancel this order, please contact with TADA!",주문을 취소할 수 없습니다. TADA에 연락 주세요!,Không thể hủy đơn hàng này. Vui lòng liên hệ Tada!
+MESSAGES.ORDER_CANCELED,This order is already canceled,주문이 취소되었습니다.,Đơn hàng này thực sự đã bị hủy
+MESSAGES.EMAIL_NOT_VERIFY,Email is not verified,이메일이 미인증 상태입니다.,Email chưa xác thực
+MESSAGES.PHONE_OTP_VERIFY,Phone OTP not verified,OTP 인증이 이루어지지 않았습니다.,Mã OTP của điện thoại không được xác thực
+MESSAGES.INCORRECT_OTP,Incorrect OTP,OTP가 올바르지 않습니다.,Mã OTP không đúng
+MESSAGES.OTP_EXPIRED,OTP expired,OTP가 만료되었습니다.,Mã OTP đã hết hạng
+MESSAGES.PHONE_NOT_EXIST,Phone number does not exist,전화번호가 존재하지 않습니다.,Số điện thoại không tồn tại
+MESSAGES.PICKUP_CODE_INCORRECT,Pickup code is incorrect!,상차 코드가 올바르지 않습니다.,Mã lấy hàng không đúng!
+MESSAGES.DELIVERY_CODE_INCORRECT,Delivery code is incorrect!,배송 코드가 올바르지 않습니다.,Mã nhận hàng không đúng!
+MESSAGES.ADMIN_NOT_FOUND,Admin not found,관리자를 찾을 수 없습니다.,Không tìm thấy tài khoản quản trị viên
+MESSAGES.CUSTOMER_NOT_FOUND,Customer not found,고객을 찾을 수 없습니다.,Không tìm thấy khách hàng
+MESSAGES.EMPLOYEE_NOT_FOUND,Employee not found,직원을 찾을 수 없습니다.,Không tìm thấy nhân viên
+MESSAGES.EMAIL_NOT_FOUND,Email not found,이메일을 찾을 수 없습니다.,Không tìm thấy email
+MESSAGES.SERVICE_TYPE_OR_ORDER_TYPE,"Service type, Order type are required","서비스 유형, 주문 유형은 필수 입력사항입니다.","Loại xe, loại đơn hàng là thông tin bắt buộc"
+MESSAGES.DETAIL_REQUIRED,Your detail request is required,세부 요청사항을 입력해 주세요.,Yêu cầu chi tiết của bạn là thông tin bắt buộc
+MESSAGES.CARGO_TYPE_OR_NAME,"Cargo type, Cargo description are required","화물 유형, 화물 상세는 필수 입력사항입니다.","Loại hàng hóa, Mô tả hàng hóa là thông tin bắt buộc"
+MESSAGES.TRUCK_SPECIAL_OR_QUANTITY,"Truck type, Truck quantity are required","트럭 유형, 트럭 수량은 필수 입력사항입니다.","Loại xe tải, số lương xe là thông tin bắt buộc"
+MESSAGES.CONTAINER_REQUIRED,"Container size, Container type, Container quantity are required","컨테이너 크기, 컨테이너 유형, 컨테이너 수량은 필수 입력사항입니다.","Kích cỡ công, Loại công, Số lượng công là thông tin bắt buộc"
+MESSAGES.SUPPER_EXIST,Supper admin already existed,상위 관리자가 이미 존재합니다.,Tài khoản quản trị thật sự đã tồn tại
+MESSAGES.REDIRECT_WARNING,"You haven’t completed your new order yet. If you move to another page, all the new order’s information will be lost. Do you want to continue?",아직 새 주문을 완료하지 않았습니다. 다른 페이지로 이동하면 모든 새 주문 정보가 손실됩니다. 계속 하시겠습니까?,"Bạn vẫn chưa hoàn thành đơn đặt hàng của mình. Nếu bạn chuyển sang trang khác, tất cả thông tin của đơn đặt hàng mới sẽ bị mất. Bạn có muốn tiếp tục?"
+MESSAGES.DOCUMENT_SIZE,Document size < 3MB,문서 크기 < 3MB,Kích thước tài liệu < 3MB
+MESSAGES.DOCUMENT_SIZE_LIMIT,Upload Document (size < 3Mbs) (< 4 files),문서 등록 (크기 < 3Mbs) (< 4 파일),Tải tài liệu (kích thước < 3Mbs) (< 4 tài liệu)
+MESSAGES.PROPOSED_PRICE,Proposed price,제안 가격,Giá đề xuất
+MESSAGES.INCORRECT_IMPORT_DATA,The data formart incorrect,,
+MESSAGES.PICKUP_DROPOFF_NOT_FOUND,Pickup address and Dropoff address are required,Pickup address and Dropoff address are required,"Địa chỉ giao, nhận là thông tin bắt buộc"
+MESSAGES.MONTHLY_LIMIT_REACH,Monthly limit order almost run out. Remaining:,Monthly limit order almost run out. Remaining:,Số lượng đơn hàng giới hạn trong tháng đã hết. Còn lại:
+MODAL.CONFIRM,Confirmation,확인,Xác nhận
+MODAL.CANCEL_ORDER,Confirmation,확인,Xác nhận
+ONEPAGE.CUSTOMER_TITLE,TADA Truck for Customer,화주 고객용 TADA Truck,TADA Truck dành cho khách hàng
+ONEPAGE.TRUCKOWNER_TITLE,TADA Truck for Truck Owner,트럭 사업자용 TADA Truck,TADA Truck dành cho chủ xe
+ONEPAGE.ADMIN_TITLE,Admin Panel,관리자 패널,TADA Truck dành cho quản trị
+MONTH.1,January,1월,Tháng Một
+MONTH.2,February,2월,Tháng Hai
+MONTH.3,March,3월,Tháng Ba
+MONTH.4,April,4월,Tháng Bốn
+MONTH.5,May,5월,Tháng Năm
+MONTH.6,June,6월,Tháng Sáu
+MONTH.7,July,7월,Tháng Bảy
+MONTH.8,August,8월,Tháng Tám
+MONTH.9,September,9월,Tháng Chín
+MONTH.10,October,10월,Tháng Mười
+MONTH.11,November,11월,Tháng Mười một
+MONTH.12,December,12월,Tháng Mười hai
+REPORT.CUSTOMER_REPORT_TITLE,Reports & Statistics,고객 리포트,Báo cáo & Thống kê
+REPORT.MONTH_SELECTION,Month,월,Tháng
+REPORT.YEAR_SELECTION,Year,연도,Năm
+REPORT.COMPLETED,Completed,완료,Đã hoàn thành
+REPORT.PENDING,Pending,대기,Đang xử lý
+REPORT.CANCELLED,Cancelled,취소 완료,Đã hủy
+REPORT.TITLE_OF_ORDER_CHART,Order Summary,주문 요약,Thống kê đơn hàng
+REPORT.TITLE_OF_TRUCKOWNER_CHART,completed order per customer,트럭 기사 별 완료된 운행,Đơn hoàn thành theo khách hàng
+REPORT.TITLE_OF_CUSTOMER_CHART,Completed trip per truckowner,고객 별 완료트립 수,Hoàn thành theo chủ xe
+USER_ROLE.ADMIN,Admin,관리자 계정,Quản trị viên
+USER_ROLE.CUSTOMER,Customer,고객,Khách hàng
+USER_ROLE.TRUCK_OWNER,Truck Owner,트럭 사업자,Chủ xe
+USER_ROLE.DRIVER,Driver,배송기사,Tài xế
+ADDRESS.TITLE,Address Book,주소록,Danh Bạ
+ADDRESS.LOCATION_TYPE,Location Type,장소 유형,Loại địa điểm
+ADDRESS.CHOOSE_LOCATION_TYPE,Choose Location Type,장소 유형 선택,Chọn loại địa điểm
+ADDRESS.LOCATION_NAME,Location Name,위치명,Tên địa điểm
+ADDRESS.LOCATION_ADDRESS,Location Address,위치 주소,Địa Chỉ
+ADDRESS.PERSON_INCHARGE_NAME,Person In Charge,담당자,Người phụ trách
+ADDRESS.COMPANY,Company/ Enitity Name,회사 및 법인명,Tên Công ty
+ADDRESS.NEW,New Address Entity,새 법인 주소,Địa chỉ liên lạc mới
+ADDRESS.EDIT,Edit Address Entity,법인 주소 수정,Chỉnh sửa địa chỉ liên lạc
+ADDRESS.PERSON_INCHARGE_NO,Contact NO,연락처,SĐT
+ADDRESS.CHOOSE_FROM,Choose from address book,주소록에서 선택,Chọn từ danh bạ
+ADDRESS.NOT_VALID,You are using addresses that don't match with Google Map address. You might not be able to track the order with these addresses,Google 지도 주소와 일치하지 않는 주소를 사용하고 있습니다. 이 주소로 주문을 추적하지 못할 수도 있습니다.,Bạn đang sử dụng địa chỉ không trùng khớp với Google Map. Nếu tiếp tục bạn sẽ không thể theo dõi lộ trình chính xác của đơn hàng này
+DEFAULT.TITLE,Default Preference Settings,기본 환경 설정,Cài đặt thông tin mặc định
+DEFAULT.TRANSPORT_TITLE,Type of transportation,운송 유형,Loại phương tiện
+DEFAULT.PAYLOAD_TITLE,Truck Payload,트럭 탑재량,Tải trọng xe
+DEFAULT.TRUCK_TYPE_ANY,Any Truck Type,모든 트럭 유형,Loại xe bất kì
+DEFAULT.TRUCK_PAYLOAD_ANY,Any Truck Payload,모든 트럭 탑재량,Bất kì
+DEFAULT.TRUCK_PAYLOAD_LESS_THAN_ONE,<1 ton,<1 톤,<1 tấn
+DEFAULT.TRUCK_PAYLOAD_ONE_TO_TWO,1 - 2 tons,1 - 2 톤,1-2 tấn
+DEFAULT.TRUCK_PAYLOAD_TWO_TO_THREE,2 -3 tons,2 - 3 톤,2 -3 tấn
+DEFAULT.TRUCK_PAYLOAD_THREE_TO_FOUR,3 - 4 tons,3 - 4 톤,3 - 4 tấn
+DEFAULT.TRUCK_PAYLOAD_FOUR_TO_FIVE,4 - 5 tons,4 - 5 톤,4 - 5 tấn
+DEFAULT.TRUCK_PAYLOAD_FIVE_TO_SIX,5-6 tons,5 - 6 톤,5-6 tấn
+DEFAULT.TRUCK_PAYLOAD_SIX_TO_EIGHT,6-8 tons,6 - 8 톤,6-8 tấn
+DEFAULT.TRUCK_PAYLOAD_EIGHT_TO_TEN,8-10 tons,8 - 10 톤,8-10 tấn
+DEFAULT.TRUCK_PAYLOAD_TEN_TO_FIFTEEN,10-15 tons,10 - 15 톤,10-15 tấn
+DEFAULT.TRUCK_PAYLOAD_FIFTEEN_TO_TWENTY,15-20 tons,15 - 20 톤,15-20 tấn
+DEFAULT.TRUCK_PAYLOAD_TWENTY_TO_TWENTY_FIVE,20-25 tons,20 - 25 톤,20-25 tấn
+DEFAULT.TRUCK_PAYLOAD_TWENTY_FIVE_TO_THIRTY,25-30 tons,25 - 30 톤,25-30 tấn
+DEFAULT.TRUCK_PAYLOAD_MORE_THAN_THIRTY,>30 tons,>30 톤,>30 tấn
+DEFAULT.TRUCK_PAYLOAD_ONE,1 ton,1 톤,1 ton
+DEFAULT.TRUCK_PAYLOAD_TWO,2 tons,2 톤,2 tons
+DEFAULT.TRUCK_PAYLOAD_THREE,3 tons,3 톤,3 tons
+DEFAULT.TRUCK_PAYLOAD_FOUR,4 tons,4 톤,4 tons
+DEFAULT.TRUCK_PAYLOAD_FIVE,5 tons,5 톤,5 tons
+DEFAULT.TRUCK_PAYLOAD_SIX,6 tons,6 톤,6 tons
+DEFAULT.TRUCK_PAYLOAD_EIGHT,8 tons,8 톤,8 tons
+DEFAULT.TRUCK_PAYLOAD_TEN,10 tons,10 톤,10 tons
+DEFAULT.TRUCK_PAYLOAD_FIFTEEN,15 tons,15 톤,15 tons
+DEFAULT.TRUCK_PAYLOAD_TWENTY,20 tons,20 톤,20 tons
+DEFAULT.TRUCK_PAYLOAD_TWENTY_FIVE,25 tons,25 톤,25 tons
+DEFAULT.TRUCK_PAYLOAD_THIRTY,30 tons,30 톤,30 tons
+DEFAULT.PERSON_INCHARGE,Main Person in charge,주요 담당자,Người phụ trách chính
+DEFAULT.PERSON_INCHARGE_NO,Main person NO,주요 담당자 번호,SĐT người phụ trách
+DEFAULT.PICKUP_LOCATION,Pick up Location,상차지,Địa chỉ nhận hàng
+DEFAULT.DROPOFF_LOCATION,Drop off Location,하차지,Địa chỉ giao hàng
+DEFAULT.PICKUP_INFO,Default Pick up info,기본 상차 정보,Thông tin nhận hàng mặc định
+DEFAULT.DROPOFF_INFO,Default Drop off info,기본 하차 정보,Thông tin giao hàng mặc định
+DEFAULT.CHOOSE_TYPE_LABEL,Choose Truck Type,트럭 유형 선택,Chọn loại xe tải
+DEFAULT.CHOOSE_PAYLOAD_LABEL,Choose Payload,탑재량 선택,Chọn tải trọng
+DEFAULT.CHOOSE_TRANSPORT_LABEL,Choose Type of transportation,운송 유형 선택,Chọn phương tiện di chuyển
+DEFAULT.CHOOSE_TRUCK_LOAD_LABEL,Input Truck Load,트럭 부하 입력,Nhập tải trọng
+DEFAULT.MINI_VAN,Mini-Van,미니밴,Xe tải nhỏ
+DEFAULT.TARPAULIN_COVER,Truck with tarpaulin cover,타포린 커버 트럭,Xe tải thùng mui bạt
+DEFAULT.GRID_AND_TARPAULIN_COVER,Truck with grid and tarpaulin cover,그리드 및 타포린 커버 트럭,Xe tải thùng khung mui bạt
+DEFAULT.WING_BODY,Truck with wing-body,윙바디 트럭,Xe tải thùng bạt cánh dơi
+DEFAULT.FOR_RETAILER,Truck for retailer,소매업용 트럭,Xe tải bán hàng lưu động
+DEFAULT.WITHOUT_BODY,Truck without body,차체없는 트럭,Xe tải không thùng
+DEFAULT.DUMP_TRUCK,Dump truck,덤프 트럭,Xe ben
+DEFAULT.TANK_TRUCK,Tank truck,탱크 트럭,Xe bồn
+DEFAULT.WITH_LIFT,Truck with lift,리프트 트럭,Xe gắn cẩu
+DEFAULT.MEZZAN,Mezzanine van,메 자닌 밴,Xe tải thùng lửng
+DEFAULT.FREEZING_BODY,Truck with freezing body,냉동 트럭,Xe thùng bảo ôn (đông lạnh)
+DEFAULT.CLOSED_BODY,Truck with closed body,폐쇄형 트럭,Xe tải thùng kín
+DEFAULT.PAYMENT_TYPE_LABEL,Payment Type,결제 유형,Loại thanh toán
+DEFAULT.PAYMENT_TITLE,Default Payment Setting,기본 결제 설정,Quản lý thanh toán
+DEFAULT.INSTANT_CASH,Instant (Cash),즉시 (현금),Trả ngay (Tiền mặt)
+DEFAULT.INSTANT_BANK,Instant (Bank transfer),즉시 (은행 송금),Trả ngay (Chuyển khoản)
+DEFAULT.POST_PAID_15,Post Paid (15 days),후불 (15일),Trả sau (15 ngày)
+DEFAULT.POST_PAID_30,Post Paid (30 days),후불 (30일),Trả sau (30 ngày)
+DEFAULT.POST_PAID_45,Post Paid (45 days),후불 (45일),Trả sau (45 ngày)
+DEFAULT.OTHER,Others,기타,Khác
+DEFAULT.PAYMENT_TYPE_PLACEHOLDER,Choose Payment Type,결제 유형 선택,Chọn loại thanh toán
+DEFAULT.ADDRESS_PLACEHOLDER,Address (as in Business license),주소 (사업자등록증),Địa chỉ ( trên giấy phép doanh nghiệp)
+DEFAULT.COMPANY_PLACEHOLDER,Company name,회사명,Tên doanh nghiệp
+DEFAULT.BUSSINESS_PLACEHOLDER,Business license NO,사업자등록번호,Mã số doanh nghiệp
+DEFAULT.EMAIL_PLACEHOLDER,Emails (to send e-invoice),이메일 (전자 인보이스 발송용),Email nhận hoá đơn điện tử
+BANK.COMPANY,Company name,회사명,Tên công ty
+BANK.NAME,Bank Name,은행 이름,Tên ngân hàng
+BANK.BRANCH,Bank Branch,은행 지점,Chi nhánh
+BANK.OWNER,Bank Account Holder Name,은행 계좌 소유자 이름,Tên chủ tài khoản
+BANK.NUMBER,Bank Account Number,은행 계좌 번호,Số tài khoản
+BANK.BUSSINESS,Business license No,기업등록증 번호,Mã số doanh nghiệp
+PRICING.TITLE,Pricing setting,가격 설정,Cài đặt giá
+PRICING.ON_OFF,Turn ON/OFF settings,켜기 / 끄기 설정,Mở/ Tắt cài đặt
+PRICING.BASE_FARE,Base Fare,기본 요금,Giá khởi điểm
+PRICING.SAME_ZONE,Within the same zone,동일 구역 내,Trong cùng Khu vực
+PRICING.PICKUP_AREA,Pick up zone area,상차 지역,Khu vực lấy hàng
+PRICING.DROPOFF_AREA,Drop off zone area,하차 지역,Khu vực giao hàng
+PRICING.PAYLOAD,Payload,탑재량,Tải trọng
+PRICING.COST,Cost,요금,Chi phí
+PRICING.INPUT_PLACEHOLDER,Input price,가격 입력,Nhập giá
+PRICING.FROM,From,에서,Từ
+PRICING.TO,To,로,Đến
+PRICING.ZONE_NOT_APPLICABLE,(if zone charges are not applicable),(구역 요금이 적용되지 않는 경우),Nếu giá theo khu vực không áp dụng
+PRICING.COST_PER_KM,Cost per km,km 별 요금,Giá trên mỗi km
+PRICING.MULTIPLE_STOPS,Multiple stops,여러 정차,Nhiều điểm giao hàng
+PRICING.SPECIAL_DANGEROUS_GOODS,Special/ Dangerous Goods,특수 및 위험물,Mặt hàng đặc biệt/ nguy hiểm
+PRICING.HEAVY_CARGO,Heavy cargo Load >,무거운 물건,Hàng nặng >
+PRICING.PRICE_OPTION,Price option,가격 옵션,"Cách tính giá (tỉ lệ %, giá trị tuyệt đối)"
+PRICING.DYNAMIC_ITEMS_TITLE,Other Dynamic Charges,기타 비용,Các chi phí động khác
+PRICING.USE_THIS_SETTING,Use this setting,이 설정 사용,Sử dụng Cài đặt này
+PRICING.ZONE_FARE_LABEL,Zone Charges,구역 요금,Giá theo khu vực
+PRICING.ZONE_FARE_INFO,"Adjust the base fare based on pickup and drop off zones. If zone based setting already applies, system will not apply distance based setting",픽업 및 하차 구역에 따라 기본 요금을 조정합니다. 구역 기반 설정이 이미 적용된 경우 시스템은 거리 기반 설정을 적용하지 않습니다.,"Điều chỉnh giá khởi điểm dựa trên khu vực lấy hàng và giao hàng. Nếu Cài đặt dựa trên Khu vực đã được áp dụng, hệ thống sẽ không áp dụng Cài đặt dựa trên Khoảng cách"
+PRICING.DISTANCE_FARE_LABEL,Distance Charges,거리 요금,Giá theo quãng đường
+PRICING.MULTIPLE_CHARGE,Multiple Stops Charges,다중 경유 요금,Giá theo nhiều điểm giao hàng
+PRICING.PAYLOAD_FARE_LABEL,Adjust Base fare by Payload,탑재량 요금,Điều chỉnh giá khởi điểm theo Tải trọng
+PRICING.PERCENTAGE,%,%,%
+PRICING.VALUE,value,값,Giá trị
+PRICING.BASE_FARE_PER_TRUCK_TYPE,Starting fare per Truck Type,트럭 유형 별 기본 가격,Giá khởi điểm theo loại xe
+PRICING.DIFFERENT_ABOVE,(if different from above),(상기와 다를 경우),(cài đặt nếu khác bên trên)
+PRICING.BASE_FARE_TRACTOR_LABEL,Starting fare for Trailor Tractor,트레일러 트럭터의 기본 가격,Giá khởi điểm cho Xe Containers
+PRICING.BASE_FARE_NORMAL_LABEL,Starting fare for Normal Truck,일반 트럭의 기본 가격,Giá khởi điểm cho Xe Tải
+PRICING.SURCHARGES,Surcharges,할증료,Phụ phí bổ sung
+PRICING.COST_PER_STOP,Cost per stop,정차 당 비용,Phụ phí trên mỗi điểm giao hàng
+PRICING.ZONE_CHARGES,Zone Charges,,Giá theo khu vực
+PRICING.INVOICE_VAT,Invoice VAT,,Hóa đơn VAT
+PRICING.CHOOSE_LOCATION,Choose location,위치 선택,Chọn địa điểm
+IMPORTANT_NOTE.MENU_TITLE,Important Notes,,Thông tin quan trọng
+IMPORTANT_NOTE.CONFIRM,Confirm,,Xác nhận
+IMPORTANT_NOTE.NOT_SHOW_AGAIN,Don't show this again,,Không hiển thị lần sau
+IMPORTANT_NOTE.READ_MORE,Read more,,Xem thêm
+IMPORTANT_NOTE.SAME_ZONE,Within the same zone,,Trong cùng Khu vực
+IMPORTANT_NOTE.PICKUP_AREA,Pick up zone area,,Khu vực lấy hàng
+IMPORTANT_NOTE.DROPOFF_AREA,Drop off zone area,,Khu vực giao hàng
+IMPORTANT_NOTE.PAYLOAD,Payload,,Payload
+IMPORTANT_NOTE.COST,Cost,,Cost
+IMPORTANT_NOTE.INPUT_PLACEHOLDER,Input price,,Nhập giá
+IMPORTANT_NOTE.FROM,From,,Từ
+IMPORTANT_NOTE.TO,To,,Đến
+IMPORTANT_NOTE.ZONE_NOT_APPLICABLE,(if zone charges are not applicable),,Nếu giá theo khu vực không áp dụng
+IMPORTANT_NOTE.COST_PER_KM,Cost per km,,Giá trên mỗi km
+IMPORTANT_NOTE.MULTIPLE_STOPS,Multiple stops,,Nhiều điểm giao hàng
+IMPORTANT_NOTE.SPECIAL_DANGEROUS_GOODS,Special/ Dangerous Goods,,Mặt hàng đặc biệt/ nguy hiểm
+IMPORTANT_NOTE.HEAVY_CARGO,Heavy cargo Load >,,Hàng nặng >
+IMPORTANT_NOTE.PRICE_OPTION,Price option,,"Cách tính giá (tỉ lệ %, giá trị tuyệt đối)"
+IMPORTANT_NOTE.DYNAMIC_ITEMS_TITLE,Other Dynamic Charges,,Các chi phí động khác
+IMPORTANT_NOTE.USE_THIS_SETTING,Use this setting,,Sử dụng Cài đặt này
+IMPORTANT_NOTE.ZONE_FARE_LABEL,Zone Charges,,Giá theo khu vực
+IMPORTANT_NOTE.ZONE_FARE_INFO,"Adjust the base fare based on pickup and drop off zones. If zone based setting already applies, system will not apply distance based setting",,"Điều chỉnh giá khởi điểm dựa trên khu vực lấy hàng và giao hàng. Nếu Cài đặt dựa trên Khu vực đã được áp dụng, hệ thống sẽ không áp dụng Cài đặt dựa trên Khoảng cách"
+IMPORTANT_NOTE.DISTANCE_FARE_LABEL,Distance Charges,,Giá theo quãng đường
+IMPORTANT_NOTE.PAYLOAD_FARE_LABEL,Payload Charge,,Điều chỉnh giá khởi điểm theo Tải trọng
+IMPORTANT_NOTE.PERCENTAGE,%,,%
+IMPORTANT_NOTE.VALUE,value,,Giá trị
+IMPORTANT_NOTE.BASE_FARE_PER_TRUCK_TYPE,Starting fare per Truck Type,,Giá khởi điểm theo loại xe
+IMPORTANT_NOTE.DIFFERENT_ABOVE,(if different from above),,(cài đặt nếu khác bên trên)
+IMPORTANT_NOTE.BASE_FARE_TRACTOR_LABEL,Starting fare for Trailor Tractor,,Giá khởi điểm cho Xe Containers
+IMPORTANT_NOTE.BASE_FARE_NORMAL_LABEL,Starting fare for Normal Truck,,Giá khởi điểm cho Xe Tải
+IMPORTANT_NOTE.SURCHARGES,Surcharges,,Phụ phí bổ sung
+IMPORTANT_NOTE.COST_PER_STOP,Cost per stop,,Phụ phí trên mỗi điểm giao hàng
+IMPORTANT_NOTE.INVOICE_VAT,Invoice VAT,,Hóa đơn VAT
+IMPORTANT_NOTE.VAT_INFORMATION,VAT information,,Thông tin VAT
+SEARCH.ALL,Search All,모두 검색,Tất cả
+SEARCH.MULTIPLE,Search By Fields,필드로 검색,Lọc theo
+SETTINGS.LOGO,Logo,로고,Logo
+SETTINGS.QR,QR img,QR 이미지,Hình ảnh QR
+SETTINGS.QR_TEXT,QR label,QR 라벨,QR label
+SETTINGS.FACEBOOK_LINK,Facebook link,페이스북 링크,Đường dẫn facebook
+SETTINGS.FACEBOOK_TEXT,Facebook text,페이스북 문자,Nhãn facebook footer
+SETTINGS.EMAIL,Email,이메일,Email
+SETTINGS.PHONE_NUMBER,Phone number,전화 번호,Số điện thoại
+SETTINGS.IMAGE_SIZE,"Image size < 3MB, (130px x 40px)","이미지 크기 < 3MB, (130px x 40px)","Kích thước < 3MB, (130px x 40px)"
+SETTINGS.IMAGE_SIZE_QR,"Image size < 3MB, (36px x 36px)","이미지 크기 < 3MB, (130px x 40px)","kích thước < 3MB, (36px x 36px)"
+SETTINGS.COMPANY_NAME,Brand name,브랜드 이름,Tên công ty
+SETTINGS.YELLOW,Yellow,노랑색,Vàng
+SETTINGS.PINK,Pink,핑크색,Hồng
+SETTINGS.ORANGE,Orange,주황색,Cam
+SETTINGS.GREEN,Green,초록색,Xanh lá
+SETTINGS.BLUE,Blue,파랑색,Xanh da trời
+SETTINGS.GREY,Grey,회색,Xám
+SETTINGS.DARK_GREEN,Dark green,짙은 녹색,Xanh đen
+SETTINGS.BLACK,Black,검정색,Đen
+SETTINGS.DEFAULT_COLOR,Theme color,테마 색상,Màu chủ đạo
+SETTINGS.CONT_20,Container 20,Container 20',Container 20'
+SETTINGS.CONT_40,Container 40,Container 40',Container 40'
+SETTINGS.CONT_45,Container 45,Container 45',Container 45'
+SETTINGS.FOOTER,Footer contact infomation,,Thông tin footer
+SETTINGS.THEME_AND_LOGO,Theme & Logo setting,,Cài đặt màu chủ đạo và logo
+SETTINGS.ORDER_QUANTITY,Setting order quantity,,Cài đặt giới hạn số lượng đơn hàng
+SETTINGS.MONTHLY_ORDER,Maximum order per calendar month,,Đơn hàng tối đa mỗi tháng
+IMPORT.LABEL,Multiple order,Multiple order,Tạo nhiều đơn hàng
+IMPORT.FROM_EXCEL,Upload from excel,Upload from excel,Đăng tải từ Excel
+IMPORT.DOWNLOAD_TEMPLATE,Download multiple orders template,Download multiple orders template,Tải tệp mẫu cho Danh sách đơn hàng
+IMPORT.UPLOAD,Upload your multiple orders file,Upload your multiple orders file,Đăng tải Danh sách đơn hàng
+IMPORT.DRAG,Drag & Drop the excel file containing multiple orders infomation,Drag & Drop the excel file containing multiple orders infomation,Kéo và thả tệp excel chứa Danh sách đơn hàng
+IMPORT.SELECT,Select file,Select file,Chọn tệp
+IMPORT.DOWNLOAD_BUTTON,Download,Download,Tải về
+IMPORT.TEMPLATE,Template,Template,Tệp mẫu
+IMPORT.UPLOAD_BUTTON,Upload,Upload,Đăng tải
+IMPORT.OR,—— OR ——,—— OR ——,—— HOẶC ——
+PRICE_QUOTATION.TITLE,Price quotation setup,Price quotation setup,Price quotation setup
+PRICE_QUOTATION.STANDARD_LICENSE,Standard license,Standard license,Standard license
+PRICE_QUOTATION.PREMIUM_LICENSE,Premium license,Premium license,Premium license
+PRICE_QUOTATION.NAME,Name,Name,Name
+PRICE_QUOTATION.TO_CUSTOMER,To customer,To customer,To customer
+PRICE_QUOTATION.LAST_UPDATED_TIME,Last updated time,Last updated time,Last updated time
+PRICE_QUOTATION.LAST_UPDATED_BY,Last updated by,Last updated by,Last updated by
+PRICE_QUOTATION.STATUS,Status,Status,Status
+PRICE_QUOTATION.DRAFT,Draft,Draft,Draft
+PRICE_QUOTATION.PUBLISHED,Published,Published,Published
+PRICE_QUOTATION.ADD_NEW,Add new,Add new,Add new
+PRICE_QUOTATION.ALL_CUSTOMER,All customer,All customer,All customer
+PRICE_QUOTATION.ADD_NEW_POPUP_TITLE,Add new quotation,Add new quotation,Add new quotation
+PRICE_QUOTATION.EDIT_POPUP_TITLE,Edit quotation,Edit quotation,Edit quotation
+PRICE_QUOTATION.OK,OK,OK,OK
+PRICE_QUOTATION.CANCEL,Cancel,Cancel,Cancel
+PRICE_QUOTATION.CURRENCY,Currency,Currency,Currency
+PRICE_QUOTATION.NOTE_TITLE,Additional charges/notes,Additional charges/notes,Additional charges/notes
+PRICE_QUOTATION.NOTE_PLACEHOLDER,"1. VAT
+2. Overnight charges
+3. Labour cost","1. VAT
+2. Overnight charges
+3. Labour cost","1. VAT
+2. Overnight charges
+3. Labour cost"
+PRICE_QUOTATION.SAVE,Save,Save,Save
+PRICE_QUOTATION.FROM,From,From,From
+PRICE_QUOTATION.TO,To,To,To
+PRICE_QUOTATION.DEL_ROW,Delete row,Delete row,Delete row
+PRICE_QUOTATION.ADD_ROW,Insert row,Insert row,Insert row
+PRICE_QUOTATION.ADD_ROW_ABOVE,Above,Above,Above
+PRICE_QUOTATION.ADD_ROW_BELOW,Below,Below,Below
+PRICE_QUOTATION.DEL_COLUMN,Delete column,Delete column,Delete column
+PRICE_QUOTATION.ADD_COLUMN,Insert column,Insert column,Insert column
+PRICE_QUOTATION.ADD_COLUMN_LEFT,Left,Left,Left
+PRICE_QUOTATION.ADD_COLUMN_RIGHT,Right,Right,Right
+PRICE_QUOTATION.UPGRADE_LICENSE,Upgrade to premium license to enjoy advance features such as setting price quotation per client,Upgrade to premium license to enjoy advance features such as setting price quotation per client,Upgrade to premium license to enjoy advance features such as setting price quotation per client
+QUOTATION.NAME,Name,Name,Name
+QUOTATION.UPDATED_DATE,Updated Date,Updated Date,Updated Date
+QUOTATION.CURRENCY,Currency,Currency,Currency
+QUOTATION.FROM,From,From,From
+QUOTATION.TO,To,To,To
+QUOTATION.ADDITIONAL_CHARGES,ADDITIONAL CHARGES / NOTES,ADDITIONAL CHARGES / NOTES,ADDITIONAL CHARGES / NOTES
+QUOTATION.DOWNLOAD,Download,Download,Download
+QUOTATION.TITLE,Price quotation for trucking,Price quotation for trucking,Price quotation for trucking
+TRACKING.SETUP,Tracking setup,Tracking setup,Tracking setup
+TRACKING.UPGRADE_REQUEST,Premium license can see realtime tracking through GPS device and Map. Standard license can see order's tracking status only.,Premium license can see realtime tracking through GPS device and Map. Standard license can see order's tracking status only.,Premium license can see realtime tracking through GPS device and Map. Standard license can see order's tracking status only.
+TRACKING.DISPLAY_FROM,Display GPS device information from,Display GPS device information from,Display GPS device information from
+TRACKING.DISPLAY_ON,Display GPS device - Route review information in,Display GPS device - Route review information in,Display GPS device - Route review information in
+TRACKING.ON_CUSTOMER,Customer,Customer,Customer
+TRACKING.ON_TRUCKOWNER,Truckowner,Truckowner,Truckowner
+TRACKING.UPGRADE,Upgrade License,Upgrade License,Upgrade License
+TRACKING.REQUEST_UPGRADE,Request for upgrade,Request for upgrade,Request for upgrade
+TRACKING.SUB_TITLE,Thank you for using TaaS Truck. Let’s upgrade to premium license to enjoy advanced features and instant support around the clock.,Thank you for using TaaS Truck. Let’s upgrade to premium license to enjoy advanced features and instant support around the clock.,Thank you for using TaaS Truck. Let’s upgrade to premium license to enjoy advanced features and instant support around the clock.
+TRACKING.UPGRADE_HEADER,Upgrade TaaS Truck license,Upgrade TaaS Truck license,Upgrade TaaS Truck license
+LICENSE.THANK_YOU,Thank you for your request. We will get back to you as soon as possible on the purchase. Please contact us at hotro@tada.global if you have any other request,Thank you for your request. We will get back to you as soon as possible on the purchase. Please contact us at hotro@tada.global if you have any other request,Thank you for your request. We will get back to you as soon as possible on the purchase. Please contact us at hotro@tada.global if you have any other request
+LICENSE.NOTES,Notes,Notes,Notes

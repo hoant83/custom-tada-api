@@ -1,0 +1,23 @@
+{
+    "en": {
+        "ORDER_ACCEPTED": "Truck Owner [PartnerID] accepted order [orderID]",
+        "ORDER_CANCELLED": "Truck Owner [PartnerID] cancelled order [orderID]",
+        "DRIVER_PICKUP": "Driver is on the way to pick up your order [orderID]",
+        "DRIVER_DELIVERY": "Driver is on the way to deliver your order [orderID]",
+        "ORDER_COMPLETE": "Your order [orderID] is completed successfully"
+    },
+    "vi": {
+        "ORDER_ACCEPTED": "Chủ xe [PartnerID] đã chấp nhận đơn hàng [orderID]",
+        "ORDER_CANCELLED": "Chủ xe [PartnerID] đã hủy đơn hàng [orderID]",
+        "DRIVER_PICKUP": "Tài xế đang trên đường đến lấy đơn hàng [orderID]",
+        "DRIVER_DELIVERY": "Tài xế đang trên đường đi giao đơn hàng [orderID]",
+        "ORDER_COMPLETE": "Đơn hàng [orderID] đã hoàn thành"
+    },
+    "kr": {
+        "ORDER_ACCEPTED": "트럭 사업자[PartnerID]가 주문 [orderID]을 승인했습니다.",
+        "ORDER_CANCELLED": "트럭 사업자[PartnerID]가 주문 [orderID]을 취소했습니다.",
+        "DRIVER_PICKUP": "트럭 운전사가 주문[orderID]을 픽업하러 가고 있습니다.",
+        "DRIVER_DELIVERY": "고객님의 주문[orderID]이 배송 중입니다.",
+        "ORDER_COMPLETE": "고객님의 주문[orderID]이 완료되었습니다."
+    }
+}
